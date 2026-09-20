@@ -4,18 +4,12 @@ An enterprise-grade, end-to-end data engineering and business intelligence solut
 
 ---
 
-## 🔗 Project Access Points
-* 📊 **[Interactive Executive Dashboard](PASTE_YOUR_POWER_BI_SERVICE_LINK_HERE)** — *Explore the live, production-ready 4-page Power BI asset intelligence workspace.*
-* 💻 **[Data Engineering Pipeline (Google Colab)](PASTE_YOUR_COLAB_SHARE_LINK_HERE)** — *Review the production-ready Python orchestration script, data validation, and modeling logic.*
-
----
-
 ## 🔬 Core Architectural Blueprint (AART Framework)
 
 * **Strategic Objective (Aim):** To architect a scalable analytics pipeline that ingests flat transactional records and transforms them into a feature-engineered financial data model to fuel a multi-page executive BI architecture.
 * **Technical Execution (Action):** Programmed automated ETL scripts in **Python** utilizing a cloud-hosted **Google Colab** environment. Normalized raw temporal fields, engineered relative transactional yields, modeled automated drag-coefficients using asset expense thresholds, and computed non-linear performance efficiency metrics across distinct asset classes.
 * **Business Impact (Result):** Successfully engineered a 1,000-record high-fidelity database, seamlessly integrated via a star-schema data model into a 4-page **Power BI** application, empowering portfolio managers to identify systemic cost drags and monitor macro performance trends.
-* **Technology Stack:** Python (Pandas, NumPy), Google Colab, Microsoft Excel, Power BI Service.
+* **Technology Stack:** Python (Pandas, NumPy), Google Colab, Microsoft Excel, Power BI Desktop.
 
 ---
 
