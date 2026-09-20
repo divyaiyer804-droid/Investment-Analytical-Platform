@@ -1,0 +1,1001 @@
+Investment_ID,Investment_Type,Asset_Name,Category,Investment_Amount,Investment_Date,Current_Value,Returns_Percentage,Risk_Level,NAV_Unit,Units_Held,Expense_Ratio,Portfolio_Allocation,Investment_Year,Investment_Quarter,Investment_Month_Name,Yearly_Dominance_Tag,Asset_Tactical_Class,Net_Absolute_Profit_INR,Annual_Expense_Cost_INR,Asset_Efficiency_Index
+1,Mutual Fund,HDFC Top 100 Fund,Large Cap,50000,15-01-2023,58750,17.5,High,1850.25,27.02,1.05,8.5,2023,1,January,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,8750,525,15.2173913
+2,Mutual Fund,ICICI Prudential Bluechip Fund,Large Cap,75000,20-02-2023,86250,15,Medium,1245.5,60.24,1.02,12.75,2023,1,February,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,11250,765,13.39285714
+3,Stock,Reliance Industries,Blue Chip,100000,10-03-2023,118000,18,Medium,2580.75,38.75,0,17,2023,1,March,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,18000,0,180
+4,Mutual Fund,SBI Small Cap Fund,Small Cap,30000,05-04-2023,35100,17,High,56.8,618.31,1.75,5.1,2023,2,April,2023: Stock & Active Equity Market Boom,High Yield - Premium Cost,5100,525,9.189189189
+5,Stock,TCS,Blue Chip,80000,12-05-2023,90400,13,Low,3620,22.1,0,13.6,2023,2,May,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,10400,0,130
+6,Mutual Fund,Axis Midcap Fund,Mid Cap,45000,18-06-2023,53100,18,High,125.4,358.82,1.25,7.65,2023,2,June,2023: Stock & Active Equity Market Boom,High Yield - Premium Cost,8100,562.5,13.33333333
+7,Stock,HDFC Bank,Blue Chip,65000,22-07-2023,73475,13,Low,1580.5,41.13,0,11.05,2023,3,July,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,8475,0,130
+8,Mutual Fund,Mirae Asset Large Cap Fund,Large Cap,55000,30-08-2023,61600,12,Medium,980.2,56.12,1.03,9.35,2023,3,August,2023: Stock & Active Equity Market Boom,Standard Asset Profile,6600,566.5,10.61946903
+9,Stock,Infosys,Blue Chip,40000,14-09-2023,45200,13,Medium,1475.25,27.12,0,6.8,2023,3,September,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,5200,0,130
+10,Mutual Fund,Kotak Emerging Equity Fund,Mid Cap,35000,08-10-2023,41300,18,High,82.15,426.11,1.45,5.95,2023,4,October,2023: Stock & Active Equity Market Boom,High Yield - Premium Cost,6300,507.5,11.61290323
+11,Mutual Fund,UTI Nifty 50 Index Fund,Index Fund,60000,20-11-2023,68400,14,Low,210.5,285.04,0.5,10.2,2023,4,November,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,8400,300,23.33333333
+12,Stock,Bharti Airtel,Blue Chip,50000,05-12-2023,56000,12,Medium,1120,44.64,0,8.5,2023,4,December,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,6000,0,120
+13,Mutual Fund,Parag Parikh Flexi Cap Fund,Flexi Cap,70000,10-01-2024,79800,14,Medium,532.5,131.26,1.1,11.9,2024,1,January,2024: Mutual Fund Consistency Era,Standard Asset Profile,9800,770,11.66666667
+14,Stock,ITC,Blue Chip,45000,15-02-2024,50850,13,Low,450.25,112.87,0,7.65,2024,1,February,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,5850,0,130
+15,Mutual Fund,Tata Digital India Fund,Sectoral,40000,20-03-2024,44800,12,High,48.9,818,1.8,6.8,2024,1,March,2024: Mutual Fund Consistency Era,Standard Asset Profile,4800,720,6.315789474
+16,Stock,HCL Tech,Blue Chip,55000,25-04-2024,62700,14,Medium,1254,43.86,0,9.35,2024,2,April,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,7700,0,140
+17,Mutual Fund,PGIM India Midcap Opportunities,Mid Cap,38000,30-05-2024,44820,18,High,68.2,657.48,1.5,6.46,2024,2,May,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,6820,570,11.25
+18,Stock,Larsen & Toubro,Blue Chip,85000,12-06-2024,97750,15,Medium,3210.5,26.46,0,14.45,2024,2,June,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,12750,0,150
+19,Mutual Fund,Bandhan Small Cap Fund,Small Cap,25000,18-07-2024,29500,18,High,42.8,689.72,1.95,4.25,2024,3,July,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,4500,487.5,8.780487805
+20,Stock,Maruti Suzuki,Blue Chip,60000,22-08-2024,69000,15,Medium,10350,6.67,0,10.2,2024,3,August,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,9000,0,150
+21,Mutual Fund,Nippon India Small Cap Fund,Small Cap,32000,05-09-2024,37440,17,High,52.15,617.83,1.85,5.44,2024,3,September,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,5440,592,8.717948718
+22,Stock,Wipro,Blue Chip,30000,10-10-2024,33600,12,Medium,448,67,0,5.1,2024,4,October,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,3600,0,120
+23,Mutual Fund,SBI Magnum Multicap Fund,Multicap,48000,15-11-2024,55680,16,Medium,185.6,300,1.15,8.16,2024,4,November,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,7680,552,12.8
+24,Stock,Axis Bank,Blue Chip,42000,20-12-2024,48300,15,Medium,1070,39.25,0,7.14,2024,4,December,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,6300,0,150
+25,Mutual Fund,Franklin India Prima Fund,Mid Cap,36000,25-01-2025,42120,17,High,72.8,494.51,1.3,6.12,2025,1,January,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,6120,468,12.14285714
+26,Stock,Mahindra & Mahindra,Blue Chip,55000,28-02-2025,63250,15,Medium,1765,31.16,0,9.35,2025,1,February,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,8250,0,150
+27,Mutual Fund,Aditya Birla Sun Life Frontline Equity,Large Cap,65000,15-03-2025,73475,13,Medium,587.8,110.5,1,11.05,2025,1,March,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,8475,650,11.81818182
+28,Stock,Sun Pharma,Blue Chip,70000,20-04-2025,81200,16,Medium,1624,43.1,0,11.9,2025,2,April,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,11200,0,160
+29,Mutual Fund,IDFC Core Equity Fund,Large Cap,52000,25-05-2025,59280,14,Medium,118.56,500,1.08,8.84,2025,2,May,2025: ETF Efficiency & Index Surge,Standard Asset Profile,7280,561.6,11.86440678
+30,Stock,Bajaj Finance,Blue Chip,45000,30-06-2025,52200,16,High,7830,6.64,0,7.65,2025,2,June,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,7200,0,160
+31,Mutual Fund,Tata Equity P/E Fund,Value Fund,40000,10-07-2025,45600,14,Medium,152,263.16,1.12,6.8,2025,3,July,2025: ETF Efficiency & Index Surge,Standard Asset Profile,5600,448,11.47540984
+32,Stock,Asian Paints,Blue Chip,38000,15-08-2025,42180,11,Low,2812,13.51,0,6.46,2025,3,August,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,4180,0,110
+33,Mutual Fund,Quant Small Cap Fund,Small Cap,28000,20-09-2025,32760,17,High,38.2,758.12,2.1,4.76,2025,3,September,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,4760,588,7.727272727
+34,Stock,Nestle India,Blue Chip,50000,25-10-2025,54500,9,Low,27250,1.83,0,8.5,2025,4,October,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,4500,0,90
+35,Mutual Fund,Canara Robeco Equity Diversified,Multicap,43000,30-11-2025,49880,16,Medium,83.2,516.83,1.18,7.31,2025,4,November,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,6880,507.4,12.5
+36,Stock,Hindustan Unilever,Blue Chip,60000,15-12-2025,64200,7,Low,2414,24.85,0,10.2,2025,4,December,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,4200,0,70
+37,Mutual Fund,Union Small Cap Fund,Small Cap,30000,20-01-2026,35100,17,High,45.2,776.54,1.9,5.1,2026,1,January,2026: Commodity & High-Volatility Balanced Market,High Yield - Premium Cost,5100,570,8.5
+38,Stock,Dr Reddy's Labs,Blue Chip,35000,25-02-2026,39550,13,Medium,5521,6.34,0,5.95,2026,1,February,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,4550,0,130
+39,Mutual Fund,Sundaram Midcap Fund,Mid Cap,46000,30-03-2026,53380,16,High,76.8,694.79,1.35,7.82,2026,1,March,2026: Commodity & High-Volatility Balanced Market,High Yield - Premium Cost,7380,621,11.03448276
+40,Stock,Titan Company,Blue Chip,42000,10-04-2026,47880,14,Medium,3192,13.15,0,7.14,2026,2,April,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,5880,0,140
+41,Mutual Fund,Invesco India Growth Fund,Mid Cap,34000,15-05-2026,39440,16,Medium,112,352.14,1.22,5.78,2026,2,May,2026: Commodity & High-Volatility Balanced Market,High Yield - Premium Cost,5440,414.8,12.12121212
+42,Stock,Bajaj Auto,Blue Chip,48000,20-06-2026,53760,12,Low,7463,6.43,0,8.16,2026,2,June,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,5760,0,120
+43,Mutual Fund,Edelweiss Large Cap Fund,Large Cap,58000,25-07-2026,65320,12.6,Medium,326.6,177.66,1.06,9.86,2026,3,July,2026: Commodity & High-Volatility Balanced Market,Standard Asset Profile,7320,614.8,10.86206897
+44,Stock,Divi's Labs,Blue Chip,52000,30-08-2026,58760,13,Medium,4896.67,10.63,0,8.84,2026,3,August,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,6760,0,130
+45,Mutual Fund,PPFAS Flexi Cap Fund,Flexi Cap,62000,05-09-2026,70680,14,Medium,706.8,87.78,1.15,10.54,2026,3,September,2026: Commodity & High-Volatility Balanced Market,Standard Asset Profile,8680,713,11.2
+46,Stock,ICICI Bank,Blue Chip,55000,10-10-2026,62150,13,Low,1243,44.25,0,9.35,2026,4,October,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,7150,0,130
+47,Mutual Fund,HSBC Large Cap Fund,Large Cap,48000,15-11-2026,54240,13,Medium,271.2,177.04,1.04,8.16,2026,4,November,2026: Commodity & High-Volatility Balanced Market,Standard Asset Profile,6240,499.2,11.40350877
+48,Stock,State Bank of India,Blue Chip,60000,20-12-2026,69000,15,Medium,690,86.96,0,10.2,2026,4,December,2026: Commodity & High-Volatility Balanced Market,High Yield - Cost Efficient,9000,0,150
+49,Mutual Fund,Kotak Bluechip Fund,Large Cap,53000,10-01-2023,60590,14.2,Medium,242.36,218.69,1.01,9.02,2023,1,January,2023: Stock & Active Equity Market Boom,Standard Asset Profile,7590,535.3,12.79279279
+50,Stock,Godrej Consumer Products,Blue Chip,38000,15-02-2023,42930,12.9,Low,1148.5,33.06,0,6.46,2023,1,February,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,4930,0,129
+51,Mutual Fund,Bank of India Large Cap Fund,Large Cap,45000,20-03-2023,51300,14,Medium,342,131.58,1.07,7.65,2023,1,March,2023: Stock & Active Equity Market Boom,Standard Asset Profile,6300,481.5,11.96581197
+52,Stock,Britannia Industries,Blue Chip,42000,25-04-2023,48300,15,Low,4830,8.7,0,7.14,2023,2,April,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,6300,0,150
+53,Mutual Fund,L&T Emerging Businesses Fund,Mid Cap,36000,30-05-2023,42480,18,High,64.8,655.56,1.55,6.12,2023,2,May,2023: Stock & Active Equity Market Boom,High Yield - Premium Cost,6480,558,10.90909091
+54,Stock,Grasim Industries,Blue Chip,50000,10-06-2023,57500,15,Medium,1916.67,26.09,0,8.5,2023,2,June,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,7500,0,150
+55,Mutual Fund,Baroda BNP Paribas Large Cap Fund,Large Cap,52000,15-07-2023,58880,13.2,Medium,294.4,176.77,1.03,8.84,2023,3,July,2023: Stock & Active Equity Market Boom,Standard Asset Profile,6880,535.6,11.68141593
+56,Stock,UPL,Blue Chip,28000,20-08-2023,31920,14,Medium,398,70.35,0,4.76,2023,3,August,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,3920,0,140
+57,Mutual Fund,IIFL Focused Equity Fund,Focused Fund,40000,25-09-2023,45600,14,Medium,456,87.72,1.28,6.8,2023,3,September,2023: Stock & Active Equity Market Boom,Standard Asset Profile,5600,512,10.14492754
+58,Stock,Zomato,Mid Cap,25000,30-10-2023,30000,20,High,150,166.67,0,4.25,2023,4,October,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,5000,0,200
+59,Mutual Fund,Samco Active Equity Fund,Focused Fund,35000,05-11-2023,40250,15,Medium,80.5,434.78,1.75,5.95,2023,4,November,2023: Stock & Active Equity Market Boom,High Yield - Premium Cost,5250,612.5,8.108108108
+60,Stock,Nykaa,Mid Cap,22000,10-12-2023,26180,19,High,130.9,168.6,0,3.74,2023,4,December,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,4180,0,190
+61,Mutual Fund,WhiteOak Capital Midcap Fund,Mid Cap,38000,15-01-2024,44820,18,High,62.7,605.74,1.48,6.46,2024,1,January,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,6820,562.4,11.39240506
+62,Stock,Paytm,Mid Cap,18000,20-02-2024,19800,10,High,396,45.45,0,3.06,2024,1,February,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,1800,0,100
+63,Mutual Fund,ITI Midcap Fund,Mid Cap,32000,25-03-2024,37760,18,High,47.2,677.97,1.52,5.44,2024,1,March,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,5760,486.4,11.11111111
+64,Stock,Dreamfolks Services,Small Cap,15000,30-04-2024,17700,18,High,295,60,0,2.55,2024,2,April,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,2700,0,180
+65,Mutual Fund,Helios Midcap Fund,Mid Cap,40000,05-05-2024,47200,18,High,78.67,508.33,1.42,6.8,2024,2,May,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,7200,568,11.84210526
+66,Stock,Nuvo,Small Cap,12000,10-06-2024,14040,17,High,234,51.28,0,2.04,2024,2,June,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,2040,0,170
+67,Mutual Fund,Motilal Oswal Midcap Fund,Mid Cap,36000,15-07-2024,42480,18,High,60.69,593.2,1.5,6.12,2024,3,July,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,6480,540,11.25
+68,Stock,Tata Elxsi,Mid Cap,28000,20-08-2024,32200,15,Medium,805,34.78,0,4.76,2024,3,August,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,4200,0,150
+69,Mutual Fund,HSBC Midcap Fund,Mid Cap,42000,25-09-2024,49560,18,High,103.25,407.29,1.38,7.14,2024,3,September,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,7560,579.6,12.16216216
+70,Stock,Persistent Systems,Mid Cap,32000,30-10-2024,37120,16,Medium,698.67,45.79,0,5.44,2024,4,October,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,5120,0,160
+71,Mutual Fund,Nippon India Growth Fund,Mid Cap,38000,05-11-2024,43780,15.3,Medium,87.56,433.71,1.25,6.46,2024,4,November,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,5780,475,11.33333333
+72,Stock,L&T Technology Services,Mid Cap,26000,10-12-2024,29900,15,Medium,427.14,60.86,0,4.42,2024,4,December,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,3900,0,150
+73,Mutual Fund,ICICI Prudential Midcap Fund,Mid Cap,45000,15-01-2025,52650,17,High,75.21,597.01,1.32,7.65,2025,1,January,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,7650,594,11.97183099
+74,Stock,Happiest Minds,Mid Cap,20000,20-02-2025,23400,17,Medium,780,25.64,0,3.4,2025,1,February,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,3400,0,170
+75,Mutual Fund,Kotak Emerging Equity Fund,Mid Cap,40000,25-03-2025,46800,17,High,78,512.82,1.4,6.8,2025,1,March,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,6800,560,11.33333333
+76,Stock,Mphasis,Mid Cap,30000,30-04-2025,34500,15,Medium,2300,13.04,0,5.1,2025,2,April,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,4500,0,150
+77,Mutual Fund,Axis Midcap Fund,Mid Cap,48000,05-05-2025,56160,17,High,112.32,428.17,1.25,8.16,2025,2,May,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,8160,600,12.59259259
+78,Stock,Coforge,Mid Cap,35000,10-06-2025,40250,15,Medium,1610,21.74,0,5.95,2025,2,June,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,5250,0,150
+79,Mutual Fund,HDFC Mid-Cap Opportunities,Mid Cap,52000,15-07-2025,60840,17,High,169,307.69,1.3,8.84,2025,3,July,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,8840,676,12.14285714
+80,Stock,LTIMindtree,Mid Cap,45000,20-08-2025,51750,15,Medium,5175,8.7,0,7.65,2025,3,August,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,6750,0,150
+81,Mutual Fund,PGIM India Midcap Fund,Mid Cap,38000,25-09-2025,44460,17,High,111.15,342.03,1.48,6.46,2025,3,September,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,6460,562.4,10.75949367
+82,Stock,Tata Technologies,Mid Cap,28000,30-10-2025,32200,15,Medium,805,34.78,0,4.76,2025,4,October,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,4200,0,150
+83,Mutual Fund,Mirae Asset Midcap Fund,Mid Cap,42000,05-11-2025,48930,16.5,High,91.75,457.68,1.35,7.14,2025,4,November,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,6930,567,11.37931034
+84,Stock,Sensex ETF,ETF,100000,10-12-2025,115000,15,Low,575,200,0.15,17,2025,4,December,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,15000,150,60
+85,Mutual Fund,Nifty 50 ETF,ETF,80000,20-01-2023,91200,14,Low,228,350.88,0.1,13.6,2023,1,January,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,11200,80,70
+86,Stock,Bank Nifty ETF,ETF,75000,25-02-2023,86250,15,Medium,1725,43.48,0.2,12.75,2023,1,February,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,11250,150,50
+87,Mutual Fund,Gold ETF,ETF,50000,30-03-2023,56000,12,Low,280,200,0.25,8.5,2023,1,March,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,6000,125,34.28571429
+88,Stock,IT Index ETF,ETF,60000,05-04-2023,68400,14,Medium,228,300,0.15,10.2,2023,2,April,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,8400,90,56
+89,Mutual Fund,PSU Bank ETF,ETF,40000,10-05-2023,44800,12,Medium,89.6,500,0.18,6.8,2023,2,May,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,4800,72,42.85714286
+90,Stock,Infra ETF,ETF,55000,15-06-2023,63250,15,Medium,211.67,295.83,0.16,9.35,2023,2,June,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,8250,88,57.69230769
+91,Mutual Fund,Consumption ETF,ETF,45000,20-07-2023,51300,14,Low,256.5,175.25,0.12,7.65,2023,3,July,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,6300,54,63.63636364
+92,Stock,Pharma ETF,ETF,35000,25-08-2023,39900,14,Medium,133,300,0.15,5.95,2023,3,August,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,4900,52.5,56
+93,Mutual Fund,Auto ETF,ETF,40000,30-09-2023,45600,14,Medium,114,400,0.17,6.8,2023,3,September,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,5600,68,51.85185185
+94,Stock,Midcap ETF,ETF,50000,05-10-2023,57500,15,Medium,287.5,208.7,0.18,8.5,2023,4,October,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,7500,90,53.57142857
+95,Mutual Fund,Smallcap ETF,ETF,30000,10-11-2023,34500,15,High,172.5,200,0.22,5.1,2023,4,November,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,4500,66,46.875
+96,Stock,Value ETF,ETF,45000,15-12-2023,51300,14,Medium,171,300,0.16,7.65,2023,4,December,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,6300,72,53.84615385
+97,Mutual Fund,Dividend Yield ETF,ETF,40000,20-01-2024,45200,13,Low,151.33,264.29,0.14,6.8,2024,1,January,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,5200,56,54.16666667
+98,Stock,Quality ETF,ETF,55000,25-02-2024,62700,14,Low,209,300,0.13,9.35,2024,1,February,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,7700,71.5,60.86956522
+99,Mutual Fund,Low Volatility ETF,ETF,48000,30-03-2024,53760,12,Low,179.2,300,0.12,8.16,2024,1,March,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,5760,57.6,54.54545455
+100,Stock,Momentum ETF,ETF,42000,05-04-2024,48300,15,High,161,300,0.2,7.14,2024,2,April,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,6300,84,50
+101,Mutual Fund,Debt Fund - Dynamic Bond,Debt,100000,25-01-2023,107000,7,Low,21.4,5000,0.5,17,2023,1,January,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,7000,500,11.66666667
+102,Mutual Fund,Debt Fund - Corporate Bond,Debt,80000,28-02-2023,84800,6,Low,21.2,4000,0.45,13.6,2023,1,February,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,4800,360,10.90909091
+103,Mutual Fund,Debt Fund - Government Securities,Debt,75000,05-03-2023,79500,6,Low,26.5,3000,0.35,12.75,2023,1,March,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,4500,262.5,13.33333333
+104,Mutual Fund,Debt Fund - Short Duration,Debt,60000,10-04-2023,63000,5,Low,10.5,6000,0.4,10.2,2023,2,April,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,3000,240,10
+105,Mutual Fund,Debt Fund - Money Market,Debt,50000,15-05-2023,52500,5,Low,10.5,5000,0.3,8.5,2023,2,May,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,2500,150,12.5
+106,Mutual Fund,Debt Fund - Liquid Fund,Debt,150000,20-06-2023,156000,4,Low,10.4,15000,0.2,25.5,2023,2,June,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,6000,300,13.33333333
+107,Mutual Fund,Debt Fund - Ultra Short Duration,Debt,70000,25-07-2023,73500,5,Low,14.7,5000,0.35,11.9,2023,3,July,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,3500,245,11.11111111
+108,Mutual Fund,Debt Fund - Credit Risk,Debt,55000,30-08-2023,58850,7,Medium,11.77,5000,0.85,9.35,2023,3,August,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,3850,467.5,7.368421053
+109,Mutual Fund,Debt Fund - Banking & PSU,Debt,65000,04-09-2023,68250,5,Low,13.65,5000,0.4,11.05,2023,3,September,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,3250,260,10
+110,Mutual Fund,Debt Fund - Gilt Fund,Debt,45000,09-10-2023,47250,5,Low,15.75,3000,0.3,7.65,2023,4,October,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,2250,135,12.5
+111,Mutual Fund,Hybrid Fund - Equity Savings,Hybrid,60000,14-11-2023,66600,11,Low,11.1,6000,0.8,10.2,2023,4,November,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,6600,480,12.22222222
+112,Mutual Fund,Hybrid Fund - Conservative Hybrid,Hybrid,70000,19-12-2023,75600,8,Low,12.6,5873.02,0.75,11.9,2023,4,December,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,5600,525,9.411764706
+113,Mutual Fund,Hybrid Fund - Balanced Hybrid,Hybrid,80000,24-01-2024,89600,12,Medium,14.93,6008.04,1.1,13.6,2024,1,January,2024: Mutual Fund Consistency Era,Standard Asset Profile,9600,880,10
+114,Mutual Fund,Hybrid Fund - Aggressive Hybrid,Hybrid,90000,28-02-2024,102600,14,Medium,17.1,5999.42,1.15,15.3,2024,1,February,2024: Mutual Fund Consistency Era,Standard Asset Profile,12600,1035,11.2
+115,Mutual Fund,Hybrid Fund - Dynamic Asset Allocation,Hybrid,65000,05-03-2024,71500,10,Low,14.3,5000,0.9,11.05,2024,1,March,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,6500,585,10
+116,Mutual Fund,Hybrid Fund - Multi Asset Allocation,Hybrid,55000,10-04-2024,60500,10,Low,12.1,5000,0.95,9.35,2024,2,April,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,5500,522.5,9.523809524
+117,Mutual Fund,HDFC Children's Gift Fund,Children's Fund,50000,15-05-2024,57500,15,Medium,191.67,260.87,1.2,8.5,2024,2,May,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,7500,600,11.53846154
+118,Mutual Fund,ICICI Prudential Child Care Fund,Children's Fund,45000,20-06-2024,51750,15,Medium,172.5,300,1.18,7.65,2024,2,June,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,6750,531,11.71875
+119,Mutual Fund,SBI Children's Future Fund,Children's Fund,55000,25-07-2024,63250,15,Medium,211.67,300,1.15,9.35,2024,3,July,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,8250,632.5,12
+120,Mutual Fund,Axis Children's Gift Fund,Children's Fund,60000,30-08-2024,69000,15,Medium,230,300,1.22,10.2,2024,3,August,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,9000,732,11.36363636
+121,Mutual Fund,Kotak Assured Income,Retirement Fund,100000,04-09-2024,108000,8,Low,10.8,10000,0.8,17,2024,3,September,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,8000,800,8.888888889
+122,Mutual Fund,HDFC Retirement Savings Fund,Retirement Fund,120000,09-10-2024,130800,9,Low,13.08,10000,0.85,20.4,2024,4,October,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,10800,1020,9.473684211
+123,Mutual Fund,ICICI Prudential Retirement Fund,Retirement Fund,80000,14-11-2024,87200,9,Low,10.9,8000,0.82,13.6,2024,4,November,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,7200,656,9.782608696
+124,Mutual Fund,SBI Retirement Fund,Retirement Fund,90000,19-12-2024,98100,9,Low,10.9,9000,0.8,15.3,2024,4,December,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,8100,720,10
+125,Mutual Fund,Axis Retirement Fund,Retirement Fund,70000,24-01-2025,76300,9,Low,10.9,7000,0.78,11.9,2025,1,January,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,6300,546,10.22727273
+126,Mutual Fund,Tata Digital India Fund,Sectoral - Technology,50000,28-02-2025,57500,15,High,48.9,1022.49,1.8,8.5,2025,1,February,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,7500,900,7.894736842
+127,Mutual Fund,SBI Technology Opportunities Fund,Sectoral - Technology,45000,05-03-2025,52200,16,High,52.2,1000,1.75,7.65,2025,1,March,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,7200,787.5,8.648648649
+128,Mutual Fund,ICICI Prudential Technology Fund,Sectoral - Technology,55000,10-04-2025,63850,16,High,53.19,1200,1.78,9.35,2025,2,April,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,8850,979,8.510638298
+129,Mutual Fund,Kotak Technology Fund,Sectoral - Technology,40000,15-05-2025,46000,15,High,46,1000,1.72,6.8,2025,2,May,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,6000,688,8.241758242
+130,Mutual Fund,UTI Nifty 50 Value 20 Index Fund,Index Fund,65000,20-06-2025,74750,15,Low,14.95,4347.83,0.5,11.05,2025,2,June,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,9750,325,25
+131,Mutual Fund,Bandhan Nifty 50 Index Fund,Index Fund,60000,25-07-2025,68400,14,Low,13.68,4385.96,0.48,10.2,2025,3,July,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,8400,288,24.13793103
+132,Mutual Fund,Motilal Oswal Nifty 50 Index Fund,Index Fund,70000,30-08-2025,79800,14,Low,15.96,4385.96,0.52,11.9,2025,3,August,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,9800,364,22.58064516
+133,Mutual Fund,Axis Nifty 50 Index Fund,Index Fund,55000,04-09-2025,62700,14,Low,12.54,5000,0.45,9.35,2025,3,September,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,7700,247.5,25.45454545
+134,Mutual Fund,ICICI Prudential Nifty 50 Index Fund,Index Fund,80000,09-10-2025,91200,14,Low,18.24,5000,0.5,13.6,2025,4,October,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,11200,400,23.33333333
+135,Mutual Fund,Nippon India Nifty 50 Index Fund,Index Fund,75000,14-11-2025,85500,14,Low,17.1,5000,0.48,12.75,2025,4,November,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,10500,360,24.13793103
+136,Mutual Fund,Quant Absolute Return Fund,Hybrid,50000,19-12-2025,57500,15,Medium,57.5,1000,1.5,8.5,2025,4,December,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,7500,750,9.375
+137,Mutual Fund,Kotak Equity Hybrid Fund,Hybrid,60000,30-01-2023,68400,14,Medium,13.68,5000,1.12,10.2,2023,1,January,2023: Stock & Active Equity Market Boom,Standard Asset Profile,8400,672,11.47540984
+138,Mutual Fund,HDFC Balanced Advantage Fund,Hybrid,70000,04-02-2023,79100,13,Low,15.82,5000,0.95,11.9,2023,1,February,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,9100,665,12.38095238
+139,Mutual Fund,ICICI Prudential Balanced Advantage,Hybrid,80000,09-03-2023,90400,13,Low,18.08,5000,0.92,13.6,2023,1,March,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,10400,736,12.74509804
+140,Mutual Fund,SBI Balanced Fund,Hybrid,65000,14-04-2023,72800,12,Medium,14.56,5000,1.15,11.05,2023,2,April,2023: Stock & Active Equity Market Boom,Standard Asset Profile,7800,747.5,9.6
+141,Mutual Fund,Axis Balanced Fund,Hybrid,55000,19-05-2023,61050,11,Medium,12.21,5000,1.1,9.35,2023,2,May,2023: Stock & Active Equity Market Boom,Standard Asset Profile,6050,605,9.166666667
+142,Mutual Fund,PGIM India Balanced Advantage,Hybrid,60000,24-06-2023,67200,12,Low,13.44,5000,0.98,10.2,2023,2,June,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,7200,588,11.11111111
+143,Mutual Fund,Tata Balanced Fund,Hybrid,50000,29-07-2023,56000,12,Medium,11.2,5000,1.08,8.5,2023,3,July,2023: Stock & Active Equity Market Boom,Standard Asset Profile,6000,540,10.16949153
+144,Mutual Fund,UTI Balanced Fund,Hybrid,45000,03-08-2023,49500,10,Medium,9.9,5000,1.05,7.65,2023,3,August,2023: Stock & Active Equity Market Boom,Standard Asset Profile,4500,472.5,8.695652174
+145,Mutual Fund,Aditya Birla Sun Life Balanced 95,Hybrid,55000,08-09-2023,60500,10,Medium,12.1,5000,1.02,9.35,2023,3,September,2023: Stock & Active Equity Market Boom,Standard Asset Profile,5500,561,8.928571429
+146,Mutual Fund,Franklin India Balanced Fund,Hybrid,40000,13-10-2023,43200,8,Low,8.64,5000,0.95,6.8,2023,4,October,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,3200,380,7.619047619
+147,Mutual Fund,L&T Balanced Fund,Hybrid,48000,18-11-2023,52320,9,Medium,10.46,5000,1,8.16,2023,4,November,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,4320,480,8.181818182
+148,Mutual Fund,IDFC Balanced Advantage Fund,Hybrid,52000,23-12-2023,56680,9,Low,11.34,5000,0.88,8.84,2023,4,December,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,4680,457.6,9.183673469
+149,Mutual Fund,HSBC Balanced Fund,Hybrid,58000,28-01-2024,63800,10,Medium,12.76,5000,1.05,9.86,2024,1,January,2024: Mutual Fund Consistency Era,Standard Asset Profile,5800,609,8.695652174
+150,Mutual Fund,Invesco India Balanced Fund,Hybrid,53000,02-02-2024,57270,8,Low,11.45,5000,0.92,9.02,2024,1,February,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,4270,487.6,7.843137255
+151,Mutual Fund,Parag Parikh Dynamic Asset Allocation,Hybrid,60000,09-03-2024,66000,10,Low,13.2,5000,0.9,10.2,2024,1,March,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,6000,540,10
+152,Mutual Fund,WhiteOak Capital Hybrid Fund,Hybrid,45000,14-04-2024,49500,10,Medium,9.9,5000,1.15,7.65,2024,2,April,2024: Mutual Fund Consistency Era,Standard Asset Profile,4500,517.5,8
+153,Mutual Fund,Samco Hybrid Fund,Hybrid,40000,19-05-2024,44000,10,Medium,8.8,5000,1.2,6.8,2024,2,May,2024: Mutual Fund Consistency Era,Standard Asset Profile,4000,480,7.692307692
+154,Mutual Fund,ITI Hybrid Fund,Hybrid,55000,24-06-2024,59950,9,Medium,11.99,5000,1.1,9.35,2024,2,June,2024: Mutual Fund Consistency Era,Standard Asset Profile,4950,605,7.5
+155,Mutual Fund,Helios Hybrid Fund,Hybrid,50000,29-07-2024,54000,8,Low,10.8,5000,0.95,8.5,2024,3,July,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,4000,475,7.619047619
+156,Mutual Fund,Bajaj Finserv Flexi Cap Fund,Flexi Cap,65000,03-08-2024,74750,15,Medium,149.5,500,1.25,11.05,2024,3,August,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,9750,812.5,11.11111111
+157,Mutual Fund,UTI Flexi Cap Fund,Flexi Cap,60000,08-09-2024,69000,15,Medium,138,500,1.2,10.2,2024,3,September,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,9000,720,11.53846154
+158,Mutual Fund,Motilal Oswal Flexi Cap Fund,Flexi Cap,55000,13-10-2024,63250,15,Medium,126.5,500,1.22,9.35,2024,4,October,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,8250,671,11.36363636
+159,Mutual Fund,ICICI Prudential Flexi Cap Fund,Flexi Cap,70000,18-11-2024,80500,15,Medium,161,500,1.18,11.9,2024,4,November,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,10500,826,11.71875
+160,Mutual Fund,SBI Flexi Cap Fund,Flexi Cap,75000,23-12-2024,86250,15,Medium,172.5,500,1.15,12.75,2024,4,December,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,11250,862.5,12
+161,Mutual Fund,HDFC Flexi Cap Fund,Flexi Cap,80000,28-01-2025,92000,15,Medium,184,500,1.2,13.6,2025,1,January,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,12000,960,11.53846154
+162,Mutual Fund,Axis Flexi Cap Fund,Flexi Cap,65000,02-02-2025,74750,15,Medium,149.5,500,1.18,11.05,2025,1,February,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,9750,767,11.71875
+163,Mutual Fund,Kotak Flexi Cap Fund,Flexi Cap,60000,09-03-2025,69000,15,Medium,138,500,1.15,10.2,2025,1,March,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,9000,690,12
+164,Mutual Fund,Nippon India Flexi Cap Fund,Flexi Cap,55000,14-04-2025,63250,15,Medium,126.5,500,1.22,9.35,2025,2,April,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,8250,671,11.36363636
+165,Mutual Fund,Tata Flexi Cap Fund,Flexi Cap,50000,19-05-2025,57500,15,Medium,115,500,1.2,8.5,2025,2,May,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,7500,600,11.53846154
+166,Mutual Fund,Bandhan Flexi Cap Fund,Flexi Cap,45000,24-06-2025,51750,15,Medium,103.5,500,1.25,7.65,2025,2,June,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,6750,562.5,11.11111111
+167,Mutual Fund,PGIM India Flexi Cap Fund,Flexi Cap,70000,29-07-2025,80500,15,Medium,161,500,1.18,11.9,2025,3,July,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,10500,826,11.71875
+168,Mutual Fund,Invesco India Flexi Cap Fund,Flexi Cap,65000,03-08-2025,74750,15,Medium,149.5,500,1.2,11.05,2025,3,August,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,9750,780,11.53846154
+169,Mutual Fund,Edelweiss Flexi Cap Fund,Flexi Cap,60000,08-09-2025,69000,15,Medium,138,500,1.22,10.2,2025,3,September,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,9000,732,11.36363636
+170,Mutual Fund,HSBC Flexi Cap Fund,Flexi Cap,55000,13-10-2025,63250,15,Medium,126.5,500,1.15,9.35,2025,4,October,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,8250,632.5,12
+171,Mutual Fund,Union Flexi Cap Fund,Flexi Cap,50000,18-11-2025,57500,15,Medium,115,500,1.18,8.5,2025,4,November,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,7500,590,11.71875
+172,Mutual Fund,Quant Flexi Cap Fund,Flexi Cap,48000,23-12-2025,55200,15,High,110.4,500,1.8,8.16,2025,4,December,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,7200,864,7.894736842
+173,Mutual Fund,Mirae Asset Large & Midcap Fund,Multicap,70000,05-01-2023,81200,16,Medium,162.4,500,1.15,11.9,2023,1,January,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,11200,805,12.8
+174,Mutual Fund,ICICI Prudential Multicap Fund,Multicap,65000,10-02-2023,75400,16,Medium,150.8,500,1.12,11.05,2023,1,February,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,10400,728,13.1147541
+175,Mutual Fund,SBI Multicap Fund,Multicap,60000,15-03-2023,69600,16,Medium,139.2,500,1.1,10.2,2023,1,March,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,9600,660,13.33333333
+176,Mutual Fund,HDFC Multicap Fund,Multicap,75000,20-04-2023,87000,16,Medium,174,500,1.18,12.75,2023,2,April,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,12000,885,12.5
+177,Mutual Fund,Axis Multicap Fund,Multicap,55000,25-05-2023,63800,16,Medium,127.6,500,1.15,9.35,2023,2,May,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,8800,632.5,12.8
+178,Mutual Fund,Kotak Multicap Fund,Multicap,50000,30-06-2023,58000,16,Medium,116,500,1.12,8.5,2023,2,June,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,8000,560,13.1147541
+179,Mutual Fund,Nippon India Multicap Fund,Multicap,58000,05-07-2023,67280,16,Medium,134.56,500,1.2,9.86,2023,3,July,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,9280,696,12.30769231
+180,Mutual Fund,Tata Multicap Fund,Multicap,48000,10-08-2023,55680,16,Medium,111.36,500,1.15,8.16,2023,3,August,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,7680,552,12.8
+181,Mutual Fund,Bandhan Multicap Fund,Multicap,52000,15-09-2023,60320,16,Medium,120.64,500,1.18,8.84,2023,3,September,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,8320,613.6,12.5
+182,Mutual Fund,PGIM India Multicap Fund,Multicap,60000,20-10-2023,69600,16,Medium,139.2,500,1.15,10.2,2023,4,October,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,9600,690,12.8
+183,Mutual Fund,Invesco India Multicap Fund,Multicap,55000,25-11-2023,63800,16,Medium,127.6,500,1.2,9.35,2023,4,November,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,8800,660,12.30769231
+184,Mutual Fund,Edelweiss Multicap Fund,Multicap,45000,30-12-2023,52200,16,Medium,104.4,500,1.18,7.65,2023,4,December,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,7200,531,12.5
+185,Mutual Fund,HSBC Multicap Fund,Multicap,50000,04-01-2024,58000,16,Medium,116,500,1.15,8.5,2024,1,January,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,8000,575,12.8
+186,Mutual Fund,Union Multicap Fund,Multicap,53000,09-02-2024,61480,16,Medium,122.96,500,1.22,9.02,2024,1,February,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,8480,646.6,12.12121212
+187,Mutual Fund,Quant Multicap Fund,Multicap,58000,16-03-2024,67280,16,High,134.56,500,1.85,9.86,2024,1,March,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,9280,1073,8.205128205
+188,Mutual Fund,WhiteOak Capital Multicap Fund,Multicap,60000,21-04-2024,69600,16,Medium,139.2,500,1.35,10.2,2024,2,April,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,9600,810,11.03448276
+189,Mutual Fund,Samco Multicap Fund,Multicap,55000,26-05-2024,63800,16,Medium,127.6,500,1.4,9.35,2024,2,May,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,8800,770,10.66666667
+190,Mutual Fund,ITI Multicap Fund,Multicap,48000,01-06-2024,55680,16,Medium,111.36,500,1.3,8.16,2024,2,June,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,7680,624,11.42857143
+191,Mutual Fund,Helios Multicap Fund,Multicap,52000,06-07-2024,60320,16,Medium,120.64,500,1.38,8.84,2024,3,July,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,8320,717.6,10.81081081
+192,Mutual Fund,Bajaj Finserv Multicap Fund,Multicap,57000,11-08-2024,66120,16,Medium,132.24,500,1.25,9.7,2024,3,August,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,9120,712.5,11.85185185
+193,Mutual Fund,Motilal Oswal Multicap Fund,Multicap,60000,16-09-2024,69600,16,Medium,139.2,500,1.28,10.2,2024,3,September,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,9600,768,11.5942029
+194,Mutual Fund,L&T Multicap Fund,Multicap,55000,21-10-2024,63800,16,Medium,127.6,500,1.22,9.35,2024,4,October,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,8800,671,12.12121212
+195,Mutual Fund,IDFC Multicap Fund,Multicap,50000,26-11-2024,58000,16,Medium,116,500,1.18,8.5,2024,4,November,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,8000,590,12.5
+196,Mutual Fund,Aditya Birla Sun Life Multicap Fund,Multicap,48000,01-12-2024,55680,16,Medium,111.36,500,1.15,8.16,2024,4,December,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,7680,552,12.8
+197,Mutual Fund,Franklin India Multicap Fund,Multicap,52000,06-01-2025,60320,16,Medium,120.64,500,1.1,8.84,2025,1,January,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,8320,572,13.33333333
+198,Mutual Fund,UTI Multicap Fund,Multicap,58000,11-02-2025,67280,16,Medium,134.56,500,1.2,9.86,2025,1,February,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,9280,696,12.30769231
+199,Mutual Fund,Baroda BNP Paribas Multicap Fund,Multicap,55000,18-03-2025,63800,16,Medium,127.6,500,1.15,9.35,2025,1,March,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,8800,632.5,12.8
+200,Mutual Fund,Bank of India Multicap Fund,Multicap,50000,23-04-2025,58000,16,Medium,116,500,1.18,8.5,2025,2,April,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,8000,590,12.5
+201,Mutual Fund,HDFC Top 100 Fund,Large Cap,60000,01-02-2023,70500,17.5,High,1850.25,32.43,1.05,10.2,2023,1,February,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,10500,630,15.2173913
+202,Mutual Fund,ICICI Prudential Bluechip Fund,Large Cap,55000,06-03-2023,63250,15,Medium,1245.5,44.18,1.02,9.35,2023,1,March,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,8250,561,13.39285714
+203,Stock,Reliance Industries,Blue Chip,120000,11-04-2023,141600,18,Medium,2580.75,46.5,0,20.4,2023,2,April,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,21600,0,180
+204,Mutual Fund,SBI Small Cap Fund,Small Cap,35000,16-05-2023,40950,17,High,56.8,721.3,1.75,5.95,2023,2,May,2023: Stock & Active Equity Market Boom,High Yield - Premium Cost,5950,612.5,9.189189189
+205,Stock,TCS,Blue Chip,90000,21-06-2023,101700,13,Low,3620,24.86,0,15.3,2023,2,June,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,11700,0,130
+206,Mutual Fund,Axis Midcap Fund,Mid Cap,50000,26-07-2023,59000,18,High,125.4,398.72,1.25,8.5,2023,3,July,2023: Stock & Active Equity Market Boom,High Yield - Premium Cost,9000,625,13.33333333
+207,Stock,HDFC Bank,Blue Chip,75000,31-08-2023,84750,13,Low,1580.5,47.46,0,12.75,2023,3,August,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,9750,0,130
+208,Mutual Fund,Mirae Asset Large Cap Fund,Large Cap,65000,05-09-2023,72800,12,Medium,980.2,66.31,1.03,11.05,2023,3,September,2023: Stock & Active Equity Market Boom,Standard Asset Profile,7800,669.5,10.61946903
+209,Stock,Infosys,Blue Chip,50000,10-10-2023,56500,13,Medium,1475.25,33.89,0,8.5,2023,4,October,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,6500,0,130
+210,Mutual Fund,Kotak Emerging Equity Fund,Mid Cap,40000,15-11-2023,47200,18,High,82.15,486.85,1.45,6.8,2023,4,November,2023: Stock & Active Equity Market Boom,High Yield - Premium Cost,7200,580,11.61290323
+211,Mutual Fund,UTI Nifty 50 Index Fund,Index Fund,70000,20-12-2023,79800,14,Low,210.5,332.54,0.5,11.9,2023,4,December,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,9800,350,23.33333333
+212,Stock,Bharti Airtel,Blue Chip,60000,25-01-2024,67200,12,Medium,1120,60,0,10.2,2024,1,January,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,7200,0,120
+213,Mutual Fund,Parag Parikh Flexi Cap Fund,Flexi Cap,80000,29-02-2024,91200,14,Medium,532.5,170.99,1.1,13.6,2024,1,February,2024: Mutual Fund Consistency Era,Standard Asset Profile,11200,880,11.66666667
+214,Stock,ITC,Blue Chip,55000,05-03-2024,62150,13,Low,450.25,137.95,0,9.35,2024,1,March,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,7150,0,130
+215,Mutual Fund,Tata Digital India Fund,Sectoral,50000,10-04-2024,56000,12,High,48.9,1022.49,1.8,8.5,2024,2,April,2024: Mutual Fund Consistency Era,Standard Asset Profile,6000,900,6.315789474
+216,Stock,HCL Tech,Blue Chip,65000,15-05-2024,74100,14,Medium,1254,51.83,0,11.05,2024,2,May,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,9100,0,140
+217,Mutual Fund,PGIM India Midcap Opportunities,Mid Cap,45000,20-06-2024,53100,18,High,68.2,659.83,1.5,7.65,2024,2,June,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,8100,675,11.25
+218,Stock,Larsen & Toubro,Blue Chip,95000,25-07-2024,109250,15,Medium,3210.5,29.57,0,16.15,2024,3,July,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,14250,0,150
+219,Mutual Fund,Bandhan Small Cap Fund,Small Cap,30000,30-08-2024,35400,18,High,42.8,827.1,1.95,5.1,2024,3,August,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,5400,585,8.780487805
+220,Stock,Maruti Suzuki,Blue Chip,70000,04-09-2024,80500,15,Medium,10350,7.78,0,11.9,2024,3,September,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,10500,0,150
+221,Mutual Fund,Nippon India Small Cap Fund,Small Cap,37000,09-10-2024,43290,17,High,52.15,714.29,1.85,6.29,2024,4,October,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,6290,684.5,8.717948718
+222,Stock,Wipro,Blue Chip,35000,14-11-2024,39200,12,Medium,448,78.13,0,5.95,2024,4,November,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,4200,0,120
+223,Mutual Fund,SBI Magnum Multicap Fund,Multicap,55000,19-12-2024,63800,16,Medium,185.6,343.75,1.15,9.35,2024,4,December,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,8800,632.5,12.8
+224,Stock,Axis Bank,Blue Chip,50000,24-01-2025,57500,15,Medium,1070,46.73,0,8.5,2025,1,January,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,7500,0,150
+225,Mutual Fund,Franklin India Prima Fund,Mid Cap,43000,28-02-2025,50310,17,High,72.8,590.57,1.3,7.31,2025,1,February,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,7310,559,12.14285714
+226,Stock,Mahindra & Mahindra,Blue Chip,65000,05-03-2025,74750,15,Medium,1765,36.69,0,11.05,2025,1,March,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,9750,0,150
+227,Mutual Fund,Aditya Birla Sun Life Frontline Equity,Large Cap,75000,10-04-2025,84750,13,Medium,587.8,127.51,1,12.75,2025,2,April,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,9750,750,11.81818182
+228,Stock,Sun Pharma,Blue Chip,80000,15-05-2025,92800,16,Medium,1624,49.26,0,13.6,2025,2,May,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,12800,0,160
+229,Mutual Fund,IDFC Core Equity Fund,Large Cap,62000,20-06-2025,70680,14,Medium,118.56,596.3,1.08,10.54,2025,2,June,2025: ETF Efficiency & Index Surge,Standard Asset Profile,8680,669.6,11.86440678
+230,Stock,Bajaj Finance,Blue Chip,55000,25-07-2025,63800,16,High,7830,8.14,0,9.35,2025,3,July,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,8800,0,160
+231,Mutual Fund,Tata Equity P/E Fund,Value Fund,48000,30-08-2025,54720,14,Medium,152,315.79,1.12,8.16,2025,3,August,2025: ETF Efficiency & Index Surge,Standard Asset Profile,6720,537.6,11.47540984
+232,Stock,Asian Paints,Blue Chip,45000,04-09-2025,19950,11,Low,2812,15.99,0,7.65,2025,3,September,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,-25050,0,110
+233,Mutual Fund,Quant Small Cap Fund,Small Cap,35000,09-10-2025,40950,17,High,38.2,1071.99,2.1,5.95,2025,4,October,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,5950,735,7.727272727
+234,Stock,Nestle India,Blue Chip,60000,14-11-2025,65400,9,Low,27250,2.2,0,10.2,2025,4,November,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,5400,0,90
+235,Mutual Fund,Canara Robeco Equity Diversified,Multicap,53000,19-12-2025,61480,16,Medium,83.2,637.26,1.18,9.02,2025,4,December,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,8480,625.4,12.5
+236,Stock,Hindustan Unilever,Blue Chip,70000,24-01-2026,74900,7,Low,2414,29,0,11.9,2026,1,January,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,4900,0,70
+237,Mutual Fund,Union Small Cap Fund,Small Cap,38000,28-02-2026,44460,17,High,45.2,983.63,1.9,6.46,2026,1,February,2026: Commodity & High-Volatility Balanced Market,High Yield - Premium Cost,6460,722,8.5
+238,Stock,Dr Reddy's Labs,Blue Chip,45000,05-03-2026,50850,13,Medium,5521,8.15,0,7.65,2026,1,March,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,5850,0,130
+239,Mutual Fund,Sundaram Midcap Fund,Mid Cap,56000,10-04-2026,64960,16,High,76.8,845.83,1.35,9.52,2026,2,April,2026: Commodity & High-Volatility Balanced Market,High Yield - Premium Cost,8960,756,11.03448276
+240,Stock,Titan Company,Blue Chip,50000,15-05-2026,57000,14,Medium,3192,15.66,0,8.5,2026,2,May,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,7000,0,140
+241,Mutual Fund,Invesco India Growth Fund,Mid Cap,44000,20-06-2026,51040,16,Medium,112,455.71,1.22,7.48,2026,2,June,2026: Commodity & High-Volatility Balanced Market,High Yield - Premium Cost,7040,536.8,12.12121212
+242,Stock,Bajaj Auto,Blue Chip,58000,25-07-2026,64960,12,Low,7463,7.78,0,9.86,2026,3,July,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,6960,0,120
+243,Mutual Fund,Edelweiss Large Cap Fund,Large Cap,68000,30-08-2026,76560,12.6,Medium,326.6,208.27,1.06,11.56,2026,3,August,2026: Commodity & High-Volatility Balanced Market,Standard Asset Profile,8560,720.8,10.86206897
+244,Stock,Divi's Labs,Blue Chip,62000,04-09-2026,70060,13,Medium,4896.67,12.67,0,10.54,2026,3,September,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,8060,0,130
+245,Mutual Fund,PPFAS Flexi Cap Fund,Flexi Cap,72000,09-10-2026,82080,14,Medium,706.8,101.9,1.15,12.24,2026,4,October,2026: Commodity & High-Volatility Balanced Market,Standard Asset Profile,10080,828,11.2
+246,Stock,ICICI Bank,Blue Chip,65000,14-11-2026,73450,13,Low,1243,52.29,0,11.05,2026,4,November,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,8450,0,130
+247,Mutual Fund,HSBC Large Cap Fund,Large Cap,58000,19-12-2026,65540,13,Medium,271.2,213.84,1.04,9.86,2026,4,December,2026: Commodity & High-Volatility Balanced Market,Standard Asset Profile,7540,603.2,11.40350877
+248,Stock,State Bank of India,Blue Chip,70000,01-03-2023,80500,15,Medium,690,101.45,0,11.9,2023,1,March,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,10500,0,150
+249,Mutual Fund,Kotak Bluechip Fund,Large Cap,63000,06-04-2023,71970,14.2,Medium,242.36,260.02,1.01,10.71,2023,2,April,2023: Stock & Active Equity Market Boom,Standard Asset Profile,8970,636.3,12.79279279
+250,Stock,Godrej Consumer Products,Blue Chip,48000,11-05-2023,54240,12.9,Low,1148.5,41.76,0,8.16,2023,2,May,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,6240,0,129
+251,Mutual Fund,Bank of India Large Cap Fund,Large Cap,55000,16-06-2023,62700,14,Medium,342,160.82,1.07,9.35,2023,2,June,2023: Stock & Active Equity Market Boom,Standard Asset Profile,7700,588.5,11.96581197
+252,Stock,Britannia Industries,Blue Chip,52000,21-07-2023,59800,15,Low,4830,10.77,0,8.84,2023,3,July,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,7800,0,150
+253,Mutual Fund,L&T Emerging Businesses Fund,Mid Cap,46000,26-08-2023,54280,18,High,64.8,838.89,1.55,7.82,2023,3,August,2023: Stock & Active Equity Market Boom,High Yield - Premium Cost,8280,713,10.90909091
+254,Stock,Grasim Industries,Blue Chip,60000,01-09-2023,69000,15,Medium,1916.67,31.3,0,10.2,2023,3,September,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,9000,0,150
+255,Mutual Fund,Baroda BNP Paribas Large Cap Fund,Large Cap,62000,06-10-2023,70440,13.2,Medium,294.4,210.73,1.03,10.54,2023,4,October,2023: Stock & Active Equity Market Boom,Standard Asset Profile,8440,638.6,11.68141593
+256,Stock,UPL,Blue Chip,38000,11-11-2023,43320,14,Medium,398,95.48,0,6.46,2023,4,November,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,5320,0,140
+257,Mutual Fund,IIFL Focused Equity Fund,Focused Fund,50000,16-12-2023,57000,14,Medium,456,109.65,1.28,8.5,2023,4,December,2023: Stock & Active Equity Market Boom,Standard Asset Profile,7000,640,10.14492754
+258,Stock,Zomato,Mid Cap,35000,21-01-2024,42000,20,High,150,233.33,0,5.95,2024,1,January,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,7000,0,200
+259,Mutual Fund,Samco Active Equity Fund,Focused Fund,45000,26-02-2024,51750,15,Medium,80.5,559.01,1.75,7.65,2024,1,February,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,6750,787.5,8.108108108
+260,Stock,Nykaa,Mid Cap,30000,03-03-2024,35700,19,High,130.9,229.95,0,5.1,2024,1,March,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,5700,0,190
+261,Mutual Fund,WhiteOak Capital Midcap Fund,Mid Cap,48000,08-04-2024,56640,18,High,62.7,765.14,1.48,8.16,2024,2,April,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,8640,710.4,11.39240506
+262,Stock,Paytm,Mid Cap,25000,13-05-2024,27500,10,High,396,63.13,0,4.25,2024,2,May,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,2500,0,100
+263,Mutual Fund,ITI Midcap Fund,Mid Cap,42000,18-06-2024,49560,18,High,47.2,890.68,1.52,7.14,2024,2,June,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,7560,638.4,11.11111111
+264,Stock,Dreamfolks Services,Small Cap,20000,23-07-2024,23600,18,High,295,80,0,3.4,2024,3,July,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,3600,0,180
+265,Mutual Fund,Helios Midcap Fund,Mid Cap,50000,28-08-2024,59000,18,High,78.67,635.42,1.42,8.5,2024,3,August,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,9000,710,11.84210526
+266,Stock,Nuvo,Small Cap,18000,02-09-2024,21060,17,High,234,76.92,0,3.06,2024,3,September,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,3060,0,170
+267,Mutual Fund,Motilal Oswal Midcap Fund,Mid Cap,46000,07-10-2024,54280,18,High,60.69,755.66,1.5,7.82,2024,4,October,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,8280,690,11.25
+268,Stock,Tata Elxsi,Mid Cap,38000,12-11-2024,43700,15,Medium,805,47.2,0,6.46,2024,4,November,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,5700,0,150
+269,Mutual Fund,HSBC Midcap Fund,Mid Cap,52000,17-12-2024,61360,18,High,103.25,503.85,1.38,8.84,2024,4,December,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,9360,717.6,12.16216216
+270,Stock,Persistent Systems,Mid Cap,42000,22-01-2025,48720,16,Medium,698.67,60.12,0,7.14,2025,1,January,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,6720,0,160
+271,Mutual Fund,Nippon India Growth Fund,Mid Cap,48000,27-02-2025,55320,15.3,Medium,87.56,547.85,1.25,8.16,2025,1,February,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,7320,600,11.33333333
+272,Stock,L&T Technology Services,Mid Cap,36000,04-03-2025,41400,15,Medium,427.14,84.29,0,6.12,2025,1,March,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,5400,0,150
+273,Mutual Fund,ICICI Prudential Midcap Fund,Mid Cap,55000,09-04-2025,64150,17,High,75.21,730.57,1.32,9.35,2025,2,April,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,9150,726,11.97183099
+274,Stock,Happiest Minds,Mid Cap,30000,14-05-2025,35100,17,Medium,780,38.46,0,5.1,2025,2,May,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,5100,0,170
+275,Mutual Fund,Kotak Emerging Equity Fund,Mid Cap,50000,19-06-2025,58500,17,High,78,641.03,1.4,8.5,2025,2,June,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,8500,700,11.33333333
+276,Stock,Mphasis,Mid Cap,40000,24-07-2025,46000,15,Medium,2300,17.39,0,6.8,2025,3,July,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,6000,0,150
+277,Mutual Fund,Axis Midcap Fund,Mid Cap,58000,29-08-2025,67860,17,High,112.32,516.54,1.25,9.86,2025,3,August,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,9860,725,12.59259259
+278,Stock,Coforge,Mid Cap,45000,03-09-2025,51750,15,Medium,1610,27.95,0,7.65,2025,3,September,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,6750,0,150
+279,Mutual Fund,HDFC Mid-Cap Opportunities,Mid Cap,62000,08-10-2025,72540,17,High,169,367.16,1.3,10.54,2025,4,October,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,10540,806,12.14285714
+280,Stock,LTIMindtree,Mid Cap,55000,13-11-2025,63250,15,Medium,5175,10.63,0,9.35,2025,4,November,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,8250,0,150
+281,Mutual Fund,PGIM India Midcap Fund,Mid Cap,48000,18-12-2025,56160,17,High,111.15,432.03,1.48,8.16,2025,4,December,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,8160,710.4,10.75949367
+282,Stock,Tata Technologies,Mid Cap,38000,23-01-2026,43700,15,Medium,805,47.2,0,6.46,2026,1,January,2026: Commodity & High-Volatility Balanced Market,High Yield - Cost Efficient,5700,0,150
+283,Mutual Fund,Mirae Asset Midcap Fund,Mid Cap,52000,28-02-2026,60580,16.5,High,91.75,566.67,1.35,8.84,2026,1,February,2026: Commodity & High-Volatility Balanced Market,High Yield - Premium Cost,8580,702,11.37931034
+284,Stock,Sensex ETF,ETF,120000,05-03-2026,138000,15,Low,575,240,0.15,20.4,2026,1,March,2026: Commodity & High-Volatility Balanced Market,High Yield - Cost Efficient,18000,180,60
+285,Mutual Fund,Nifty 50 ETF,ETF,100000,06-03-2023,114000,14,Low,228,438.6,0.1,17,2023,1,March,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,14000,100,70
+286,Stock,Bank Nifty ETF,ETF,95000,11-04-2023,109250,15,Medium,1725,55.07,0.2,16.15,2023,2,April,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,14250,190,50
+287,Mutual Fund,Gold ETF,ETF,70000,16-05-2023,78400,12,Low,280,280,0.25,11.9,2023,2,May,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,8400,175,34.28571429
+288,Stock,IT Index ETF,ETF,80000,21-06-2023,91200,14,Medium,228,400,0.15,13.6,2023,2,June,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,11200,120,56
+289,Mutual Fund,PSU Bank ETF,ETF,60000,26-07-2023,67200,12,Medium,89.6,750,0.18,10.2,2023,3,July,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,7200,108,42.85714286
+290,Stock,Infra ETF,ETF,75000,31-08-2023,86250,15,Medium,211.67,404.17,0.16,12.75,2023,3,August,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,11250,120,57.69230769
+291,Mutual Fund,Consumption ETF,ETF,65000,05-09-2023,74100,14,Low,256.5,253.21,0.12,11.05,2023,3,September,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,9100,78,63.63636364
+292,Stock,Pharma ETF,ETF,55000,10-10-2023,62700,14,Medium,133,471.43,0.15,9.35,2023,4,October,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,7700,82.5,56
+293,Mutual Fund,Auto ETF,ETF,60000,15-11-2023,68400,14,Medium,114,600,0.17,10.2,2023,4,November,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,8400,102,51.85185185
+294,Stock,Midcap ETF,ETF,70000,20-12-2023,80500,15,Medium,287.5,292.17,0.18,11.9,2023,4,December,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,10500,126,53.57142857
+295,Mutual Fund,Smallcap ETF,ETF,50000,25-01-2024,57500,15,High,172.5,333.33,0.22,8.5,2024,1,January,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,7500,110,46.875
+296,Stock,Value ETF,ETF,65000,29-02-2024,74100,14,Medium,171,433.33,0.16,11.05,2024,1,February,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,9100,104,53.84615385
+297,Mutual Fund,Dividend Yield ETF,ETF,60000,05-03-2024,67800,13,Low,151.33,396.43,0.14,10.2,2024,1,March,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,7800,84,54.16666667
+298,Stock,Quality ETF,ETF,75000,10-04-2024,85500,14,Low,209,409.09,0.13,12.75,2024,2,April,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,10500,97.5,60.86956522
+299,Mutual Fund,Low Volatility ETF,ETF,68000,15-05-2024,76160,12,Low,179.2,450,0.12,11.56,2024,2,May,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,8160,81.6,54.54545455
+300,Stock,Momentum ETF,ETF,62000,20-06-2024,71300,15,High,161,442.86,0.2,10.54,2024,2,June,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,9300,124,50
+301,Mutual Fund,Debt Fund - Dynamic Bond,Debt,120000,07-03-2023,128400,7,Low,21.4,6000,0.5,20.4,2023,1,March,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,8400,600,11.66666667
+302,Mutual Fund,Debt Fund - Corporate Bond,Debt,100000,12-04-2023,106000,6,Low,21.2,5000,0.45,17,2023,2,April,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,6000,450,10.90909091
+303,Mutual Fund,Debt Fund - Government Securities,Debt,95000,17-05-2023,100700,6,Low,26.5,3800,0.35,16.15,2023,2,May,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,5700,332.5,13.33333333
+304,Mutual Fund,Debt Fund - Short Duration,Debt,80000,22-06-2023,84000,5,Low,10.5,8000,0.4,13.6,2023,2,June,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,4000,320,10
+305,Mutual Fund,Debt Fund - Money Market,Debt,70000,27-07-2023,73500,5,Low,10.5,7000,0.3,11.9,2023,3,July,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,3500,210,12.5
+306,Mutual Fund,Debt Fund - Liquid Fund,Debt,180000,01-08-2023,187200,4,Low,10.4,18000,0.2,30.6,2023,3,August,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,7200,360,13.33333333
+307,Mutual Fund,Debt Fund - Ultra Short Duration,Debt,90000,06-09-2023,94500,5,Low,14.7,6428.57,0.35,15.3,2023,3,September,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,4500,315,11.11111111
+308,Mutual Fund,Debt Fund - Credit Risk,Debt,75000,11-10-2023,80250,7,Medium,11.77,6814,0.85,12.75,2023,4,October,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,5250,637.5,7.368421053
+309,Mutual Fund,Debt Fund - Banking & PSU,Debt,85000,16-11-2023,89250,5,Low,13.65,6813.18,0.4,14.45,2023,4,November,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,4250,340,10
+310,Mutual Fund,Debt Fund - Gilt Fund,Debt,65000,21-12-2023,68250,5,Low,15.75,4333.33,0.3,11.05,2023,4,December,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,3250,195,12.5
+311,Mutual Fund,Hybrid Fund - Equity Savings,Hybrid,80000,26-01-2024,88800,11,Low,11.1,8000,0.8,13.6,2024,1,January,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,8800,640,12.22222222
+312,Mutual Fund,Hybrid Fund - Conservative Hybrid,Hybrid,90000,01-02-2024,97200,8,Low,12.6,7714.29,0.75,15.3,2024,1,February,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,7200,675,9.411764706
+313,Mutual Fund,Hybrid Fund - Balanced Hybrid,Hybrid,100000,06-03-2024,112000,12,Medium,14.93,7400.6,1.1,17,2024,1,March,2024: Mutual Fund Consistency Era,Standard Asset Profile,12000,1100,10
+314,Mutual Fund,Hybrid Fund - Aggressive Hybrid,Hybrid,110000,11-04-2024,125400,14,Medium,17.1,7332.16,1.15,18.7,2024,2,April,2024: Mutual Fund Consistency Era,Standard Asset Profile,15400,1265,11.2
+315,Mutual Fund,Hybrid Fund - Dynamic Asset Allocation,Hybrid,85000,16-05-2024,93500,10,Low,14.3,6573.43,0.9,14.45,2024,2,May,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,8500,765,10
+316,Mutual Fund,Hybrid Fund - Multi Asset Allocation,Hybrid,75000,21-06-2024,82500,10,Low,12.1,6818.18,0.95,12.75,2024,2,June,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,7500,712.5,9.523809524
+317,Mutual Fund,HDFC Children's Gift Fund,Children's Fund,70000,26-07-2024,80500,15,Medium,191.67,425.22,1.2,11.9,2024,3,July,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,10500,840,11.53846154
+318,Mutual Fund,ICICI Prudential Child Care Fund,Children's Fund,65000,31-08-2024,74750,15,Medium,172.5,433.33,1.18,11.05,2024,3,August,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,9750,767,11.71875
+319,Mutual Fund,SBI Children's Future Fund,Children's Fund,75000,05-09-2024,86250,15,Medium,211.67,409.09,1.15,12.75,2024,3,September,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,11250,862.5,12
+320,Mutual Fund,Axis Children's Gift Fund,Children's Fund,80000,10-10-2024,92000,15,Medium,230,400,1.22,13.6,2024,4,October,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,12000,976,11.36363636
+321,Mutual Fund,Kotak Assured Income,Retirement Fund,120000,15-11-2024,129600,8,Low,10.8,12000,0.8,20.4,2024,4,November,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,9600,960,8.888888889
+322,Mutual Fund,HDFC Retirement Savings Fund,Retirement Fund,140000,20-12-2024,152600,9,Low,13.08,14000,0.85,23.8,2024,4,December,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,12600,1190,9.473684211
+323,Mutual Fund,ICICI Prudential Retirement Fund,Retirement Fund,100000,25-01-2025,109000,9,Low,10.9,10000,0.82,17,2025,1,January,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,9000,820,9.782608696
+324,Mutual Fund,SBI Retirement Fund,Retirement Fund,110000,28-02-2025,119900,9,Low,10.9,11000,0.8,18.7,2025,1,February,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,9900,880,10
+325,Mutual Fund,Axis Retirement Fund,Retirement Fund,90000,05-03-2025,98100,9,Low,10.9,9000,0.78,15.3,2025,1,March,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,8100,702,10.22727273
+326,Mutual Fund,Tata Digital India Fund,Sectoral - Technology,70000,10-04-2025,80500,15,High,48.9,1431.49,1.8,11.9,2025,2,April,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,10500,1260,7.894736842
+327,Mutual Fund,SBI Technology Opportunities Fund,Sectoral - Technology,65000,15-05-2025,75400,16,High,52.2,1444.44,1.75,11.05,2025,2,May,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,10400,1137.5,8.648648649
+328,Mutual Fund,ICICI Prudential Technology Fund,Sectoral - Technology,75000,20-06-2025,87000,16,High,53.19,1635.45,1.78,12.75,2025,2,June,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,12000,1335,8.510638298
+329,Mutual Fund,Kotak Technology Fund,Sectoral - Technology,60000,25-07-2025,69000,15,High,46,1500,1.72,10.2,2025,3,July,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,9000,1032,8.241758242
+330,Mutual Fund,UTI Nifty 50 Value 20 Index Fund,Index Fund,85000,30-08-2025,97750,15,Low,14.95,6581.94,0.5,14.45,2025,3,August,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,12750,425,25
+331,Mutual Fund,Bandhan Nifty 50 Index Fund,Index Fund,80000,04-09-2025,91200,14,Low,13.68,5847.95,0.48,13.6,2025,3,September,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,11200,384,24.13793103
+332,Mutual Fund,Motilal Oswal Nifty 50 Index Fund,Index Fund,90000,09-10-2025,102600,14,Low,15.96,5847.95,0.52,15.3,2025,4,October,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,12600,468,22.58064516
+333,Mutual Fund,Axis Nifty 50 Index Fund,Index Fund,75000,14-11-2025,85500,14,Low,12.54,6818.18,0.45,12.75,2025,4,November,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,10500,337.5,25.45454545
+334,Mutual Fund,ICICI Prudential Nifty 50 Index Fund,Index Fund,100000,19-12-2025,114000,14,Low,18.24,6250,0.5,17,2025,4,December,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,14000,500,23.33333333
+335,Mutual Fund,Nippon India Nifty 50 Index Fund,Index Fund,95000,24-01-2026,108300,14,Low,17.1,6333.33,0.48,16.15,2026,1,January,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,13300,456,24.13793103
+336,Mutual Fund,Quant Absolute Return Fund,Hybrid,70000,28-02-2026,80500,15,Medium,57.5,1400,1.5,11.9,2026,1,February,2026: Commodity & High-Volatility Balanced Market,High Yield - Premium Cost,10500,1050,9.375
+337,Mutual Fund,Kotak Equity Hybrid Fund,Hybrid,80000,08-03-2023,91200,14,Medium,13.68,6666.67,1.12,13.6,2023,1,March,2023: Stock & Active Equity Market Boom,Standard Asset Profile,11200,896,11.47540984
+338,Mutual Fund,HDFC Balanced Advantage Fund,Hybrid,90000,13-04-2023,101700,13,Low,15.82,6687.73,0.95,15.3,2023,2,April,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,11700,855,12.38095238
+339,Mutual Fund,ICICI Prudential Balanced Advantage,Hybrid,100000,18-05-2023,113000,13,Low,18.08,6666.67,0.92,17,2023,2,May,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,13000,920,12.74509804
+340,Mutual Fund,SBI Balanced Fund,Hybrid,85000,23-06-2023,95200,12,Medium,14.56,6666.67,1.15,14.45,2023,2,June,2023: Stock & Active Equity Market Boom,Standard Asset Profile,10200,977.5,9.6
+341,Mutual Fund,Axis Balanced Fund,Hybrid,75000,28-07-2023,83250,11,Medium,12.21,6666.67,1.1,12.75,2023,3,July,2023: Stock & Active Equity Market Boom,Standard Asset Profile,8250,825,9.166666667
+342,Mutual Fund,PGIM India Balanced Advantage,Hybrid,80000,02-08-2023,89600,12,Low,13.44,6666.67,0.98,13.6,2023,3,August,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,9600,784,11.11111111
+343,Mutual Fund,Tata Balanced Fund,Hybrid,70000,07-09-2023,78400,12,Medium,11.2,6666.67,1.08,11.9,2023,3,September,2023: Stock & Active Equity Market Boom,Standard Asset Profile,8400,756,10.16949153
+344,Mutual Fund,UTI Balanced Fund,Hybrid,65000,12-10-2023,71500,10,Medium,9.9,6666.67,1.05,11.05,2023,4,October,2023: Stock & Active Equity Market Boom,Standard Asset Profile,6500,682.5,8.695652174
+345,Mutual Fund,Aditya Birla Sun Life Balanced 95,Hybrid,75000,17-11-2023,82500,10,Medium,12.1,6666.67,1.02,12.75,2023,4,November,2023: Stock & Active Equity Market Boom,Standard Asset Profile,7500,765,8.928571429
+346,Mutual Fund,Franklin India Balanced Fund,Hybrid,60000,22-12-2023,64800,8,Low,8.64,6666.67,0.95,10.2,2023,4,December,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,4800,570,7.619047619
+347,Mutual Fund,L&T Balanced Fund,Hybrid,68000,27-01-2024,74120,9,Medium,10.46,6666.67,1,11.56,2024,1,January,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,6120,680,8.181818182
+348,Mutual Fund,IDFC Balanced Advantage Fund,Hybrid,72000,01-02-2024,78480,9,Low,11.34,6666.67,0.88,12.24,2024,1,February,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,6480,633.6,9.183673469
+349,Mutual Fund,HSBC Balanced Fund,Hybrid,78000,06-03-2024,85800,10,Medium,12.76,6666.67,1.05,13.24,2024,1,March,2024: Mutual Fund Consistency Era,Standard Asset Profile,7800,819,8.695652174
+350,Mutual Fund,Invesco India Balanced Fund,Hybrid,73000,11-04-2024,78990,8,Low,11.45,6666.67,0.92,12.4,2024,2,April,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,5990,671.6,7.843137255
+351,Mutual Fund,Parag Parikh Dynamic Asset Allocation,Hybrid,80000,16-05-2024,88000,10,Low,13.2,6666.67,0.9,13.6,2024,2,May,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,8000,720,10
+352,Mutual Fund,WhiteOak Capital Hybrid Fund,Hybrid,65000,21-06-2024,71500,10,Medium,9.9,6666.67,1.15,11.05,2024,2,June,2024: Mutual Fund Consistency Era,Standard Asset Profile,6500,747.5,8
+353,Mutual Fund,Samco Hybrid Fund,Hybrid,60000,26-07-2024,66000,10,Medium,8.8,6666.67,1.2,10.2,2024,3,July,2024: Mutual Fund Consistency Era,Standard Asset Profile,6000,720,7.692307692
+354,Mutual Fund,ITI Hybrid Fund,Hybrid,75000,31-08-2024,81750,9,Medium,11.99,6666.67,1.1,12.75,2024,3,August,2024: Mutual Fund Consistency Era,Standard Asset Profile,6750,825,7.5
+355,Mutual Fund,Helios Hybrid Fund,Hybrid,70000,05-09-2024,75600,8,Low,10.8,6666.67,0.95,11.9,2024,3,September,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,5600,665,7.619047619
+356,Mutual Fund,Bajaj Finserv Flexi Cap Fund,Flexi Cap,85000,10-10-2024,97750,15,Medium,149.5,654.17,1.25,14.45,2024,4,October,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,12750,1062.5,11.11111111
+357,Mutual Fund,UTI Flexi Cap Fund,Flexi Cap,80000,15-11-2024,92000,15,Medium,138,666.67,1.2,13.6,2024,4,November,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,12000,960,11.53846154
+358,Mutual Fund,Motilal Oswal Flexi Cap Fund,Flexi Cap,75000,20-12-2024,86250,15,Medium,126.5,666.67,1.22,12.75,2024,4,December,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,11250,915,11.36363636
+359,Mutual Fund,ICICI Prudential Flexi Cap Fund,Flexi Cap,90000,25-01-2025,103500,15,Medium,161,666.67,1.18,15.3,2025,1,January,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,13500,1062,11.71875
+360,Mutual Fund,SBI Flexi Cap Fund,Flexi Cap,95000,28-02-2025,109250,15,Medium,172.5,666.67,1.15,16.15,2025,1,February,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,14250,1092.5,12
+361,Mutual Fund,HDFC Flexi Cap Fund,Flexi Cap,100000,05-03-2025,115000,15,Medium,184,666.67,1.2,17,2025,1,March,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,15000,1200,11.53846154
+362,Mutual Fund,Axis Flexi Cap Fund,Flexi Cap,85000,10-04-2025,97750,15,Medium,149.5,666.67,1.18,14.45,2025,2,April,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,12750,1003,11.71875
+363,Mutual Fund,Kotak Flexi Cap Fund,Flexi Cap,80000,15-05-2025,92000,15,Medium,138,666.67,1.15,13.6,2025,2,May,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,12000,920,12
+364,Mutual Fund,Nippon India Flexi Cap Fund,Flexi Cap,75000,20-06-2025,86250,15,Medium,126.5,666.67,1.22,12.75,2025,2,June,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,11250,915,11.36363636
+365,Mutual Fund,Tata Flexi Cap Fund,Flexi Cap,70000,25-07-2025,80500,15,Medium,115,666.67,1.2,11.9,2025,3,July,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,10500,840,11.53846154
+366,Mutual Fund,Bandhan Flexi Cap Fund,Flexi Cap,65000,30-08-2025,74750,15,Medium,103.5,666.67,1.25,11.05,2025,3,August,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,9750,812.5,11.11111111
+367,Mutual Fund,PGIM India Flexi Cap Fund,Flexi Cap,90000,04-09-2025,103500,15,Medium,161,666.67,1.18,15.3,2025,3,September,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,13500,1062,11.71875
+368,Mutual Fund,Invesco India Flexi Cap Fund,Flexi Cap,85000,09-10-2025,97750,15,Medium,149.5,666.67,1.2,14.45,2025,4,October,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,12750,1020,11.53846154
+369,Mutual Fund,Edelweiss Flexi Cap Fund,Flexi Cap,80000,14-11-2025,92000,15,Medium,138,666.67,1.22,13.6,2025,4,November,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,12000,976,11.36363636
+370,Mutual Fund,HSBC Flexi Cap Fund,Flexi Cap,75000,19-12-2025,86250,15,Medium,126.5,666.67,1.15,12.75,2025,4,December,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,11250,862.5,12
+371,Mutual Fund,Union Flexi Cap Fund,Flexi Cap,70000,24-01-2026,80500,15,Medium,115,666.67,1.18,11.9,2026,1,January,2026: Commodity & High-Volatility Balanced Market,High Yield - Cost Efficient,10500,826,11.71875
+372,Mutual Fund,Quant Flexi Cap Fund,Flexi Cap,68000,28-02-2026,78200,15,High,110.4,666.67,1.8,11.56,2026,1,February,2026: Commodity & High-Volatility Balanced Market,High Yield - Premium Cost,10200,1224,7.894736842
+373,Mutual Fund,Mirae Asset Large & Midcap Fund,Multicap,90000,09-03-2023,104400,16,Medium,162.4,642.86,1.15,15.3,2023,1,March,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,14400,1035,12.8
+374,Mutual Fund,ICICI Prudential Multicap Fund,Multicap,85000,14-04-2023,98600,16,Medium,150.8,642.86,1.12,14.45,2023,2,April,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,13600,952,13.1147541
+375,Mutual Fund,SBI Multicap Fund,Multicap,80000,19-05-2023,92800,16,Medium,139.2,642.86,1.1,13.6,2023,2,May,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,12800,880,13.33333333
+376,Mutual Fund,HDFC Multicap Fund,Multicap,95000,24-06-2023,110200,16,Medium,174,642.86,1.18,16.15,2023,2,June,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,15200,1121,12.5
+377,Mutual Fund,Axis Multicap Fund,Multicap,75000,29-07-2023,87000,16,Medium,127.6,642.86,1.15,12.75,2023,3,July,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,12000,862.5,12.8
+378,Mutual Fund,Kotak Multicap Fund,Multicap,70000,03-08-2023,81200,16,Medium,116,642.86,1.12,11.9,2023,3,August,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,11200,784,13.1147541
+379,Mutual Fund,Nippon India Multicap Fund,Multicap,78000,08-09-2023,90480,16,Medium,134.56,642.86,1.2,13.24,2023,3,September,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,12480,936,12.30769231
+380,Mutual Fund,Tata Multicap Fund,Multicap,68000,13-10-2023,78880,16,Medium,111.36,642.86,1.15,11.56,2023,4,October,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,10880,782,12.8
+381,Mutual Fund,Bandhan Multicap Fund,Multicap,72000,18-11-2023,83520,16,Medium,120.64,642.86,1.18,12.24,2023,4,November,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,11520,849.6,12.5
+382,Mutual Fund,PGIM India Multicap Fund,Multicap,80000,23-12-2023,92800,16,Medium,139.2,642.86,1.15,13.6,2023,4,December,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,12800,920,12.8
+383,Mutual Fund,Invesco India Multicap Fund,Multicap,75000,28-01-2024,87000,16,Medium,127.6,642.86,1.2,12.75,2024,1,January,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,12000,900,12.30769231
+384,Mutual Fund,Edelweiss Multicap Fund,Multicap,65000,02-02-2024,75400,16,Medium,104.4,642.86,1.18,11.05,2024,1,February,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,10400,767,12.5
+385,Mutual Fund,HSBC Multicap Fund,Multicap,70000,07-03-2024,81200,16,Medium,116,642.86,1.15,11.9,2024,1,March,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,11200,805,12.8
+386,Mutual Fund,Union Multicap Fund,Multicap,73000,12-04-2024,84680,16,Medium,122.96,642.86,1.22,12.4,2024,2,April,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,11680,890.6,12.12121212
+387,Mutual Fund,Quant Multicap Fund,Multicap,78000,17-05-2024,90480,16,High,134.56,642.86,1.85,13.24,2024,2,May,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,12480,1443,8.205128205
+388,Mutual Fund,WhiteOak Capital Multicap Fund,Multicap,80000,22-06-2024,92800,16,Medium,139.2,642.86,1.35,13.6,2024,2,June,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,12800,1080,11.03448276
+389,Mutual Fund,Samco Multicap Fund,Multicap,75000,27-07-2024,87000,16,Medium,127.6,642.86,1.4,12.75,2024,3,July,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,12000,1050,10.66666667
+390,Mutual Fund,ITI Multicap Fund,Multicap,68000,01-08-2024,78880,16,Medium,111.36,642.86,1.3,11.56,2024,3,August,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,10880,884,11.42857143
+391,Mutual Fund,Helios Multicap Fund,Multicap,72000,06-09-2024,83520,16,Medium,120.64,642.86,1.38,12.24,2024,3,September,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,11520,993.6,10.81081081
+392,Mutual Fund,Bajaj Finserv Multicap Fund,Multicap,77000,11-10-2024,89320,16,Medium,132.24,642.86,1.25,13.08,2024,4,October,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,12320,962.5,11.85185185
+393,Mutual Fund,Motilal Oswal Multicap Fund,Multicap,80000,16-11-2024,92800,16,Medium,139.2,642.86,1.28,13.6,2024,4,November,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,12800,1024,11.5942029
+394,Mutual Fund,L&T Multicap Fund,Multicap,75000,21-12-2024,87000,16,Medium,127.6,642.86,1.22,12.75,2024,4,December,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,12000,915,12.12121212
+395,Mutual Fund,IDFC Multicap Fund,Multicap,70000,26-01-2025,81200,16,Medium,116,642.86,1.18,11.9,2025,1,January,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,11200,826,12.5
+396,Mutual Fund,Aditya Birla Sun Life Multicap Fund,Multicap,68000,28-02-2025,78880,16,Medium,111.36,642.86,1.15,11.56,2025,1,February,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,10880,782,12.8
+397,Mutual Fund,Franklin India Multicap Fund,Multicap,72000,05-03-2025,83520,16,Medium,120.64,642.86,1.1,12.24,2025,1,March,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,11520,792,13.33333333
+398,Mutual Fund,UTI Multicap Fund,Multicap,78000,10-04-2025,90480,16,Medium,134.56,642.86,1.2,13.24,2025,2,April,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,12480,936,12.30769231
+399,Mutual Fund,Baroda BNP Paribas Multicap Fund,Multicap,75000,15-05-2025,87000,16,Medium,127.6,642.86,1.15,12.75,2025,2,May,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,12000,862.5,12.8
+400,Mutual Fund,Bank of India Multicap Fund,Multicap,70000,20-06-2025,81200,16,Medium,116,642.86,1.18,11.9,2025,2,June,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,11200,826,12.5
+401,Mutual Fund,HDFC Top 100 Fund,Large Cap,70000,10-03-2023,82250,17.5,High,1850.25,37.83,1.05,11.9,2023,1,March,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,12250,735,15.2173913
+402,Mutual Fund,ICICI Prudential Bluechip Fund,Large Cap,65000,15-04-2023,74750,15,Medium,1245.5,52.2,1.02,11.05,2023,2,April,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,9750,663,13.39285714
+403,Stock,Reliance Industries,Blue Chip,140000,20-05-2023,165200,18,Medium,2580.75,54.26,0,23.8,2023,2,May,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,25200,0,180
+404,Mutual Fund,SBI Small Cap Fund,Small Cap,40000,25-06-2023,46800,17,High,56.8,824.56,1.75,6.8,2023,2,June,2023: Stock & Active Equity Market Boom,High Yield - Premium Cost,6800,700,9.189189189
+405,Stock,TCS,Blue Chip,100000,30-07-2023,113000,13,Low,3620,27.62,0,17,2023,3,July,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,13000,0,130
+406,Mutual Fund,Axis Midcap Fund,Mid Cap,55000,04-08-2023,64900,18,High,125.4,438.59,1.25,9.35,2023,3,August,2023: Stock & Active Equity Market Boom,High Yield - Premium Cost,9900,687.5,13.33333333
+407,Stock,HDFC Bank,Blue Chip,85000,09-09-2023,96050,13,Low,1580.5,53.79,0,14.45,2023,3,September,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,11050,0,130
+408,Mutual Fund,Mirae Asset Large Cap Fund,Large Cap,75000,14-10-2023,84000,12,Medium,980.2,76.51,1.03,12.75,2023,4,October,2023: Stock & Active Equity Market Boom,Standard Asset Profile,9000,772.5,10.61946903
+409,Stock,Infosys,Blue Chip,60000,19-11-2023,67800,13,Medium,1475.25,40.67,0,10.2,2023,4,November,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,7800,0,130
+410,Mutual Fund,Kotak Emerging Equity Fund,Mid Cap,45000,24-12-2023,53100,18,High,82.15,547.77,1.45,7.65,2023,4,December,2023: Stock & Active Equity Market Boom,High Yield - Premium Cost,8100,652.5,11.61290323
+411,Mutual Fund,UTI Nifty 50 Index Fund,Index Fund,80000,29-01-2024,91200,14,Low,210.5,380.05,0.5,13.6,2024,1,January,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,11200,400,23.33333333
+412,Stock,Bharti Airtel,Blue Chip,70000,03-02-2024,78400,12,Medium,1120,70,0,11.9,2024,1,February,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,8400,0,120
+413,Mutual Fund,Parag Parikh Flexi Cap Fund,Flexi Cap,90000,08-03-2024,102600,14,Medium,532.5,192.61,1.1,15.3,2024,1,March,2024: Mutual Fund Consistency Era,Standard Asset Profile,12600,990,11.66666667
+414,Stock,ITC,Blue Chip,65000,13-04-2024,73450,13,Low,450.25,163.04,0,11.05,2024,2,April,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,8450,0,130
+415,Mutual Fund,Tata Digital India Fund,Sectoral,60000,18-05-2024,67200,12,High,48.9,1226.99,1.8,10.2,2024,2,May,2024: Mutual Fund Consistency Era,Standard Asset Profile,7200,1080,6.315789474
+416,Stock,HCL Tech,Blue Chip,75000,23-06-2024,85500,14,Medium,1254,59.81,0,12.75,2024,2,June,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,10500,0,140
+417,Mutual Fund,PGIM India Midcap Opportunities,Mid Cap,50000,28-07-2024,59000,18,High,68.2,733.14,1.5,8.5,2024,3,July,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,9000,750,11.25
+418,Stock,Larsen & Toubro,Blue Chip,105000,02-08-2024,120750,15,Medium,3210.5,32.68,0,17.85,2024,3,August,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,15750,0,150
+419,Mutual Fund,Bandhan Small Cap Fund,Small Cap,35000,07-09-2024,41300,18,High,42.8,964.49,1.95,5.95,2024,3,September,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,6300,682.5,8.780487805
+420,Stock,Maruti Suzuki,Blue Chip,80000,12-10-2024,92000,15,Medium,10350,8.9,0,13.6,2024,4,October,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,12000,0,150
+421,Mutual Fund,Nippon India Small Cap Fund,Small Cap,42000,17-11-2024,49140,17,High,52.15,810.74,1.85,7.14,2024,4,November,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,7140,777,8.717948718
+422,Stock,Wipro,Blue Chip,40000,22-12-2024,44800,12,Medium,448,89.29,0,6.8,2024,4,December,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,4800,0,120
+423,Mutual Fund,SBI Magnum Multicap Fund,Multicap,60000,27-01-2025,69600,16,Medium,185.6,387.5,1.15,10.2,2025,1,January,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,9600,690,12.8
+424,Stock,Axis Bank,Blue Chip,55000,01-02-2025,63250,15,Medium,1070,51.4,0,9.35,2025,1,February,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,8250,0,150
+425,Mutual Fund,Franklin India Prima Fund,Mid Cap,50000,06-03-2025,58500,17,High,72.8,686.81,1.3,8.5,2025,1,March,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,8500,650,12.14285714
+426,Stock,Mahindra & Mahindra,Blue Chip,75000,11-04-2025,86250,15,Medium,1765,42.21,0,12.75,2025,2,April,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,11250,0,150
+427,Mutual Fund,Aditya Birla Sun Life Frontline Equity,Large Cap,85000,16-05-2025,96050,13,Medium,587.8,144.51,1,14.45,2025,2,May,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,11050,850,11.81818182
+428,Stock,Sun Pharma,Blue Chip,90000,21-06-2025,104400,16,Medium,1624,55.42,0,15.3,2025,2,June,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,14400,0,160
+429,Mutual Fund,IDFC Core Equity Fund,Large Cap,72000,26-07-2025,82080,14,Medium,118.56,692.59,1.08,12.24,2025,3,July,2025: ETF Efficiency & Index Surge,Standard Asset Profile,10080,777.6,11.86440678
+430,Stock,Bajaj Finance,Blue Chip,65000,31-08-2025,75400,16,High,7830,9.63,0,11.05,2025,3,August,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,10400,0,160
+431,Mutual Fund,Tata Equity P/E Fund,Value Fund,56000,05-09-2025,63840,14,Medium,152,368.42,1.12,9.52,2025,3,September,2025: ETF Efficiency & Index Surge,Standard Asset Profile,7840,627.2,11.47540984
+432,Stock,Asian Paints,Blue Chip,52000,10-10-2025,57720,11,Low,2812,18.48,0,8.84,2025,4,October,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,5720,0,110
+433,Mutual Fund,Quant Small Cap Fund,Small Cap,42000,15-11-2025,48720,17,High,38.2,1275.39,2.1,7.14,2025,4,November,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,6720,882,7.727272727
+434,Stock,Nestle India,Blue Chip,70000,20-12-2025,76300,9,Low,27250,2.57,0,11.9,2025,4,December,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,6300,0,90
+435,Mutual Fund,Canara Robeco Equity Diversified,Multicap,61000,25-01-2026,70760,16,Medium,83.2,756.73,1.18,10.37,2026,1,January,2026: Commodity & High-Volatility Balanced Market,High Yield - Cost Efficient,9760,719.8,12.5
+436,Stock,Hindustan Unilever,Blue Chip,80000,28-02-2026,85600,7,Low,2414,33.14,0,13.6,2026,1,February,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,5600,0,70
+437,Mutual Fund,Union Small Cap Fund,Small Cap,45000,05-03-2026,52650,17,High,45.2,1164.82,1.9,7.65,2026,1,March,2026: Commodity & High-Volatility Balanced Market,High Yield - Premium Cost,7650,855,8.5
+438,Stock,Dr Reddy's Labs,Blue Chip,55000,10-04-2026,62150,13,Medium,5521,9.96,0,9.35,2026,2,April,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,7150,0,130
+439,Mutual Fund,Sundaram Midcap Fund,Mid Cap,66000,15-05-2026,76560,16,High,76.8,996.88,1.35,11.22,2026,2,May,2026: Commodity & High-Volatility Balanced Market,High Yield - Premium Cost,10560,891,11.03448276
+440,Stock,Titan Company,Blue Chip,60000,20-06-2026,68400,14,Medium,3192,18.8,0,10.2,2026,2,June,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,8400,0,140
+441,Mutual Fund,Invesco India Growth Fund,Mid Cap,54000,25-07-2026,62640,16,Medium,112,559.29,1.22,9.18,2026,3,July,2026: Commodity & High-Volatility Balanced Market,High Yield - Premium Cost,8640,658.8,12.12121212
+442,Stock,Bajaj Auto,Blue Chip,68000,30-08-2026,76160,12,Low,7463,9.12,0,11.56,2026,3,August,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,8160,0,120
+443,Mutual Fund,Edelweiss Large Cap Fund,Large Cap,78000,04-09-2026,87840,12.6,Medium,326.6,238.88,1.06,13.24,2026,3,September,2026: Commodity & High-Volatility Balanced Market,Standard Asset Profile,9840,826.8,10.86206897
+444,Stock,Divi's Labs,Blue Chip,72000,09-10-2026,81360,13,Medium,4896.67,14.71,0,12.24,2026,4,October,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,9360,0,130
+445,Mutual Fund,PPFAS Flexi Cap Fund,Flexi Cap,82000,14-11-2026,93480,14,Medium,706.8,116.02,1.15,13.92,2026,4,November,2026: Commodity & High-Volatility Balanced Market,Standard Asset Profile,11480,943,11.2
+446,Stock,ICICI Bank,Blue Chip,75000,19-12-2026,84750,13,Low,1243,60.34,0,12.75,2026,4,December,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,9750,0,130
+447,Mutual Fund,HSBC Large Cap Fund,Large Cap,68000,11-03-2023,76840,13,Medium,271.2,250.59,1.04,11.56,2023,1,March,2023: Stock & Active Equity Market Boom,Standard Asset Profile,8840,707.2,11.40350877
+448,Stock,State Bank of India,Blue Chip,80000,16-04-2023,92000,15,Medium,690,115.94,0,13.6,2023,2,April,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,12000,0,150
+449,Mutual Fund,Kotak Bluechip Fund,Large Cap,73000,21-05-2023,83210,14.2,Medium,242.36,301.34,1.01,12.4,2023,2,May,2023: Stock & Active Equity Market Boom,Standard Asset Profile,10210,737.3,12.79279279
+450,Stock,Godrej Consumer Products,Blue Chip,58000,26-06-2023,65540,12.9,Low,1148.5,50.46,0,9.86,2023,2,June,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,7540,0,129
+451,Mutual Fund,Bank of India Large Cap Fund,Large Cap,65000,31-07-2023,74100,14,Medium,342,190.06,1.07,11.05,2023,3,July,2023: Stock & Active Equity Market Boom,Standard Asset Profile,9100,695.5,11.96581197
+452,Stock,Britannia Industries,Blue Chip,62000,05-08-2023,71300,15,Low,4830,12.84,0,10.54,2023,3,August,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,9300,0,150
+453,Mutual Fund,L&T Emerging Businesses Fund,Mid Cap,56000,10-09-2023,66080,18,High,64.8,1022.22,1.55,9.52,2023,3,September,2023: Stock & Active Equity Market Boom,High Yield - Premium Cost,10080,868,10.90909091
+454,Stock,Grasim Industries,Blue Chip,70000,15-10-2023,80500,15,Medium,1916.67,36.52,0,11.9,2023,4,October,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,10500,0,150
+455,Mutual Fund,Baroda BNP Paribas Large Cap Fund,Large Cap,72000,20-11-2023,81840,13.2,Medium,294.4,244.42,1.03,12.24,2023,4,November,2023: Stock & Active Equity Market Boom,Standard Asset Profile,9840,741.6,11.68141593
+456,Stock,UPL,Blue Chip,48000,25-12-2023,54720,14,Medium,398,120.6,0,8.16,2023,4,December,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,6720,0,140
+457,Mutual Fund,IIFL Focused Equity Fund,Focused Fund,60000,30-01-2024,68400,14,Medium,456,131.58,1.28,10.2,2024,1,January,2024: Mutual Fund Consistency Era,Standard Asset Profile,8400,768,10.14492754
+458,Stock,Zomato,Mid Cap,45000,04-02-2024,54000,20,High,150,300,0,7.65,2024,1,February,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,9000,0,200
+459,Mutual Fund,Samco Active Equity Fund,Focused Fund,55000,09-03-2024,63250,15,Medium,80.5,683.23,1.75,9.35,2024,1,March,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,8250,962.5,8.108108108
+460,Stock,Nykaa,Mid Cap,40000,14-04-2024,47600,19,High,130.9,306.34,0,6.8,2024,2,April,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,7600,0,190
+461,Mutual Fund,WhiteOak Capital Midcap Fund,Mid Cap,58000,19-05-2024,68440,18,High,62.7,924.56,1.48,9.86,2024,2,May,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,10440,858.4,11.39240506
+462,Stock,Paytm,Mid Cap,35000,24-06-2024,38500,10,High,396,88.38,0,5.95,2024,2,June,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,3500,0,100
+463,Mutual Fund,ITI Midcap Fund,Mid Cap,52000,29-07-2024,61360,18,High,47.2,1103.39,1.52,8.84,2024,3,July,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,9360,790.4,11.11111111
+464,Stock,Dreamfolks Services,Small Cap,30000,03-08-2024,35400,18,High,295,120,0,5.1,2024,3,August,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,5400,0,180
+465,Mutual Fund,Helios Midcap Fund,Mid Cap,60000,08-09-2024,70800,18,High,78.67,762.5,1.42,10.2,2024,3,September,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,10800,852,11.84210526
+466,Stock,Nuvo,Small Cap,28000,13-10-2024,32760,17,High,234,119.66,0,4.76,2024,4,October,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,4760,0,170
+467,Mutual Fund,Motilal Oswal Midcap Fund,Mid Cap,56000,18-11-2024,66080,18,High,60.69,923.13,1.5,9.52,2024,4,November,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,10080,840,11.25
+468,Stock,Tata Elxsi,Mid Cap,48000,23-12-2024,55200,15,Medium,805,59.63,0,8.16,2024,4,December,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,7200,0,150
+469,Mutual Fund,HSBC Midcap Fund,Mid Cap,62000,28-01-2025,73160,18,High,103.25,600.48,1.38,10.54,2025,1,January,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,11160,855.6,12.16216216
+470,Stock,Persistent Systems,Mid Cap,52000,02-02-2025,60320,16,Medium,698.67,74.45,0,8.84,2025,1,February,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,8320,0,160
+471,Mutual Fund,Nippon India Growth Fund,Mid Cap,58000,07-03-2025,66940,15.3,Medium,87.56,661.99,1.25,9.86,2025,1,March,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,8940,725,11.33333333
+472,Stock,L&T Technology Services,Mid Cap,46000,12-04-2025,52900,15,Medium,427.14,107.71,0,7.82,2025,2,April,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,6900,0,150
+473,Mutual Fund,ICICI Prudential Midcap Fund,Mid Cap,65000,17-05-2025,75650,17,High,75.21,864.13,1.32,11.05,2025,2,May,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,10650,858,11.97183099
+474,Stock,Happiest Minds,Mid Cap,40000,22-06-2025,46800,17,Medium,780,51.28,0,6.8,2025,2,June,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,6800,0,170
+475,Mutual Fund,Kotak Emerging Equity Fund,Mid Cap,60000,27-07-2025,70200,17,High,78,769.23,1.4,10.2,2025,3,July,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,10200,840,11.33333333
+476,Stock,Mphasis,Mid Cap,50000,01-08-2025,57500,15,Medium,2300,21.74,0,8.5,2025,3,August,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,7500,0,150
+477,Mutual Fund,Axis Midcap Fund,Mid Cap,68000,06-09-2025,79560,17,High,112.32,605.36,1.25,11.56,2025,3,September,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,11560,850,12.59259259
+478,Stock,Coforge,Mid Cap,55000,11-10-2025,63250,15,Medium,1610,34.16,0,9.35,2025,4,October,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,8250,0,150
+479,Mutual Fund,HDFC Mid-Cap Opportunities,Mid Cap,72000,16-11-2025,84240,17,High,169,426.27,1.3,12.24,2025,4,November,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,12240,936,12.14285714
+480,Stock,LTIMindtree,Mid Cap,65000,21-12-2025,74750,15,Medium,5175,12.56,0,11.05,2025,4,December,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,9750,0,150
+481,Mutual Fund,PGIM India Midcap Fund,Mid Cap,58000,26-01-2026,67860,17,High,111.15,522.03,1.48,9.86,2026,1,January,2026: Commodity & High-Volatility Balanced Market,High Yield - Premium Cost,9860,858.4,10.75949367
+482,Stock,Tata Technologies,Mid Cap,48000,28-02-2026,55200,15,Medium,805,59.63,0,8.16,2026,1,February,2026: Commodity & High-Volatility Balanced Market,High Yield - Cost Efficient,7200,0,150
+483,Mutual Fund,Mirae Asset Midcap Fund,Mid Cap,62000,05-03-2026,72300,16.5,High,91.75,675.75,1.35,10.54,2026,1,March,2026: Commodity & High-Volatility Balanced Market,High Yield - Premium Cost,10300,837,11.37931034
+484,Stock,Sensex ETF,ETF,140000,10-04-2026,161000,15,Low,575,280,0.15,23.8,2026,2,April,2026: Commodity & High-Volatility Balanced Market,High Yield - Cost Efficient,21000,210,60
+485,Mutual Fund,Nifty 50 ETF,ETF,120000,12-03-2023,136800,14,Low,228,526.32,0.1,20.4,2023,1,March,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,16800,120,70
+486,Stock,Bank Nifty ETF,ETF,115000,17-04-2023,132250,15,Medium,1725,66.67,0.2,19.55,2023,2,April,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,17250,230,50
+487,Mutual Fund,Gold ETF,ETF,90000,22-05-2023,100800,12,Low,280,360,0.25,15.3,2023,2,May,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,10800,225,34.28571429
+488,Stock,IT Index ETF,ETF,100000,27-06-2023,114000,14,Medium,228,500,0.15,17,2023,2,June,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,14000,150,56
+489,Mutual Fund,PSU Bank ETF,ETF,80000,02-07-2023,89600,12,Medium,89.6,1000,0.18,13.6,2023,3,July,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,9600,144,42.85714286
+490,Stock,Infra ETF,ETF,95000,07-08-2023,109250,15,Medium,211.67,511.9,0.16,16.15,2023,3,August,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,14250,152,57.69230769
+491,Mutual Fund,Consumption ETF,ETF,85000,12-09-2023,96900,14,Low,256.5,331.17,0.12,14.45,2023,3,September,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,11900,102,63.63636364
+492,Stock,Pharma ETF,ETF,75000,17-10-2023,85500,14,Medium,133,642.86,0.15,12.75,2023,4,October,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,10500,112.5,56
+493,Mutual Fund,Auto ETF,ETF,80000,22-11-2023,91200,14,Medium,114,800,0.17,13.6,2023,4,November,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,11200,136,51.85185185
+494,Stock,Midcap ETF,ETF,90000,27-12-2023,103500,15,Medium,287.5,375.43,0.18,15.3,2023,4,December,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,13500,162,53.57142857
+495,Mutual Fund,Smallcap ETF,ETF,70000,01-01-2024,80500,15,High,172.5,466.67,0.22,11.9,2024,1,January,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,10500,154,46.875
+496,Stock,Value ETF,ETF,85000,06-02-2024,96900,14,Medium,171,566.67,0.16,14.45,2024,1,February,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,11900,136,53.84615385
+497,Mutual Fund,Dividend Yield ETF,ETF,80000,11-03-2024,90400,13,Low,151.33,528.57,0.14,13.6,2024,1,March,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,10400,112,54.16666667
+498,Stock,Quality ETF,ETF,95000,16-04-2024,108300,14,Low,209,518.18,0.13,16.15,2024,2,April,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,13300,123.5,60.86956522
+499,Mutual Fund,Low Volatility ETF,ETF,88000,21-05-2024,98560,12,Low,179.2,583.33,0.12,14.92,2024,2,May,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,10560,105.6,54.54545455
+500,Stock,Momentum ETF,ETF,82000,26-06-2024,94300,15,High,161,585.71,0.2,13.92,2024,2,June,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,12300,164,50
+501,Mutual Fund,Debt Fund - Dynamic Bond,Debt,140000,13-03-2023,149800,7,Low,21.4,7000,0.5,23.8,2023,1,March,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,9800,700,11.66666667
+502,Mutual Fund,Debt Fund - Corporate Bond,Debt,120000,18-04-2023,127200,6,Low,21.2,6000,0.45,20.4,2023,2,April,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,7200,540,10.90909091
+503,Mutual Fund,Debt Fund - Government Securities,Debt,115000,23-05-2023,121900,6,Low,26.5,4600,0.35,19.55,2023,2,May,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,6900,402.5,13.33333333
+504,Mutual Fund,Debt Fund - Short Duration,Debt,100000,28-06-2023,105000,5,Low,10.5,10000,0.4,17,2023,2,June,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,5000,400,10
+505,Mutual Fund,Debt Fund - Money Market,Debt,90000,03-07-2023,94500,5,Low,10.5,9000,0.3,15.3,2023,3,July,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,4500,270,12.5
+506,Mutual Fund,Debt Fund - Liquid Fund,Debt,200000,08-08-2023,208000,4,Low,10.4,20000,0.2,34,2023,3,August,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,8000,400,13.33333333
+507,Mutual Fund,Debt Fund - Ultra Short Duration,Debt,110000,13-09-2023,115500,5,Low,14.7,7857.14,0.35,18.7,2023,3,September,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,5500,385,11.11111111
+508,Mutual Fund,Debt Fund - Credit Risk,Debt,95000,18-10-2023,101650,7,Medium,11.77,8630,0.85,16.15,2023,4,October,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,6650,807.5,7.368421053
+509,Mutual Fund,Debt Fund - Banking & PSU,Debt,105000,23-11-2023,110250,5,Low,13.65,8434.43,0.4,17.85,2023,4,November,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,5250,420,10
+510,Mutual Fund,Debt Fund - Gilt Fund,Debt,85000,28-12-2023,89250,5,Low,15.75,5460.33,0.3,14.45,2023,4,December,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,4250,255,12.5
+511,Mutual Fund,Hybrid Fund - Equity Savings,Hybrid,100000,02-01-2024,111000,11,Low,11.1,10000,0.8,17,2024,1,January,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,11000,800,12.22222222
+512,Mutual Fund,Hybrid Fund - Conservative Hybrid,Hybrid,110000,07-02-2024,118800,8,Low,12.6,9555.56,0.75,18.7,2024,1,February,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,8800,825,9.411764706
+513,Mutual Fund,Hybrid Fund - Balanced Hybrid,Hybrid,120000,12-03-2024,134400,12,Medium,14.93,8932.72,1.1,20.4,2024,1,March,2024: Mutual Fund Consistency Era,Standard Asset Profile,14400,1320,10
+514,Mutual Fund,Hybrid Fund - Aggressive Hybrid,Hybrid,130000,17-04-2024,148200,14,Medium,17.1,8664.33,1.15,22.1,2024,2,April,2024: Mutual Fund Consistency Era,Standard Asset Profile,18200,1495,11.2
+515,Mutual Fund,Hybrid Fund - Dynamic Asset Allocation,Hybrid,105000,22-05-2024,115500,10,Low,14.3,8146.85,0.9,17.85,2024,2,May,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,10500,945,10
+516,Mutual Fund,Hybrid Fund - Multi Asset Allocation,Hybrid,95000,27-06-2024,104500,10,Low,12.1,8636.36,0.95,16.15,2024,2,June,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,9500,902.5,9.523809524
+517,Mutual Fund,HDFC Children's Gift Fund,Children's Fund,90000,02-07-2024,103500,15,Medium,191.67,546.57,1.2,15.3,2024,3,July,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,13500,1080,11.53846154
+518,Mutual Fund,ICICI Prudential Child Care Fund,Children's Fund,85000,07-08-2024,97750,15,Medium,172.5,566.67,1.18,14.45,2024,3,August,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,12750,1003,11.71875
+519,Mutual Fund,SBI Children's Future Fund,Children's Fund,95000,12-09-2024,109250,15,Medium,211.67,542.86,1.15,16.15,2024,3,September,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,14250,1092.5,12
+520,Mutual Fund,Axis Children's Gift Fund,Children's Fund,100000,17-10-2024,115000,15,Medium,230,500,1.22,17,2024,4,October,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,15000,1220,11.36363636
+521,Mutual Fund,Kotak Assured Income,Retirement Fund,140000,22-11-2024,151200,8,Low,10.8,14000,0.8,23.8,2024,4,November,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,11200,1120,8.888888889
+522,Mutual Fund,HDFC Retirement Savings Fund,Retirement Fund,160000,27-12-2024,174400,9,Low,13.08,16000,0.85,27.2,2024,4,December,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,14400,1360,9.473684211
+523,Mutual Fund,ICICI Prudential Retirement Fund,Retirement Fund,120000,01-01-2025,130800,9,Low,10.9,12000,0.82,20.4,2025,1,January,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,10800,984,9.782608696
+524,Mutual Fund,SBI Retirement Fund,Retirement Fund,130000,06-02-2025,141700,9,Low,10.9,13000,0.8,22.1,2025,1,February,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,11700,1040,10
+525,Mutual Fund,Axis Retirement Fund,Retirement Fund,110000,11-03-2025,119900,9,Low,10.9,11000,0.78,18.7,2025,1,March,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,9900,858,10.22727273
+526,Mutual Fund,Tata Digital India Fund,Sectoral - Technology,90000,16-04-2025,103500,15,High,48.9,1840.49,1.8,15.3,2025,2,April,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,13500,1620,7.894736842
+527,Mutual Fund,SBI Technology Opportunities Fund,Sectoral - Technology,85000,21-05-2025,98600,16,High,52.2,1888.89,1.75,14.45,2025,2,May,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,13600,1487.5,8.648648649
+528,Mutual Fund,ICICI Prudential Technology Fund,Sectoral - Technology,95000,26-06-2025,110200,16,High,53.19,2070.91,1.78,16.15,2025,2,June,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,15200,1691,8.510638298
+529,Mutual Fund,Kotak Technology Fund,Sectoral - Technology,80000,01-07-2025,92000,15,High,46,2000,1.72,13.6,2025,3,July,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,12000,1376,8.241758242
+530,Mutual Fund,UTI Nifty 50 Value 20 Index Fund,Index Fund,105000,06-08-2025,120750,15,Low,14.95,8140.47,0.5,17.85,2025,3,August,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,15750,525,25
+531,Mutual Fund,Bandhan Nifty 50 Index Fund,Index Fund,100000,11-09-2025,114000,14,Low,13.68,7309.94,0.48,17,2025,3,September,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,14000,480,24.13793103
+532,Mutual Fund,Motilal Oswal Nifty 50 Index Fund,Index Fund,110000,16-10-2025,125400,14,Low,15.96,7309.94,0.52,18.7,2025,4,October,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,15400,572,22.58064516
+533,Mutual Fund,Axis Nifty 50 Index Fund,Index Fund,95000,21-11-2025,108300,14,Low,12.54,8636.36,0.45,16.15,2025,4,November,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,13300,427.5,25.45454545
+534,Mutual Fund,ICICI Prudential Nifty 50 Index Fund,Index Fund,120000,26-12-2025,136800,14,Low,18.24,7500,0.5,20.4,2025,4,December,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,16800,600,23.33333333
+535,Mutual Fund,Nippon India Nifty 50 Index Fund,Index Fund,115000,31-01-2026,131100,14,Low,17.1,7666.67,0.48,19.55,2026,1,January,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,16100,552,24.13793103
+536,Mutual Fund,Quant Absolute Return Fund,Hybrid,90000,05-02-2026,103500,15,Medium,57.5,1800,1.5,15.3,2026,1,February,2026: Commodity & High-Volatility Balanced Market,High Yield - Premium Cost,13500,1350,9.375
+537,Mutual Fund,Kotak Equity Hybrid Fund,Hybrid,100000,14-03-2023,114000,14,Medium,13.68,8333.33,1.12,17,2023,1,March,2023: Stock & Active Equity Market Boom,Standard Asset Profile,14000,1120,11.47540984
+538,Mutual Fund,HDFC Balanced Advantage Fund,Hybrid,110000,19-04-2023,124300,13,Low,15.82,7807.83,0.95,18.7,2023,2,April,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,14300,1045,12.38095238
+539,Mutual Fund,ICICI Prudential Balanced Advantage,Hybrid,120000,24-05-2023,135600,13,Low,18.08,8000,0.92,20.4,2023,2,May,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,15600,1104,12.74509804
+540,Mutual Fund,SBI Balanced Fund,Hybrid,105000,29-06-2023,117600,12,Medium,14.56,8333.33,1.15,17.85,2023,2,June,2023: Stock & Active Equity Market Boom,Standard Asset Profile,12600,1207.5,9.6
+541,Mutual Fund,Axis Balanced Fund,Hybrid,95000,04-07-2023,104500,11,Medium,12.21,8333.33,1.1,16.15,2023,3,July,2023: Stock & Active Equity Market Boom,Standard Asset Profile,9500,1045,9.166666667
+542,Mutual Fund,PGIM India Balanced Advantage,Hybrid,100000,09-08-2023,112000,12,Low,13.44,8333.33,0.98,17,2023,3,August,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,12000,980,11.11111111
+543,Mutual Fund,Tata Balanced Fund,Hybrid,90000,14-09-2023,100800,12,Medium,11.2,8333.33,1.08,15.3,2023,3,September,2023: Stock & Active Equity Market Boom,Standard Asset Profile,10800,972,10.16949153
+544,Mutual Fund,UTI Balanced Fund,Hybrid,85000,19-10-2023,93500,10,Medium,9.9,8333.33,1.05,14.45,2023,4,October,2023: Stock & Active Equity Market Boom,Standard Asset Profile,8500,892.5,8.695652174
+545,Mutual Fund,Aditya Birla Sun Life Balanced 95,Hybrid,95000,24-11-2023,104500,10,Medium,12.1,8333.33,1.02,16.15,2023,4,November,2023: Stock & Active Equity Market Boom,Standard Asset Profile,9500,969,8.928571429
+546,Mutual Fund,Franklin India Balanced Fund,Hybrid,80000,29-12-2023,86400,8,Low,8.64,8333.33,0.95,13.6,2023,4,December,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,6400,760,7.619047619
+547,Mutual Fund,L&T Balanced Fund,Hybrid,88000,03-01-2024,96120,9,Medium,10.46,8333.33,1,14.92,2024,1,January,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,8120,880,8.181818182
+548,Mutual Fund,IDFC Balanced Advantage Fund,Hybrid,92000,08-02-2024,100280,9,Low,11.34,8333.33,0.88,15.64,2024,1,February,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,8280,809.6,9.183673469
+549,Mutual Fund,HSBC Balanced Fund,Hybrid,98000,13-03-2024,107800,10,Medium,12.76,8333.33,1.05,16.66,2024,1,March,2024: Mutual Fund Consistency Era,Standard Asset Profile,9800,1029,8.695652174
+550,Mutual Fund,Invesco India Balanced Fund,Hybrid,93000,18-04-2024,100530,8,Low,11.45,8333.33,0.92,15.82,2024,2,April,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,7530,855.6,7.843137255
+551,Mutual Fund,Parag Parikh Dynamic Asset Allocation,Hybrid,100000,23-05-2024,110000,10,Low,13.2,8333.33,0.9,17,2024,2,May,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,10000,900,10
+552,Mutual Fund,WhiteOak Capital Hybrid Fund,Hybrid,85000,28-06-2024,93500,10,Medium,9.9,8333.33,1.15,14.45,2024,2,June,2024: Mutual Fund Consistency Era,Standard Asset Profile,8500,977.5,8
+553,Mutual Fund,Samco Hybrid Fund,Hybrid,80000,03-07-2024,88000,10,Medium,8.8,8333.33,1.2,13.6,2024,3,July,2024: Mutual Fund Consistency Era,Standard Asset Profile,8000,960,7.692307692
+554,Mutual Fund,ITI Hybrid Fund,Hybrid,95000,08-08-2024,103550,9,Medium,11.99,8333.33,1.1,16.15,2024,3,August,2024: Mutual Fund Consistency Era,Standard Asset Profile,8550,1045,7.5
+555,Mutual Fund,Helios Hybrid Fund,Hybrid,90000,13-09-2024,97200,8,Low,10.8,8333.33,0.95,15.3,2024,3,September,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,7200,855,7.619047619
+556,Mutual Fund,Bajaj Finserv Flexi Cap Fund,Flexi Cap,105000,18-10-2024,120750,15,Medium,149.5,806.02,1.25,17.85,2024,4,October,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,15750,1312.5,11.11111111
+557,Mutual Fund,UTI Flexi Cap Fund,Flexi Cap,100000,23-11-2024,115000,15,Medium,138,833.33,1.2,17,2024,4,November,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,15000,1200,11.53846154
+558,Mutual Fund,Motilal Oswal Flexi Cap Fund,Flexi Cap,95000,28-12-2024,109250,15,Medium,126.5,833.33,1.22,16.15,2024,4,December,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,14250,1159,11.36363636
+559,Mutual Fund,ICICI Prudential Flexi Cap Fund,Flexi Cap,110000,02-01-2025,126500,15,Medium,161,833.33,1.18,18.7,2025,1,January,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,16500,1298,11.71875
+560,Mutual Fund,SBI Flexi Cap Fund,Flexi Cap,115000,07-02-2025,132250,15,Medium,172.5,833.33,1.15,19.55,2025,1,February,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,17250,1322.5,12
+561,Mutual Fund,HDFC Flexi Cap Fund,Flexi Cap,120000,12-03-2025,138000,15,Medium,184,833.33,1.2,20.4,2025,1,March,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,18000,1440,11.53846154
+562,Mutual Fund,Axis Flexi Cap Fund,Flexi Cap,105000,17-04-2025,120750,15,Medium,149.5,833.33,1.18,17.85,2025,2,April,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,15750,1239,11.71875
+563,Mutual Fund,Kotak Flexi Cap Fund,Flexi Cap,100000,22-05-2025,115000,15,Medium,138,833.33,1.15,17,2025,2,May,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,15000,1150,12
+564,Mutual Fund,Nippon India Flexi Cap Fund,Flexi Cap,95000,27-06-2025,109250,15,Medium,126.5,833.33,1.22,16.15,2025,2,June,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,14250,1159,11.36363636
+565,Mutual Fund,Tata Flexi Cap Fund,Flexi Cap,90000,02-07-2025,103500,15,Medium,115,833.33,1.2,15.3,2025,3,July,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,13500,1080,11.53846154
+566,Mutual Fund,Bandhan Flexi Cap Fund,Flexi Cap,85000,07-08-2025,97750,15,Medium,103.5,833.33,1.25,14.45,2025,3,August,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,12750,1062.5,11.11111111
+567,Mutual Fund,PGIM India Flexi Cap Fund,Flexi Cap,110000,12-09-2025,126500,15,Medium,161,833.33,1.18,18.7,2025,3,September,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,16500,1298,11.71875
+568,Mutual Fund,Invesco India Flexi Cap Fund,Flexi Cap,105000,17-10-2025,120750,15,Medium,149.5,833.33,1.2,17.85,2025,4,October,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,15750,1260,11.53846154
+569,Mutual Fund,Edelweiss Flexi Cap Fund,Flexi Cap,100000,22-11-2025,115000,15,Medium,138,833.33,1.22,17,2025,4,November,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,15000,1220,11.36363636
+570,Mutual Fund,HSBC Flexi Cap Fund,Flexi Cap,95000,27-12-2025,109250,15,Medium,126.5,833.33,1.15,16.15,2025,4,December,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,14250,1092.5,12
+571,Mutual Fund,Union Flexi Cap Fund,Flexi Cap,90000,01-01-2026,103500,15,Medium,115,833.33,1.18,15.3,2026,1,January,2026: Commodity & High-Volatility Balanced Market,High Yield - Cost Efficient,13500,1062,11.71875
+572,Mutual Fund,Quant Flexi Cap Fund,Flexi Cap,88000,06-02-2026,101200,15,High,110.4,833.33,1.8,14.92,2026,1,February,2026: Commodity & High-Volatility Balanced Market,High Yield - Premium Cost,13200,1584,7.894736842
+573,Mutual Fund,Mirae Asset Large & Midcap Fund,Multicap,110000,15-03-2023,127600,16,Medium,162.4,785.71,1.15,18.7,2023,1,March,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,17600,1265,12.8
+574,Mutual Fund,ICICI Prudential Multicap Fund,Multicap,105000,20-04-2023,121800,16,Medium,150.8,785.71,1.12,17.85,2023,2,April,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,16800,1176,13.1147541
+575,Mutual Fund,SBI Multicap Fund,Multicap,100000,25-05-2023,116000,16,Medium,139.2,785.71,1.1,17,2023,2,May,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,16000,1100,13.33333333
+576,Mutual Fund,HDFC Multicap Fund,Multicap,115000,30-06-2023,133400,16,Medium,174,785.71,1.18,19.55,2023,2,June,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,18400,1357,12.5
+577,Mutual Fund,Axis Multicap Fund,Multicap,95000,05-07-2023,110200,16,Medium,127.6,785.71,1.15,16.15,2023,3,July,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,15200,1092.5,12.8
+578,Mutual Fund,Kotak Multicap Fund,Multicap,90000,10-08-2023,104400,16,Medium,116,785.71,1.12,15.3,2023,3,August,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,14400,1008,13.1147541
+579,Mutual Fund,Nippon India Multicap Fund,Multicap,98000,15-09-2023,113680,16,Medium,134.56,785.71,1.2,16.66,2023,3,September,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,15680,1176,12.30769231
+580,Mutual Fund,Tata Multicap Fund,Multicap,88000,20-10-2023,102080,16,Medium,111.36,785.71,1.15,14.92,2023,4,October,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,14080,1012,12.8
+581,Mutual Fund,Bandhan Multicap Fund,Multicap,92000,25-11-2023,106720,16,Medium,120.64,785.71,1.18,15.64,2023,4,November,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,14720,1085.6,12.5
+582,Mutual Fund,PGIM India Multicap Fund,Multicap,100000,30-12-2023,116000,16,Medium,139.2,785.71,1.15,17,2023,4,December,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,16000,1150,12.8
+583,Mutual Fund,Invesco India Multicap Fund,Multicap,95000,04-01-2024,110200,16,Medium,127.6,785.71,1.2,16.15,2024,1,January,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,15200,1140,12.30769231
+584,Mutual Fund,Edelweiss Multicap Fund,Multicap,85000,09-02-2024,98600,16,Medium,104.4,785.71,1.18,14.45,2024,1,February,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,13600,1003,12.5
+585,Mutual Fund,HSBC Multicap Fund,Multicap,90000,14-03-2024,104400,16,Medium,116,785.71,1.15,15.3,2024,1,March,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,14400,1035,12.8
+586,Mutual Fund,Union Multicap Fund,Multicap,93000,19-04-2024,107880,16,Medium,122.96,785.71,1.22,15.82,2024,2,April,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,14880,1134.6,12.12121212
+587,Mutual Fund,Quant Multicap Fund,Multicap,98000,24-05-2024,113680,16,High,134.56,785.71,1.85,16.66,2024,2,May,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,15680,1813,8.205128205
+588,Mutual Fund,WhiteOak Capital Multicap Fund,Multicap,100000,29-06-2024,116000,16,Medium,139.2,785.71,1.35,17,2024,2,June,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,16000,1350,11.03448276
+589,Mutual Fund,Samco Multicap Fund,Multicap,95000,04-07-2024,110200,16,Medium,127.6,785.71,1.4,16.15,2024,3,July,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,15200,1330,10.66666667
+590,Mutual Fund,ITI Multicap Fund,Multicap,88000,09-08-2024,102080,16,Medium,111.36,785.71,1.3,14.92,2024,3,August,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,14080,1144,11.42857143
+591,Mutual Fund,Helios Multicap Fund,Multicap,92000,14-09-2024,106720,16,Medium,120.64,785.71,1.38,15.64,2024,3,September,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,14720,1269.6,10.81081081
+592,Mutual Fund,Bajaj Finserv Multicap Fund,Multicap,97000,19-10-2024,112520,16,Medium,132.24,785.71,1.25,16.48,2024,4,October,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,15520,1212.5,11.85185185
+593,Mutual Fund,Motilal Oswal Multicap Fund,Multicap,100000,24-11-2024,116000,16,Medium,139.2,785.71,1.28,17,2024,4,November,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,16000,1280,11.5942029
+594,Mutual Fund,L&T Multicap Fund,Multicap,95000,29-12-2024,110200,16,Medium,127.6,785.71,1.22,16.15,2024,4,December,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,15200,1159,12.12121212
+595,Mutual Fund,IDFC Multicap Fund,Multicap,90000,03-01-2025,104400,16,Medium,116,785.71,1.18,15.3,2025,1,January,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,14400,1062,12.5
+596,Mutual Fund,Aditya Birla Sun Life Multicap Fund,Multicap,88000,08-02-2025,102080,16,Medium,111.36,785.71,1.15,14.92,2025,1,February,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,14080,1012,12.8
+597,Mutual Fund,Franklin India Multicap Fund,Multicap,92000,13-03-2025,106720,16,Medium,120.64,785.71,1.1,15.64,2025,1,March,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,14720,1012,13.33333333
+598,Mutual Fund,UTI Multicap Fund,Multicap,98000,18-04-2025,113680,16,Medium,134.56,785.71,1.2,16.66,2025,2,April,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,15680,1176,12.30769231
+599,Mutual Fund,Baroda BNP Paribas Multicap Fund,Multicap,95000,23-05-2025,110200,16,Medium,127.6,785.71,1.15,16.15,2025,2,May,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,15200,1092.5,12.8
+600,Mutual Fund,Bank of India Multicap Fund,Multicap,90000,28-06-2025,104400,16,Medium,116,785.71,1.18,15.3,2025,2,June,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,14400,1062,12.5
+601,Mutual Fund,HDFC Top 100 Fund,Large Cap,80000,16-03-2023,94000,17.5,High,1850.25,43.23,1.05,13.6,2023,1,March,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,14000,840,15.2173913
+602,Mutual Fund,ICICI Prudential Bluechip Fund,Large Cap,75000,21-04-2023,86250,15,Medium,1245.5,60.24,1.02,12.75,2023,2,April,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,11250,765,13.39285714
+603,Stock,Reliance Industries,Blue Chip,160000,26-05-2023,188800,18,Medium,2580.75,62.01,0,27.2,2023,2,May,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,28800,0,180
+604,Mutual Fund,SBI Small Cap Fund,Small Cap,45000,30-06-2023,52650,17,High,56.8,927.82,1.75,7.65,2023,2,June,2023: Stock & Active Equity Market Boom,High Yield - Premium Cost,7650,787.5,9.189189189
+605,Stock,TCS,Blue Chip,110000,05-07-2023,124300,13,Low,3620,30.39,0,18.7,2023,3,July,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,14300,0,130
+606,Mutual Fund,Axis Midcap Fund,Mid Cap,60000,10-08-2023,70800,18,High,125.4,478.46,1.25,10.2,2023,3,August,2023: Stock & Active Equity Market Boom,High Yield - Premium Cost,10800,750,13.33333333
+607,Stock,HDFC Bank,Blue Chip,95000,15-09-2023,107350,13,Low,1580.5,60.12,0,16.15,2023,3,September,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,12350,0,130
+608,Mutual Fund,Mirae Asset Large Cap Fund,Large Cap,85000,20-10-2023,95200,12,Medium,980.2,86.7,1.03,14.45,2023,4,October,2023: Stock & Active Equity Market Boom,Standard Asset Profile,10200,875.5,10.61946903
+609,Stock,Infosys,Blue Chip,70000,25-11-2023,79100,13,Medium,1475.25,47.46,0,11.9,2023,4,November,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,9100,0,130
+610,Mutual Fund,Kotak Emerging Equity Fund,Mid Cap,50000,30-12-2023,59000,18,High,82.15,608.69,1.45,8.5,2023,4,December,2023: Stock & Active Equity Market Boom,High Yield - Premium Cost,9000,725,11.61290323
+611,Mutual Fund,UTI Nifty 50 Index Fund,Index Fund,90000,04-01-2024,102600,14,Low,210.5,427.56,0.5,15.3,2024,1,January,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,12600,450,23.33333333
+612,Stock,Bharti Airtel,Blue Chip,80000,09-02-2024,89600,12,Medium,1120,80,0,13.6,2024,1,February,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,9600,0,120
+613,Mutual Fund,Parag Parikh Flexi Cap Fund,Flexi Cap,100000,15-03-2024,114000,14,Medium,532.5,214.24,1.1,17,2024,1,March,2024: Mutual Fund Consistency Era,Standard Asset Profile,14000,1100,11.66666667
+614,Stock,ITC,Blue Chip,75000,20-04-2024,84750,13,Low,450.25,188.12,0,12.75,2024,2,April,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,9750,0,130
+615,Mutual Fund,Tata Digital India Fund,Sectoral,70000,25-05-2024,78400,12,High,48.9,1431.49,1.8,11.9,2024,2,May,2024: Mutual Fund Consistency Era,Standard Asset Profile,8400,1260,6.315789474
+616,Stock,HCL Tech,Blue Chip,85000,30-06-2024,96900,14,Medium,1254,67.78,0,14.45,2024,2,June,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,11900,0,140
+617,Mutual Fund,PGIM India Midcap Opportunities,Mid Cap,55000,05-07-2024,64900,18,High,68.2,806.45,1.5,9.35,2024,3,July,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,9900,825,11.25
+618,Stock,Larsen & Toubro,Blue Chip,115000,10-08-2024,132250,15,Medium,3210.5,35.79,0,19.55,2024,3,August,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,17250,0,150
+619,Mutual Fund,Bandhan Small Cap Fund,Small Cap,40000,15-09-2024,47200,18,High,42.8,1102.8,1.95,6.8,2024,3,September,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,7200,780,8.780487805
+620,Stock,Maruti Suzuki,Blue Chip,90000,20-10-2024,103500,15,Medium,10350,10.02,0,15.3,2024,4,October,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,13500,0,150
+621,Mutual Fund,Nippon India Small Cap Fund,Small Cap,47000,25-11-2024,54990,17,High,52.15,907.19,1.85,7.99,2024,4,November,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,7990,869.5,8.717948718
+622,Stock,Wipro,Blue Chip,45000,30-12-2024,50400,12,Medium,448,100.45,0,7.65,2024,4,December,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,5400,0,120
+623,Mutual Fund,SBI Magnum Multicap Fund,Multicap,65000,04-01-2025,75400,16,Medium,185.6,431.25,1.15,11.05,2025,1,January,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,10400,747.5,12.8
+624,Stock,Axis Bank,Blue Chip,60000,09-02-2025,69000,15,Medium,1070,56.07,0,10.2,2025,1,February,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,9000,0,150
+625,Mutual Fund,Franklin India Prima Fund,Mid Cap,55000,16-03-2025,64350,17,High,72.8,783.05,1.3,9.35,2025,1,March,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,9350,715,12.14285714
+626,Stock,Mahindra & Mahindra,Blue Chip,85000,21-04-2025,97750,15,Medium,1765,47.73,0,14.45,2025,2,April,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,12750,0,150
+627,Mutual Fund,Aditya Birla Sun Life Frontline Equity,Large Cap,95000,26-05-2025,107350,13,Medium,587.8,161.52,1,16.15,2025,2,May,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,12350,950,11.81818182
+628,Stock,Sun Pharma,Blue Chip,100000,30-06-2025,116000,16,Medium,1624,61.58,0,17,2025,2,June,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,16000,0,160
+629,Mutual Fund,IDFC Core Equity Fund,Large Cap,82000,05-07-2025,93480,14,Medium,118.56,788.89,1.08,13.92,2025,3,July,2025: ETF Efficiency & Index Surge,Standard Asset Profile,11480,885.6,11.86440678
+630,Stock,Bajaj Finance,Blue Chip,75000,10-08-2025,87000,16,High,7830,11.12,0,12.75,2025,3,August,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,12000,0,160
+631,Mutual Fund,Tata Equity P/E Fund,Value Fund,64000,15-09-2025,72960,14,Medium,152,421.05,1.12,10.88,2025,3,September,2025: ETF Efficiency & Index Surge,Standard Asset Profile,8960,716.8,11.47540984
+632,Stock,Asian Paints,Blue Chip,60000,20-10-2025,66600,11,Low,2812,21.33,0,10.2,2025,4,October,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,6600,0,110
+633,Mutual Fund,Quant Small Cap Fund,Small Cap,50000,25-11-2025,58000,17,High,38.2,1518.33,2.1,8.5,2025,4,November,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,8000,1050,7.727272727
+634,Stock,Nestle India,Blue Chip,80000,30-12-2025,87200,9,Low,27250,2.94,0,13.6,2025,4,December,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,7200,0,90
+635,Mutual Fund,Canara Robeco Equity Diversified,Multicap,69000,04-01-2026,79940,16,Medium,83.2,876.2,1.18,11.73,2026,1,January,2026: Commodity & High-Volatility Balanced Market,High Yield - Cost Efficient,10940,814.2,12.5
+636,Stock,Hindustan Unilever,Blue Chip,90000,09-02-2026,96300,7,Low,2414,37.28,0,15.3,2026,1,February,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,6300,0,70
+637,Mutual Fund,Union Small Cap Fund,Small Cap,53000,16-03-2026,62010,17,High,45.2,1372.79,1.9,9.02,2026,1,March,2026: Commodity & High-Volatility Balanced Market,High Yield - Premium Cost,9010,1007,8.5
+638,Stock,Dr Reddy's Labs,Blue Chip,65000,21-04-2026,73450,13,Medium,5521,11.77,0,11.05,2026,2,April,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,8450,0,130
+639,Mutual Fund,Sundaram Midcap Fund,Mid Cap,76000,26-05-2026,88160,16,High,76.8,1147.92,1.35,12.92,2026,2,May,2026: Commodity & High-Volatility Balanced Market,High Yield - Premium Cost,12160,1026,11.03448276
+640,Stock,Titan Company,Blue Chip,70000,30-06-2026,79800,14,Medium,3192,21.93,0,11.9,2026,2,June,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,9800,0,140
+641,Mutual Fund,Invesco India Growth Fund,Mid Cap,64000,05-07-2026,74240,16,Medium,112,662.86,1.22,10.88,2026,3,July,2026: Commodity & High-Volatility Balanced Market,High Yield - Premium Cost,10240,780.8,12.12121212
+642,Stock,Bajaj Auto,Blue Chip,78000,10-08-2026,87360,12,Low,7463,10.46,0,13.24,2026,3,August,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,9360,0,120
+643,Mutual Fund,Edelweiss Large Cap Fund,Large Cap,88000,15-09-2026,99120,12.6,Medium,326.6,269.5,1.06,14.92,2026,3,September,2026: Commodity & High-Volatility Balanced Market,Standard Asset Profile,11120,932.8,10.86206897
+644,Stock,Divi's Labs,Blue Chip,82000,20-10-2026,92660,13,Medium,4896.67,16.76,0,13.92,2026,4,October,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,10660,0,130
+645,Mutual Fund,PPFAS Flexi Cap Fund,Flexi Cap,92000,25-11-2026,104800,14,Medium,706.8,130.13,1.15,15.64,2026,4,November,2026: Commodity & High-Volatility Balanced Market,Standard Asset Profile,12800,1058,11.2
+646,Stock,ICICI Bank,Blue Chip,85000,30-12-2026,96050,13,Low,1243,68.38,0,14.45,2026,4,December,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,11050,0,130
+647,Mutual Fund,HSBC Large Cap Fund,Large Cap,78000,17-03-2023,88140,13,Medium,271.2,287.67,1.04,13.24,2023,1,March,2023: Stock & Active Equity Market Boom,Standard Asset Profile,10140,811.2,11.40350877
+648,Stock,State Bank of India,Blue Chip,90000,22-04-2023,103500,15,Medium,690,130.43,0,15.3,2023,2,April,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,13500,0,150
+649,Mutual Fund,Kotak Bluechip Fund,Large Cap,83000,27-05-2023,94790,14.2,Medium,242.36,342.67,1.01,14.1,2023,2,May,2023: Stock & Active Equity Market Boom,Standard Asset Profile,11790,838.3,12.79279279
+650,Stock,Godrej Consumer Products,Blue Chip,68000,01-06-2023,76840,12.9,Low,1148.5,59.16,0,11.56,2023,2,June,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,8840,0,129
+651,Mutual Fund,Bank of India Large Cap Fund,Large Cap,75000,06-07-2023,85500,14,Medium,342,219.3,1.07,12.75,2023,3,July,2023: Stock & Active Equity Market Boom,Standard Asset Profile,10500,802.5,11.96581197
+652,Stock,Britannia Industries,Blue Chip,72000,11-08-2023,82800,15,Low,4830,14.91,0,12.24,2023,3,August,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,10800,0,150
+653,Mutual Fund,L&T Emerging Businesses Fund,Mid Cap,66000,16-09-2023,77880,18,High,64.8,1205.56,1.55,11.22,2023,3,September,2023: Stock & Active Equity Market Boom,High Yield - Premium Cost,11880,1023,10.90909091
+654,Stock,Grasim Industries,Blue Chip,80000,21-10-2023,92000,15,Medium,1916.67,41.74,0,13.6,2023,4,October,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,12000,0,150
+655,Mutual Fund,Baroda BNP Paribas Large Cap Fund,Large Cap,82000,26-11-2023,93240,13.2,Medium,294.4,278.53,1.03,13.92,2023,4,November,2023: Stock & Active Equity Market Boom,Standard Asset Profile,11240,844.6,11.68141593
+656,Stock,UPL,Blue Chip,58000,01-12-2023,66120,14,Medium,398,145.73,0,9.86,2023,4,December,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,8120,0,140
+657,Mutual Fund,IIFL Focused Equity Fund,Focused Fund,70000,06-01-2024,79800,14,Medium,456,153.51,1.28,11.9,2024,1,January,2024: Mutual Fund Consistency Era,Standard Asset Profile,9800,896,10.14492754
+658,Stock,Zomato,Mid Cap,55000,11-02-2024,66000,20,High,150,366.67,0,9.35,2024,1,February,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,11000,0,200
+659,Mutual Fund,Samco Active Equity Fund,Focused Fund,65000,16-03-2024,74750,15,Medium,80.5,807.45,1.75,11.05,2024,1,March,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,9750,1137.5,8.108108108
+660,Stock,Nykaa,Mid Cap,50000,21-04-2024,59500,19,High,130.9,382.74,0,8.5,2024,2,April,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,9500,0,190
+661,Mutual Fund,WhiteOak Capital Midcap Fund,Mid Cap,68000,26-05-2024,80240,18,High,62.7,1083.57,1.48,11.56,2024,2,May,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,12240,1006.4,11.39240506
+662,Stock,Paytm,Mid Cap,45000,01-06-2024,49500,10,High,396,113.64,0,7.65,2024,2,June,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,4500,0,100
+663,Mutual Fund,ITI Midcap Fund,Mid Cap,62000,06-07-2024,73160,18,High,47.2,1316.1,1.52,10.54,2024,3,July,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,11160,942.4,11.11111111
+664,Stock,Dreamfolks Services,Small Cap,40000,11-08-2024,47200,18,High,295,160,0,6.8,2024,3,August,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,7200,0,180
+665,Mutual Fund,Helios Midcap Fund,Mid Cap,70000,16-09-2024,82600,18,High,78.67,889.58,1.42,11.9,2024,3,September,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,12600,994,11.84210526
+666,Stock,Nuvo,Small Cap,38000,21-10-2024,44460,17,High,234,162.39,0,6.46,2024,4,October,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,6460,0,170
+667,Mutual Fund,Motilal Oswal Midcap Fund,Mid Cap,66000,26-11-2024,77880,18,High,60.69,1090.6,1.5,11.22,2024,4,November,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,11880,990,11.25
+668,Stock,Tata Elxsi,Mid Cap,58000,01-12-2024,66700,15,Medium,805,72.05,0,9.86,2024,4,December,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,8700,0,150
+669,Mutual Fund,HSBC Midcap Fund,Mid Cap,72000,06-01-2025,84960,18,High,103.25,697.11,1.38,12.24,2025,1,January,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,12960,993.6,12.16216216
+670,Stock,Persistent Systems,Mid Cap,62000,11-02-2025,71920,16,Medium,698.67,88.79,0,10.54,2025,1,February,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,9920,0,160
+671,Mutual Fund,Nippon India Growth Fund,Mid Cap,68000,16-03-2025,78540,15.3,Medium,87.56,776.13,1.25,11.56,2025,1,March,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,10540,850,11.33333333
+672,Stock,L&T Technology Services,Mid Cap,56000,21-04-2025,64400,15,Medium,427.14,131.13,0,9.52,2025,2,April,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,8400,0,150
+673,Mutual Fund,ICICI Prudential Midcap Fund,Mid Cap,75000,26-05-2025,87250,17,High,75.21,997.69,1.32,12.75,2025,2,May,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,12250,990,11.97183099
+674,Stock,Happiest Minds,Mid Cap,50000,01-06-2025,58500,17,Medium,780,64.1,0,8.5,2025,2,June,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,8500,0,170
+675,Mutual Fund,Kotak Emerging Equity Fund,Mid Cap,70000,06-07-2025,81900,17,High,78,897.44,1.4,11.9,2025,3,July,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,11900,980,11.33333333
+676,Stock,Mphasis,Mid Cap,60000,11-08-2025,69000,15,Medium,2300,26.09,0,10.2,2025,3,August,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,9000,0,150
+677,Mutual Fund,Axis Midcap Fund,Mid Cap,78000,16-09-2025,91260,17,High,112.32,694.87,1.25,13.24,2025,3,September,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,13260,975,12.59259259
+678,Stock,Coforge,Mid Cap,65000,21-10-2025,74750,15,Medium,1610,40.37,0,11.05,2025,4,October,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,9750,0,150
+679,Mutual Fund,HDFC Mid-Cap Opportunities,Mid Cap,82000,26-11-2025,95940,17,High,169,485.38,1.3,13.92,2025,4,November,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,13940,1066,12.14285714
+680,Stock,LTIMindtree,Mid Cap,75000,01-12-2025,86250,15,Medium,5175,14.49,0,12.75,2025,4,December,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,11250,0,150
+681,Mutual Fund,PGIM India Midcap Fund,Mid Cap,68000,06-01-2026,79560,17,High,111.15,612.03,1.48,11.56,2026,1,January,2026: Commodity & High-Volatility Balanced Market,High Yield - Premium Cost,11560,1006.4,10.75949367
+682,Stock,Tata Technologies,Mid Cap,58000,11-02-2026,66700,15,Medium,805,72.05,0,9.86,2026,1,February,2026: Commodity & High-Volatility Balanced Market,High Yield - Cost Efficient,8700,0,150
+683,Mutual Fund,Mirae Asset Midcap Fund,Mid Cap,72000,16-03-2026,84030,16.5,High,91.75,784.84,1.35,12.24,2026,1,March,2026: Commodity & High-Volatility Balanced Market,High Yield - Premium Cost,12030,972,11.37931034
+684,Stock,Sensex ETF,ETF,160000,21-04-2026,184000,15,Low,575,320,0.15,27.2,2026,2,April,2026: Commodity & High-Volatility Balanced Market,High Yield - Cost Efficient,24000,240,60
+685,Mutual Fund,Nifty 50 ETF,ETF,140000,18-03-2023,159600,14,Low,228,614.04,0.1,23.8,2023,1,March,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,19600,140,70
+686,Stock,Bank Nifty ETF,ETF,135000,23-04-2023,155250,15,Medium,1725,78.26,0.2,22.95,2023,2,April,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,20250,270,50
+687,Mutual Fund,Gold ETF,ETF,110000,28-05-2023,123200,12,Low,280,440,0.25,18.7,2023,2,May,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,13200,275,34.28571429
+688,Stock,IT Index ETF,ETF,120000,02-06-2023,136800,14,Medium,228,600,0.15,20.4,2023,2,June,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,16800,180,56
+689,Mutual Fund,PSU Bank ETF,ETF,100000,07-07-2023,112000,12,Medium,89.6,1250,0.18,17,2023,3,July,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,12000,180,42.85714286
+690,Stock,Infra ETF,ETF,115000,12-08-2023,132250,15,Medium,211.67,619.05,0.16,19.55,2023,3,August,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,17250,184,57.69230769
+691,Mutual Fund,Consumption ETF,ETF,105000,17-09-2023,119700,14,Low,256.5,409.13,0.12,17.85,2023,3,September,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,14700,126,63.63636364
+692,Stock,Pharma ETF,ETF,95000,22-10-2023,108300,14,Medium,133,814.29,0.15,16.15,2023,4,October,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,13300,142.5,56
+693,Mutual Fund,Auto ETF,ETF,100000,27-11-2023,114000,14,Medium,114,1000,0.17,17,2023,4,November,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,14000,170,51.85185185
+694,Stock,Midcap ETF,ETF,110000,02-12-2023,126500,15,Medium,287.5,458.69,0.18,18.7,2023,4,December,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,16500,198,53.57142857
+695,Mutual Fund,Smallcap ETF,ETF,90000,07-01-2024,103500,15,High,172.5,600,0.22,15.3,2024,1,January,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,13500,198,46.875
+696,Stock,Value ETF,ETF,105000,12-02-2024,119700,14,Medium,171,700,0.16,17.85,2024,1,February,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,14700,168,53.84615385
+697,Mutual Fund,Dividend Yield ETF,ETF,100000,17-03-2024,113000,13,Low,151.33,660.71,0.14,17,2024,1,March,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,13000,140,54.16666667
+698,Stock,Quality ETF,ETF,115000,22-04-2024,131100,14,Low,209,627.27,0.13,19.55,2024,2,April,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,16100,149.5,60.86956522
+699,Mutual Fund,Low Volatility ETF,ETF,108000,27-05-2024,120960,12,Low,179.2,716.67,0.12,18.32,2024,2,May,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,12960,129.6,54.54545455
+700,Stock,Momentum ETF,ETF,102000,02-06-2024,117300,15,High,161,728.57,0.2,17.32,2024,2,June,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,15300,204,50
+701,Mutual Fund,Debt Fund - Dynamic Bond,Debt,160000,19-03-2023,171200,7,Low,21.4,8000,0.5,27.2,2023,1,March,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,11200,800,11.66666667
+702,Mutual Fund,Debt Fund - Corporate Bond,Debt,140000,24-04-2023,148400,6,Low,21.2,7000,0.45,23.8,2023,2,April,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,8400,630,10.90909091
+703,Mutual Fund,Debt Fund - Government Securities,Debt,135000,29-05-2023,143100,6,Low,26.5,5400,0.35,22.95,2023,2,May,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,8100,472.5,13.33333333
+704,Mutual Fund,Debt Fund - Short Duration,Debt,120000,03-06-2023,126000,5,Low,10.5,12000,0.4,20.4,2023,2,June,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,6000,480,10
+705,Mutual Fund,Debt Fund - Money Market,Debt,110000,08-07-2023,115500,5,Low,10.5,11000,0.3,18.7,2023,3,July,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,5500,330,12.5
+706,Mutual Fund,Debt Fund - Liquid Fund,Debt,220000,13-08-2023,228800,4,Low,10.4,22000,0.2,37.4,2023,3,August,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,8800,440,13.33333333
+707,Mutual Fund,Debt Fund - Ultra Short Duration,Debt,130000,18-09-2023,136500,5,Low,14.7,9285.71,0.35,22.1,2023,3,September,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,6500,455,11.11111111
+708,Mutual Fund,Debt Fund - Credit Risk,Debt,115000,23-10-2023,123050,7,Medium,11.77,10446,0.85,19.55,2023,4,October,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,8050,977.5,7.368421053
+709,Mutual Fund,Debt Fund - Banking & PSU,Debt,125000,28-11-2023,131250,5,Low,13.65,10055.64,0.4,21.25,2023,4,November,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,6250,500,10
+710,Mutual Fund,Debt Fund - Gilt Fund,Debt,105000,03-12-2023,110250,5,Low,15.75,6587.3,0.3,17.85,2023,4,December,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,5250,315,12.5
+711,Mutual Fund,Hybrid Fund - Equity Savings,Hybrid,120000,08-01-2024,133200,11,Low,11.1,12000,0.8,20.4,2024,1,January,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,13200,960,12.22222222
+712,Mutual Fund,Hybrid Fund - Conservative Hybrid,Hybrid,130000,13-02-2024,140400,8,Low,12.6,11396.83,0.75,22.1,2024,1,February,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,10400,975,9.411764706
+713,Mutual Fund,Hybrid Fund - Balanced Hybrid,Hybrid,140000,18-03-2024,156800,12,Medium,14.93,10464.83,1.1,23.8,2024,1,March,2024: Mutual Fund Consistency Era,Standard Asset Profile,16800,1540,10
+714,Mutual Fund,Hybrid Fund - Aggressive Hybrid,Hybrid,150000,23-04-2024,171000,14,Medium,17.1,9996.5,1.15,25.5,2024,2,April,2024: Mutual Fund Consistency Era,Standard Asset Profile,21000,1725,11.2
+715,Mutual Fund,Hybrid Fund - Dynamic Asset Allocation,Hybrid,125000,28-05-2024,137500,10,Low,14.3,9720.28,0.9,21.25,2024,2,May,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,12500,1125,10
+716,Mutual Fund,Hybrid Fund - Multi Asset Allocation,Hybrid,115000,03-06-2024,126500,10,Low,12.1,10454.55,0.95,19.55,2024,2,June,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,11500,1092.5,9.523809524
+717,Mutual Fund,HDFC Children's Gift Fund,Children's Fund,110000,08-07-2024,126500,15,Medium,191.67,667.92,1.2,18.7,2024,3,July,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,16500,1320,11.53846154
+718,Mutual Fund,ICICI Prudential Child Care Fund,Children's Fund,105000,13-08-2024,120750,15,Medium,172.5,700,1.18,17.85,2024,3,August,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,15750,1239,11.71875
+719,Mutual Fund,SBI Children's Future Fund,Children's Fund,115000,18-09-2024,132250,15,Medium,211.67,676.57,1.15,19.55,2024,3,September,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,17250,1322.5,12
+720,Mutual Fund,Axis Children's Gift Fund,Children's Fund,120000,23-10-2024,138000,15,Medium,230,600,1.22,20.4,2024,4,October,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,18000,1464,11.36363636
+721,Mutual Fund,Kotak Assured Income,Retirement Fund,160000,28-11-2024,172800,8,Low,10.8,16000,0.8,27.2,2024,4,November,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,12800,1280,8.888888889
+722,Mutual Fund,HDFC Retirement Savings Fund,Retirement Fund,180000,03-12-2024,196200,9,Low,13.08,18000,0.85,30.6,2024,4,December,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,16200,1530,9.473684211
+723,Mutual Fund,ICICI Prudential Retirement Fund,Retirement Fund,140000,08-01-2025,152600,9,Low,10.9,14000,0.82,23.8,2025,1,January,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,12600,1148,9.782608696
+724,Mutual Fund,SBI Retirement Fund,Retirement Fund,150000,13-02-2025,163500,9,Low,10.9,15000,0.8,25.5,2025,1,February,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,13500,1200,10
+725,Mutual Fund,Axis Retirement Fund,Retirement Fund,130000,18-03-2025,141700,9,Low,10.9,13000,0.78,22.1,2025,1,March,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,11700,1014,10.22727273
+726,Mutual Fund,Tata Digital India Fund,Sectoral - Technology,110000,23-04-2025,126500,15,High,48.9,2249.49,1.8,18.7,2025,2,April,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,16500,1980,7.894736842
+727,Mutual Fund,SBI Technology Opportunities Fund,Sectoral - Technology,105000,28-05-2025,121800,16,High,52.2,2333.33,1.75,17.85,2025,2,May,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,16800,1837.5,8.648648649
+728,Mutual Fund,ICICI Prudential Technology Fund,Sectoral - Technology,115000,03-06-2025,133400,16,High,53.19,2505.36,1.78,19.55,2025,2,June,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,18400,2047,8.510638298
+729,Mutual Fund,Kotak Technology Fund,Sectoral - Technology,100000,08-07-2025,115000,15,High,46,2500,1.72,17,2025,3,July,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,15000,1720,8.241758242
+730,Mutual Fund,UTI Nifty 50 Value 20 Index Fund,Index Fund,125000,13-08-2025,143750,15,Low,14.95,9699,0.5,21.25,2025,3,August,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,18750,625,25
+731,Mutual Fund,Bandhan Nifty 50 Index Fund,Index Fund,120000,18-09-2025,136800,14,Low,13.68,8771.93,0.48,20.4,2025,3,September,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,16800,576,24.13793103
+732,Mutual Fund,Motilal Oswal Nifty 50 Index Fund,Index Fund,130000,23-10-2025,148200,14,Low,15.96,8771.93,0.52,22.1,2025,4,October,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,18200,676,22.58064516
+733,Mutual Fund,Axis Nifty 50 Index Fund,Index Fund,115000,28-11-2025,131100,14,Low,12.54,10454.55,0.45,19.55,2025,4,November,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,16100,517.5,25.45454545
+734,Mutual Fund,ICICI Prudential Nifty 50 Index Fund,Index Fund,140000,03-12-2025,159600,14,Low,18.24,8750,0.5,23.8,2025,4,December,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,19600,700,23.33333333
+735,Mutual Fund,Nippon India Nifty 50 Index Fund,Index Fund,135000,08-01-2026,153900,14,Low,17.1,9000,0.48,22.95,2026,1,January,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,18900,648,24.13793103
+736,Mutual Fund,Quant Absolute Return Fund,Hybrid,110000,13-02-2026,126500,15,Medium,57.5,2200,1.5,18.7,2026,1,February,2026: Commodity & High-Volatility Balanced Market,High Yield - Premium Cost,16500,1650,9.375
+737,Mutual Fund,Kotak Equity Hybrid Fund,Hybrid,120000,20-03-2023,136800,14,Medium,13.68,10000,1.12,20.4,2023,1,March,2023: Stock & Active Equity Market Boom,Standard Asset Profile,16800,1344,11.47540984
+738,Mutual Fund,HDFC Balanced Advantage Fund,Hybrid,130000,25-04-2023,146900,13,Low,15.82,8927.94,0.95,22.1,2023,2,April,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,16900,1235,12.38095238
+739,Mutual Fund,ICICI Prudential Balanced Advantage,Hybrid,140000,30-05-2023,158200,13,Low,18.08,9333.33,0.92,23.8,2023,2,May,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,18200,1288,12.74509804
+740,Mutual Fund,SBI Balanced Fund,Hybrid,125000,04-06-2023,140000,12,Medium,14.56,10000,1.15,21.25,2023,2,June,2023: Stock & Active Equity Market Boom,Standard Asset Profile,15000,1437.5,9.6
+741,Mutual Fund,Axis Balanced Fund,Hybrid,115000,09-07-2023,126500,11,Medium,12.21,10000,1.1,19.55,2023,3,July,2023: Stock & Active Equity Market Boom,Standard Asset Profile,11500,1265,9.166666667
+742,Mutual Fund,PGIM India Balanced Advantage,Hybrid,120000,14-08-2023,134400,12,Low,13.44,10000,0.98,20.4,2023,3,August,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,14400,1176,11.11111111
+743,Mutual Fund,Tata Balanced Fund,Hybrid,110000,19-09-2023,123200,12,Medium,11.2,10000,1.08,18.7,2023,3,September,2023: Stock & Active Equity Market Boom,Standard Asset Profile,13200,1188,10.16949153
+744,Mutual Fund,UTI Balanced Fund,Hybrid,105000,24-10-2023,115500,10,Medium,9.9,10000,1.05,17.85,2023,4,October,2023: Stock & Active Equity Market Boom,Standard Asset Profile,10500,1102.5,8.695652174
+745,Mutual Fund,Aditya Birla Sun Life Balanced 95,Hybrid,115000,29-11-2023,126500,10,Medium,12.1,10000,1.02,19.55,2023,4,November,2023: Stock & Active Equity Market Boom,Standard Asset Profile,11500,1173,8.928571429
+746,Mutual Fund,Franklin India Balanced Fund,Hybrid,100000,04-12-2023,108000,8,Low,8.64,10000,0.95,17,2023,4,December,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,8000,950,7.619047619
+747,Mutual Fund,L&T Balanced Fund,Hybrid,108000,09-01-2024,117720,9,Medium,10.46,10000,1,18.32,2024,1,January,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,9720,1080,8.181818182
+748,Mutual Fund,IDFC Balanced Advantage Fund,Hybrid,112000,14-02-2024,122080,9,Low,11.34,10000,0.88,19,2024,1,February,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,10080,985.6,9.183673469
+749,Mutual Fund,HSBC Balanced Fund,Hybrid,118000,19-03-2024,129800,10,Medium,12.76,10000,1.05,20.06,2024,1,March,2024: Mutual Fund Consistency Era,Standard Asset Profile,11800,1239,8.695652174
+750,Mutual Fund,Invesco India Balanced Fund,Hybrid,113000,24-04-2024,122070,8,Low,11.45,10000,0.92,19.18,2024,2,April,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,9070,1039.6,7.843137255
+751,Mutual Fund,Parag Parikh Dynamic Asset Allocation,Hybrid,120000,29-05-2024,132000,10,Low,13.2,10000,0.9,20.4,2024,2,May,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,12000,1080,10
+752,Mutual Fund,WhiteOak Capital Hybrid Fund,Hybrid,105000,04-06-2024,115500,10,Medium,9.9,10000,1.15,17.85,2024,2,June,2024: Mutual Fund Consistency Era,Standard Asset Profile,10500,1207.5,8
+753,Mutual Fund,Samco Hybrid Fund,Hybrid,100000,09-07-2024,110000,10,Medium,8.8,10000,1.2,17,2024,3,July,2024: Mutual Fund Consistency Era,Standard Asset Profile,10000,1200,7.692307692
+754,Mutual Fund,ITI Hybrid Fund,Hybrid,115000,14-08-2024,125350,9,Medium,11.99,10000,1.1,19.55,2024,3,August,2024: Mutual Fund Consistency Era,Standard Asset Profile,10350,1265,7.5
+755,Mutual Fund,Helios Hybrid Fund,Hybrid,110000,19-09-2024,118800,8,Low,10.8,10000,0.95,18.7,2024,3,September,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,8800,1045,7.619047619
+756,Mutual Fund,Bajaj Finserv Flexi Cap Fund,Flexi Cap,125000,24-10-2024,143750,15,Medium,149.5,957.86,1.25,21.25,2024,4,October,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,18750,1562.5,11.11111111
+757,Mutual Fund,UTI Flexi Cap Fund,Flexi Cap,120000,29-11-2024,138000,15,Medium,138,1000,1.2,20.4,2024,4,November,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,18000,1440,11.53846154
+758,Mutual Fund,Motilal Oswal Flexi Cap Fund,Flexi Cap,115000,04-12-2024,132250,15,Medium,126.5,1000,1.22,19.55,2024,4,December,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,17250,1403,11.36363636
+759,Mutual Fund,ICICI Prudential Flexi Cap Fund,Flexi Cap,130000,09-01-2025,149500,15,Medium,161,1000,1.18,22.1,2025,1,January,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,19500,1534,11.71875
+760,Mutual Fund,SBI Flexi Cap Fund,Flexi Cap,135000,14-02-2025,155250,15,Medium,172.5,1000,1.15,22.95,2025,1,February,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,20250,1552.5,12
+761,Mutual Fund,HDFC Flexi Cap Fund,Flexi Cap,140000,19-03-2025,161000,15,Medium,184,1000,1.2,23.8,2025,1,March,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,21000,1680,11.53846154
+762,Mutual Fund,Axis Flexi Cap Fund,Flexi Cap,125000,24-04-2025,143750,15,Medium,149.5,1000,1.18,21.25,2025,2,April,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,18750,1475,11.71875
+763,Mutual Fund,Kotak Flexi Cap Fund,Flexi Cap,120000,29-05-2025,138000,15,Medium,138,1000,1.15,20.4,2025,2,May,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,18000,1380,12
+764,Mutual Fund,Nippon India Flexi Cap Fund,Flexi Cap,115000,04-06-2025,132250,15,Medium,126.5,1000,1.22,19.55,2025,2,June,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,17250,1403,11.36363636
+765,Mutual Fund,Tata Flexi Cap Fund,Flexi Cap,110000,09-07-2025,126500,15,Medium,115,1000,1.2,18.7,2025,3,July,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,16500,1320,11.53846154
+766,Mutual Fund,Bandhan Flexi Cap Fund,Flexi Cap,105000,14-08-2025,120750,15,Medium,103.5,1000,1.25,17.85,2025,3,August,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,15750,1312.5,11.11111111
+767,Mutual Fund,PGIM India Flexi Cap Fund,Flexi Cap,130000,19-09-2025,149500,15,Medium,161,1000,1.18,22.1,2025,3,September,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,19500,1534,11.71875
+768,Mutual Fund,Invesco India Flexi Cap Fund,Flexi Cap,125000,24-10-2025,143750,15,Medium,149.5,1000,1.2,21.25,2025,4,October,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,18750,1500,11.53846154
+769,Mutual Fund,Edelweiss Flexi Cap Fund,Flexi Cap,120000,29-11-2025,138000,15,Medium,138,1000,1.22,20.4,2025,4,November,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,18000,1464,11.36363636
+770,Mutual Fund,HSBC Flexi Cap Fund,Flexi Cap,115000,04-12-2025,132250,15,Medium,126.5,1000,1.15,19.55,2025,4,December,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,17250,1322.5,12
+771,Mutual Fund,Union Flexi Cap Fund,Flexi Cap,110000,09-01-2026,126500,15,Medium,115,1000,1.18,18.7,2026,1,January,2026: Commodity & High-Volatility Balanced Market,High Yield - Cost Efficient,16500,1298,11.71875
+772,Mutual Fund,Quant Flexi Cap Fund,Flexi Cap,108000,14-02-2026,124200,15,High,110.4,1000,1.8,18.32,2026,1,February,2026: Commodity & High-Volatility Balanced Market,High Yield - Premium Cost,16200,1944,7.894736842
+773,Mutual Fund,Mirae Asset Large & Midcap Fund,Multicap,130000,21-03-2023,150800,16,Medium,162.4,928.57,1.15,22.1,2023,1,March,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,20800,1495,12.8
+774,Mutual Fund,ICICI Prudential Multicap Fund,Multicap,125000,26-04-2023,145000,16,Medium,150.8,928.57,1.12,21.25,2023,2,April,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,20000,1400,13.1147541
+775,Mutual Fund,SBI Multicap Fund,Multicap,120000,31-05-2023,139200,16,Medium,139.2,928.57,1.1,20.4,2023,2,May,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,19200,1320,13.33333333
+776,Mutual Fund,HDFC Multicap Fund,Multicap,135000,05-06-2023,156600,16,Medium,174,928.57,1.18,22.95,2023,2,June,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,21600,1593,12.5
+777,Mutual Fund,Axis Multicap Fund,Multicap,115000,10-07-2023,133400,16,Medium,127.6,928.57,1.15,19.55,2023,3,July,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,18400,1322.5,12.8
+778,Mutual Fund,Kotak Multicap Fund,Multicap,110000,15-08-2023,127600,16,Medium,116,928.57,1.12,18.7,2023,3,August,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,17600,1232,13.1147541
+779,Mutual Fund,Nippon India Multicap Fund,Multicap,118000,20-09-2023,136880,16,Medium,134.56,928.57,1.2,20.06,2023,3,September,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,18880,1416,12.30769231
+780,Mutual Fund,Tata Multicap Fund,Multicap,108000,25-10-2023,125280,16,Medium,111.36,928.57,1.15,18.32,2023,4,October,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,17280,1242,12.8
+781,Mutual Fund,Bandhan Multicap Fund,Multicap,112000,30-11-2023,129920,16,Medium,120.64,928.57,1.18,19,2023,4,November,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,17920,1321.6,12.5
+782,Mutual Fund,PGIM India Multicap Fund,Multicap,120000,05-12-2023,139200,16,Medium,139.2,928.57,1.15,20.4,2023,4,December,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,19200,1380,12.8
+783,Mutual Fund,Invesco India Multicap Fund,Multicap,115000,10-01-2024,133400,16,Medium,127.6,928.57,1.2,19.55,2024,1,January,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,18400,1380,12.30769231
+784,Mutual Fund,Edelweiss Multicap Fund,Multicap,105000,15-02-2024,121800,16,Medium,104.4,928.57,1.18,17.85,2024,1,February,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,16800,1239,12.5
+785,Mutual Fund,HSBC Multicap Fund,Multicap,110000,20-03-2024,127600,16,Medium,116,928.57,1.15,18.7,2024,1,March,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,17600,1265,12.8
+786,Mutual Fund,Union Multicap Fund,Multicap,113000,25-04-2024,131080,16,Medium,122.96,928.57,1.22,19.18,2024,2,April,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,18080,1378.6,12.12121212
+787,Mutual Fund,Quant Multicap Fund,Multicap,118000,30-05-2024,136880,16,High,134.56,928.57,1.85,20.06,2024,2,May,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,18880,2183,8.205128205
+788,Mutual Fund,WhiteOak Capital Multicap Fund,Multicap,120000,04-06-2024,139200,16,Medium,139.2,928.57,1.35,20.4,2024,2,June,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,19200,1620,11.03448276
+789,Mutual Fund,Samco Multicap Fund,Multicap,115000,09-07-2024,133400,16,Medium,127.6,928.57,1.4,19.55,2024,3,July,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,18400,1610,10.66666667
+790,Mutual Fund,ITI Multicap Fund,Multicap,108000,14-08-2024,125280,16,Medium,111.36,928.57,1.3,18.32,2024,3,August,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,17280,1404,11.42857143
+791,Mutual Fund,Helios Multicap Fund,Multicap,112000,19-09-2024,129920,16,Medium,120.64,928.57,1.38,19,2024,3,September,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,17920,1545.6,10.81081081
+792,Mutual Fund,Bajaj Finserv Multicap Fund,Multicap,117000,30-10-2024,135720,16,Medium,132.24,928.57,1.25,19.86,2024,4,October,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,18720,1462.5,11.85185185
+793,Mutual Fund,Motilal Oswal Multicap Fund,Multicap,120000,04-11-2024,139200,16,Medium,139.2,928.57,1.28,20.4,2024,4,November,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,19200,1536,11.5942029
+794,Mutual Fund,L&T Multicap Fund,Multicap,115000,09-12-2024,133400,16,Medium,127.6,928.57,1.22,19.55,2024,4,December,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,18400,1403,12.12121212
+795,Mutual Fund,IDFC Multicap Fund,Multicap,110000,14-01-2025,127600,16,Medium,116,928.57,1.18,18.7,2025,1,January,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,17600,1298,12.5
+796,Mutual Fund,Aditya Birla Sun Life Multicap Fund,Multicap,108000,19-02-2025,125280,16,Medium,111.36,928.57,1.15,18.32,2025,1,February,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,17280,1242,12.8
+797,Mutual Fund,Franklin India Multicap Fund,Multicap,112000,26-03-2025,129920,16,Medium,120.64,928.57,1.1,19,2025,1,March,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,17920,1232,13.33333333
+798,Mutual Fund,UTI Multicap Fund,Multicap,118000,30-04-2025,136880,16,Medium,134.56,928.57,1.2,20.06,2025,2,April,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,18880,1416,12.30769231
+799,Mutual Fund,Baroda BNP Paribas Multicap Fund,Multicap,115000,05-05-2025,133400,16,Medium,127.6,928.57,1.15,19.55,2025,2,May,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,18400,1322.5,12.8
+800,Mutual Fund,Bank of India Multicap Fund,Multicap,110000,10-06-2025,127600,16,Medium,116,928.57,1.18,18.7,2025,2,June,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,17600,1298,12.5
+801,Mutual Fund,HDFC Top 100 Fund,Large Cap,90000,22-03-2023,105750,17.5,High,1850.25,48.64,1.05,15.3,2023,1,March,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,15750,945,15.2173913
+802,Mutual Fund,ICICI Prudential Bluechip Fund,Large Cap,85000,27-04-2023,97750,15,Medium,1245.5,68.26,1.02,14.45,2023,2,April,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,12750,867,13.39285714
+803,Stock,Reliance Industries,Blue Chip,180000,01-06-2023,212400,18,Medium,2580.75,69.77,0,30.6,2023,2,June,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,32400,0,180
+804,Mutual Fund,SBI Small Cap Fund,Small Cap,50000,06-07-2023,58500,17,High,56.8,1031.69,1.75,8.5,2023,3,July,2023: Stock & Active Equity Market Boom,High Yield - Premium Cost,8500,875,9.189189189
+805,Stock,TCS,Blue Chip,120000,11-08-2023,135600,13,Low,3620,33.15,0,20.4,2023,3,August,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,15600,0,130
+806,Mutual Fund,Axis Midcap Fund,Mid Cap,65000,16-09-2023,76700,18,High,125.4,518.34,1.25,11.05,2023,3,September,2023: Stock & Active Equity Market Boom,High Yield - Premium Cost,11700,812.5,13.33333333
+807,Stock,HDFC Bank,Blue Chip,105000,21-10-2023,118650,13,Low,1580.5,66.45,0,17.85,2023,4,October,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,13650,0,130
+808,Mutual Fund,Mirae Asset Large Cap Fund,Large Cap,95000,26-11-2023,106400,12,Medium,980.2,96.89,1.03,16.15,2023,4,November,2023: Stock & Active Equity Market Boom,Standard Asset Profile,11400,978.5,10.61946903
+809,Stock,Infosys,Blue Chip,80000,01-12-2023,90400,13,Medium,1475.25,54.24,0,13.6,2023,4,December,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,10400,0,130
+810,Mutual Fund,Kotak Emerging Equity Fund,Mid Cap,55000,06-01-2024,64900,18,High,82.15,669.62,1.45,9.35,2024,1,January,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,9900,797.5,11.61290323
+811,Mutual Fund,UTI Nifty 50 Index Fund,Index Fund,100000,11-02-2024,114000,14,Low,210.5,475.06,0.5,17,2024,1,February,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,14000,500,23.33333333
+812,Stock,Bharti Airtel,Blue Chip,90000,18-03-2024,100800,12,Medium,1120,90,0,15.3,2024,1,March,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,10800,0,120
+813,Mutual Fund,Parag Parikh Flexi Cap Fund,Flexi Cap,110000,23-04-2024,125400,14,Medium,532.5,235.86,1.22,18.7,2024,2,April,2024: Mutual Fund Consistency Era,Standard Asset Profile,15400,1342,10.60606061
+814,Stock,ITC,Blue Chip,85000,28-05-2024,96050,13,Low,450.25,213.21,0,14.45,2024,2,May,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,11050,0,130
+815,Mutual Fund,Tata Digital India Fund,Sectoral,80000,02-06-2024,89600,12,High,48.9,1636.4,1.8,13.6,2024,2,June,2024: Mutual Fund Consistency Era,Standard Asset Profile,9600,1440,6.315789474
+816,Stock,HCL Tech,Blue Chip,95000,07-07-2024,108300,14,Medium,1254,75.76,0,16.15,2024,3,July,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,13300,0,140
+817,Mutual Fund,PGIM India Midcap Opportunities,Mid Cap,60000,12-08-2024,70800,18,High,68.2,879.77,1.5,10.2,2024,3,August,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,10800,900,11.25
+818,Stock,Larsen & Toubro,Blue Chip,125000,17-09-2024,143750,15,Medium,3210.5,38.9,0,21.25,2024,3,September,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,18750,0,150
+819,Mutual Fund,Bandhan Small Cap Fund,Small Cap,45000,22-10-2024,53100,18,High,42.8,1241.12,1.95,7.65,2024,4,October,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,8100,877.5,8.780487805
+820,Stock,Maruti Suzuki,Blue Chip,100000,27-11-2024,115000,15,Medium,10350,11.11,0,17,2024,4,November,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,15000,0,150
+821,Mutual Fund,Nippon India Small Cap Fund,Small Cap,52000,02-12-2024,60840,17,High,52.15,1003.64,1.85,8.84,2024,4,December,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,8840,962,8.717948718
+822,Stock,Wipro,Blue Chip,50000,07-01-2025,56000,12,Medium,448,111.61,0,8.5,2025,1,January,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,6000,0,120
+823,Mutual Fund,SBI Magnum Multicap Fund,Multicap,70000,12-02-2025,81200,16,Medium,185.6,475,1.15,11.9,2025,1,February,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,11200,805,12.8
+824,Stock,Axis Bank,Blue Chip,65000,19-03-2025,74750,15,Medium,1070,60.75,0,11.05,2025,1,March,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,9750,0,150
+825,Mutual Fund,Franklin India Prima Fund,Mid Cap,60000,24-04-2025,70200,17,High,72.8,854.4,1.3,10.2,2025,2,April,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,10200,780,12.14285714
+826,Stock,Mahindra & Mahindra,Blue Chip,95000,29-05-2025,109250,15,Medium,1765,53.25,0,16.15,2025,2,May,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,14250,0,150
+827,Mutual Fund,Aditya Birla Sun Life Frontline Equity,Large Cap,105000,03-06-2025,118650,13,Medium,587.8,178.52,1,17.85,2025,2,June,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,13650,1050,11.81818182
+828,Stock,Sun Pharma,Blue Chip,110000,08-07-2025,127600,16,Medium,1624,67.73,0,18.7,2025,3,July,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,17600,0,160
+829,Mutual Fund,IDFC Core Equity Fund,Large Cap,92000,13-08-2025,104880,14,Medium,118.56,885.19,1.08,15.64,2025,3,August,2025: ETF Efficiency & Index Surge,Standard Asset Profile,12880,993.6,11.86440678
+830,Stock,Bajaj Finance,Blue Chip,85000,18-09-2025,98600,16,High,7830,12.61,0,14.45,2025,3,September,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,13600,0,160
+831,Mutual Fund,Tata Equity P/E Fund,Value Fund,72000,23-10-2025,82080,14,Medium,152,473.68,1.12,12.24,2025,4,October,2025: ETF Efficiency & Index Surge,Standard Asset Profile,10080,806.4,11.47540984
+832,Stock,Asian Paints,Blue Chip,68000,28-11-2025,75480,11,Low,2812,24.18,0,11.56,2025,4,November,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,7480,0,110
+833,Mutual Fund,Quant Small Cap Fund,Small Cap,58000,03-12-2025,67180,17,High,38.2,1760.21,2.1,9.86,2025,4,December,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,9180,1218,7.727272727
+834,Stock,Nestle India,Blue Chip,90000,08-01-2026,98100,9,Low,27250,3.3,0,15.3,2026,1,January,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,8100,0,90
+835,Mutual Fund,Canara Robeco Equity Diversified,Multicap,77000,13-02-2026,89180,16,Medium,83.2,995.67,1.18,13.08,2026,1,February,2026: Commodity & High-Volatility Balanced Market,High Yield - Cost Efficient,12180,908.6,12.5
+836,Stock,Hindustan Unilever,Blue Chip,100000,18-03-2026,107000,7,Low,2414,41.42,0,17,2026,1,March,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,7000,0,70
+837,Mutual Fund,Union Small Cap Fund,Small Cap,61000,23-04-2026,71370,17,High,45.2,1580.75,1.9,10.37,2026,2,April,2026: Commodity & High-Volatility Balanced Market,High Yield - Premium Cost,10370,1159,8.5
+838,Stock,Dr Reddy's Labs,Blue Chip,75000,28-05-2026,84750,13,Medium,5521,13.58,0,12.75,2026,2,May,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,9750,0,130
+839,Mutual Fund,Sundaram Midcap Fund,Mid Cap,86000,02-06-2026,99760,16,High,76.8,1298.96,1.35,14.62,2026,2,June,2026: Commodity & High-Volatility Balanced Market,High Yield - Premium Cost,13760,1161,11.03448276
+840,Stock,Titan Company,Blue Chip,80000,07-07-2026,91200,14,Medium,3192,25.06,0,13.6,2026,3,July,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,11200,0,140
+841,Mutual Fund,Invesco India Growth Fund,Mid Cap,74000,12-08-2026,85840,16,Medium,112,766.43,1.22,12.56,2026,3,August,2026: Commodity & High-Volatility Balanced Market,High Yield - Premium Cost,11840,902.8,12.12121212
+842,Stock,Bajaj Auto,Blue Chip,88000,17-09-2026,98560,12,Low,7463,11.8,0,14.92,2026,3,September,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,10560,0,120
+843,Mutual Fund,Edelweiss Large Cap Fund,Large Cap,98000,22-10-2026,110400,12.6,Medium,326.6,300.13,1.06,16.66,2026,4,October,2026: Commodity & High-Volatility Balanced Market,Standard Asset Profile,12400,1038.8,10.86206897
+844,Stock,Divi's Labs,Blue Chip,92000,27-11-2026,103960,13,Medium,4896.67,18.8,0,15.64,2026,4,November,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,11960,0,130
+845,Mutual Fund,PPFAS Flexi Cap Fund,Flexi Cap,102000,02-12-2026,116280,14,Medium,706.8,144.25,1.15,17.32,2026,4,December,2026: Commodity & High-Volatility Balanced Market,Standard Asset Profile,14280,1173,11.2
+846,Stock,ICICI Bank,Blue Chip,95000,23-03-2023,107350,13,Low,1243,76.43,0,16.15,2023,1,March,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,12350,0,130
+847,Mutual Fund,HSBC Large Cap Fund,Large Cap,88000,28-04-2023,99440,13,Medium,271.2,324.75,1.04,14.92,2023,2,April,2023: Stock & Active Equity Market Boom,Standard Asset Profile,11440,915.2,11.40350877
+848,Stock,State Bank of India,Blue Chip,100000,02-06-2023,115000,15,Medium,690,144.93,0,17,2023,2,June,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,15000,0,150
+849,Mutual Fund,Kotak Bluechip Fund,Large Cap,93000,07-07-2023,106370,14.2,Medium,242.36,384,1.01,15.8,2023,3,July,2023: Stock & Active Equity Market Boom,Standard Asset Profile,13370,939.3,12.79279279
+850,Stock,Godrej Consumer Products,Blue Chip,78000,12-08-2023,88140,12.9,Low,1148.5,67.86,0,13.24,2023,3,August,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,10140,0,129
+851,Mutual Fund,Bank of India Large Cap Fund,Large Cap,85000,17-09-2023,96900,14,Medium,342,248.54,1.07,14.45,2023,3,September,2023: Stock & Active Equity Market Boom,Standard Asset Profile,11900,909.5,11.96581197
+852,Stock,Britannia Industries,Blue Chip,82000,22-10-2023,94300,15,Low,4830,16.98,0,13.92,2023,4,October,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,12300,0,150
+853,Mutual Fund,L&T Emerging Businesses Fund,Mid Cap,76000,27-11-2023,89680,18,High,64.8,1388.89,1.55,12.92,2023,4,November,2023: Stock & Active Equity Market Boom,High Yield - Premium Cost,13680,1178,10.90909091
+854,Stock,Grasim Industries,Blue Chip,90000,02-12-2023,103500,15,Medium,1916.67,46.96,0,15.3,2023,4,December,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,13500,0,150
+855,Mutual Fund,Baroda BNP Paribas Large Cap Fund,Large Cap,92000,07-01-2024,104640,13.2,Medium,294.4,312.33,1.03,15.64,2024,1,January,2024: Mutual Fund Consistency Era,Standard Asset Profile,12640,947.6,11.68141593
+856,Stock,UPL,Blue Chip,68000,12-02-2024,77520,14,Medium,398,170.86,0,11.56,2024,1,February,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,9520,0,140
+857,Mutual Fund,IIFL Focused Equity Fund,Focused Fund,80000,18-03-2024,91200,14,Medium,456,175.44,1.28,13.6,2024,1,March,2024: Mutual Fund Consistency Era,Standard Asset Profile,11200,1024,10.14492754
+858,Stock,Zomato,Mid Cap,65000,23-04-2024,78000,20,High,150,433.33,0,11.05,2024,2,April,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,13000,0,200
+859,Mutual Fund,Samco Active Equity Fund,Focused Fund,75000,28-05-2024,86250,15,Medium,80.5,931.68,1.75,12.75,2024,2,May,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,11250,1312.5,8.108108108
+860,Stock,Nykaa,Mid Cap,60000,03-06-2024,71400,19,High,130.9,459.12,0,10.2,2024,2,June,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,11400,0,190
+861,Mutual Fund,WhiteOak Capital Midcap Fund,Mid Cap,78000,08-07-2024,92040,18,High,62.7,1242.58,1.48,13.24,2024,3,July,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,14040,1154.4,11.39240506
+862,Stock,Paytm,Mid Cap,55000,13-08-2024,60500,10,High,396,138.89,0,9.35,2024,3,August,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,5500,0,100
+863,Mutual Fund,ITI Midcap Fund,Mid Cap,72000,18-09-2024,85320,18,High,47.2,1528.81,1.52,12.24,2024,3,September,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,13320,1094.4,11.11111111
+864,Stock,Dreamfolks Services,Small Cap,50000,23-10-2024,59000,18,High,295,200,0,8.5,2024,4,October,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,9000,0,180
+865,Mutual Fund,Helios Midcap Fund,Mid Cap,80000,28-11-2024,94400,18,High,78.67,1016.67,1.42,13.6,2024,4,November,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,14400,1136,11.84210526
+866,Stock,Nuvo,Small Cap,48000,03-12-2024,56160,17,High,234,205.13,0,8.16,2024,4,December,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,8160,0,170
+867,Mutual Fund,Motilal Oswal Midcap Fund,Mid Cap,76000,08-01-2025,89680,18,High,60.69,1258.07,1.5,12.92,2025,1,January,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,13680,1140,11.25
+868,Stock,Tata Elxsi,Mid Cap,68000,13-02-2025,78200,15,Medium,805,84.47,0,11.56,2025,1,February,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,10200,0,150
+869,Mutual Fund,HSBC Midcap Fund,Mid Cap,82000,19-03-2025,96760,18,High,103.25,793.74,1.38,13.92,2025,1,March,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,14760,1131.6,12.16216216
+870,Stock,Persistent Systems,Mid Cap,72000,24-04-2025,83520,16,Medium,698.67,103.12,0,12.24,2025,2,April,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,11520,0,160
+871,Mutual Fund,Nippon India Growth Fund,Mid Cap,78000,29-05-2025,90140,15.3,Medium,87.56,890.27,1.25,13.24,2025,2,May,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,12140,975,11.33333333
+872,Stock,L&T Technology Services,Mid Cap,66000,03-06-2025,75900,15,Medium,427.14,154.55,0,11.22,2025,2,June,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,9900,0,150
+873,Mutual Fund,ICICI Prudential Midcap Fund,Mid Cap,85000,08-07-2025,98850,17,High,75.21,1131.25,1.32,14.45,2025,3,July,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,13850,1122,11.97183099
+874,Stock,Happiest Minds,Mid Cap,60000,12-08-2025,70200,17,Medium,780,76.92,0,10.2,2025,3,August,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,10200,0,170
+875,Mutual Fund,Kotak Emerging Equity Fund,Mid Cap,80000,17-09-2025,93600,17,High,78,1025.64,1.4,13.6,2025,3,September,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,13600,1120,11.33333333
+876,Stock,Mphasis,Mid Cap,70000,22-10-2025,80500,15,Medium,2300,30.43,0,11.9,2025,4,October,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,10500,0,150
+877,Mutual Fund,Axis Midcap Fund,Mid Cap,88000,27-11-2025,102960,17,High,112.32,784.38,1.25,14.92,2025,4,November,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,14960,1100,12.59259259
+878,Stock,Coforge,Mid Cap,75000,02-12-2025,86250,15,Medium,1610,46.58,0,12.75,2025,4,December,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,11250,0,150
+879,Mutual Fund,HDFC Mid-Cap Opportunities,Mid Cap,92000,07-01-2026,107640,17,High,169,544.49,1.3,15.64,2026,1,January,2026: Commodity & High-Volatility Balanced Market,High Yield - Premium Cost,15640,1196,12.14285714
+880,Stock,LTIMindtree,Mid Cap,85000,12-02-2026,97750,15,Medium,5175,16.42,0,14.45,2026,1,February,2026: Commodity & High-Volatility Balanced Market,High Yield - Cost Efficient,12750,0,150
+881,Mutual Fund,PGIM India Midcap Fund,Mid Cap,78000,18-03-2026,91260,17,High,111.15,702.03,1.48,13.24,2026,1,March,2026: Commodity & High-Volatility Balanced Market,High Yield - Premium Cost,13260,1154.4,10.75949367
+882,Stock,Tata Technologies,Mid Cap,68000,23-04-2026,78200,15,Medium,805,84.47,0,11.56,2026,2,April,2026: Commodity & High-Volatility Balanced Market,High Yield - Cost Efficient,10200,0,150
+883,Mutual Fund,Mirae Asset Midcap Fund,Mid Cap,82000,28-05-2026,95730,16.5,High,91.75,893.93,1.35,13.92,2026,2,May,2026: Commodity & High-Volatility Balanced Market,High Yield - Premium Cost,13730,1107,11.37931034
+884,Stock,Sensex ETF,ETF,180000,02-06-2026,207000,15,Low,575,360,0.15,30.6,2026,2,June,2026: Commodity & High-Volatility Balanced Market,High Yield - Cost Efficient,27000,270,60
+885,Mutual Fund,Nifty 50 ETF,ETF,160000,24-03-2023,182400,14,Low,228,701.75,0.1,27.2,2023,1,March,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,22400,160,70
+886,Stock,Bank Nifty ETF,ETF,155000,29-04-2023,178250,15,Medium,1725,89.86,0.2,26.35,2023,2,April,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,23250,310,50
+887,Mutual Fund,Gold ETF,ETF,130000,03-06-2023,145600,12,Low,280,520,0.25,22.1,2023,2,June,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,15600,325,34.28571429
+888,Stock,IT Index ETF,ETF,140000,08-07-2023,159600,14,Medium,228,700,0.15,23.8,2023,3,July,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,19600,210,56
+889,Mutual Fund,PSU Bank ETF,ETF,120000,13-08-2023,134400,12,Medium,89.6,1500,0.18,20.4,2023,3,August,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,14400,216,42.85714286
+890,Stock,Infra ETF,ETF,135000,18-09-2023,155250,15,Medium,211.67,726.19,0.16,22.95,2023,3,September,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,20250,216,57.69230769
+891,Mutual Fund,Consumption ETF,ETF,125000,23-10-2023,142500,14,Low,256.5,487.09,0.12,21.25,2023,4,October,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,17500,150,63.63636364
+892,Stock,Pharma ETF,ETF,115000,28-11-2023,131100,14,Medium,133,985.71,0.15,19.55,2023,4,November,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,16100,172.5,56
+893,Mutual Fund,Auto ETF,ETF,120000,03-12-2023,136800,14,Medium,114,1200,0.17,20.4,2023,4,December,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,16800,204,51.85185185
+894,Stock,Midcap ETF,ETF,130000,08-01-2024,149500,15,Medium,287.5,541.95,0.18,22.1,2024,1,January,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,19500,234,53.57142857
+895,Mutual Fund,Smallcap ETF,ETF,110000,13-02-2024,126500,15,High,172.5,733.33,0.22,18.7,2024,1,February,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,16500,242,46.875
+896,Stock,Value ETF,ETF,125000,19-03-2024,142500,14,Medium,171,833.33,0.16,21.25,2024,1,March,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,17500,200,53.84615385
+897,Mutual Fund,Dividend Yield ETF,ETF,120000,24-04-2024,135600,13,Low,151.33,792.86,0.14,20.4,2024,2,April,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,15600,168,54.16666667
+898,Stock,Quality ETF,ETF,135000,29-05-2024,153900,14,Low,209,736.36,0.13,22.95,2024,2,May,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,18900,175.5,60.86956522
+899,Mutual Fund,Low Volatility ETF,ETF,128000,03-06-2024,143360,12,Low,179.2,850,0.12,21.76,2024,2,June,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,15360,153.6,54.54545455
+900,Stock,Momentum ETF,ETF,122000,08-07-2024,140300,15,High,161,871.43,0.2,20.74,2024,3,July,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,18300,244,50
+901,Mutual Fund,Debt Fund - Dynamic Bond,Debt,180000,25-03-2023,192600,7,Low,21.4,9000,0.5,30.6,2023,1,March,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,12600,900,11.66666667
+902,Mutual Fund,Debt Fund - Corporate Bond,Debt,160000,30-04-2023,169600,6,Low,21.2,8000,0.45,27.2,2023,2,April,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,9600,720,10.90909091
+903,Mutual Fund,Debt Fund - Government Securities,Debt,155000,04-06-2023,164300,6,Low,26.5,6200,0.35,26.35,2023,2,June,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,9300,542.5,13.33333333
+904,Mutual Fund,Debt Fund - Short Duration,Debt,140000,09-07-2023,147000,5,Low,10.5,14000,0.4,23.8,2023,3,July,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,7000,560,10
+905,Mutual Fund,Debt Fund - Money Market,Debt,130000,14-08-2023,136500,5,Low,10.5,13000,0.3,22.1,2023,3,August,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,6500,390,12.5
+906,Mutual Fund,Debt Fund - Liquid Fund,Debt,240000,19-09-2023,249600,4,Low,10.4,24000,0.2,40.8,2023,3,September,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,9600,480,13.33333333
+907,Mutual Fund,Debt Fund - Ultra Short Duration,Debt,150000,24-10-2023,157500,5,Low,14.7,10714.29,0.35,25.5,2023,4,October,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,7500,525,11.11111111
+908,Mutual Fund,Debt Fund - Credit Risk,Debt,135000,29-11-2023,144450,7,Medium,11.77,12262,0.85,22.95,2023,4,November,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,9450,1147.5,7.368421053
+909,Mutual Fund,Debt Fund - Banking & PSU,Debt,145000,04-12-2023,152250,5,Low,13.65,11676.82,0.4,24.65,2023,4,December,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,7250,580,10
+910,Mutual Fund,Debt Fund - Gilt Fund,Debt,125000,09-01-2024,131250,5,Low,15.75,7714.29,0.3,21.25,2024,1,January,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,6250,375,12.5
+911,Mutual Fund,Hybrid Fund - Equity Savings,Hybrid,140000,14-02-2024,155400,11,Low,11.1,14000,0.8,23.8,2024,1,February,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,15400,1120,12.22222222
+912,Mutual Fund,Hybrid Fund - Conservative Hybrid,Hybrid,150000,19-03-2024,162000,8,Low,12.6,12381.1,0.75,25.5,2024,1,March,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,12000,1125,9.411764706
+913,Mutual Fund,Hybrid Fund - Balanced Hybrid,Hybrid,160000,24-04-2024,179200,12,Medium,14.93,11996.95,1.1,27.2,2024,2,April,2024: Mutual Fund Consistency Era,Standard Asset Profile,19200,1760,10
+914,Mutual Fund,Hybrid Fund - Aggressive Hybrid,Hybrid,170000,29-05-2024,193800,14,Medium,17.1,11328.66,1.15,28.9,2024,2,May,2024: Mutual Fund Consistency Era,Standard Asset Profile,23800,1955,11.2
+915,Mutual Fund,Hybrid Fund - Dynamic Asset Allocation,Hybrid,145000,03-06-2024,159500,10,Low,14.3,11293.71,0.9,24.65,2024,2,June,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,14500,1305,10
+916,Mutual Fund,Hybrid Fund - Multi Asset Allocation,Hybrid,135000,08-07-2024,148500,10,Low,12.1,12272.73,0.95,22.95,2024,3,July,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,13500,1282.5,9.523809524
+917,Mutual Fund,HDFC Children's Gift Fund,Children's Fund,130000,13-08-2024,149500,15,Medium,191.67,789.26,1.2,22.1,2024,3,August,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,19500,1560,11.53846154
+918,Mutual Fund,ICICI Prudential Child Care Fund,Children's Fund,125000,18-09-2024,143750,15,Medium,172.5,833.33,1.18,21.25,2024,3,September,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,18750,1475,11.71875
+919,Mutual Fund,SBI Children's Future Fund,Children's Fund,135000,23-10-2024,155250,15,Medium,211.67,810.29,1.15,22.95,2024,4,October,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,20250,1552.5,12
+920,Mutual Fund,Axis Children's Gift Fund,Children's Fund,140000,28-11-2024,161000,15,Medium,230,700,1.22,23.8,2024,4,November,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,21000,1708,11.36363636
+921,Mutual Fund,Kotak Assured Income,Retirement Fund,180000,03-12-2024,194400,8,Low,10.8,18000,0.8,30.6,2024,4,December,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,14400,1440,8.888888889
+922,Mutual Fund,HDFC Retirement Savings Fund,Retirement Fund,200000,08-01-2025,218000,9,Low,13.08,20000,0.85,34,2025,1,January,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,18000,1700,9.473684211
+923,Mutual Fund,ICICI Prudential Retirement Fund,Retirement Fund,160000,13-02-2025,174400,9,Low,10.9,16000,0.82,27.2,2025,1,February,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,14400,1312,9.782608696
+924,Mutual Fund,SBI Retirement Fund,Retirement Fund,170000,19-03-2025,185300,9,Low,10.9,17000,0.8,28.9,2025,1,March,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,15300,1360,10
+925,Mutual Fund,Axis Retirement Fund,Retirement Fund,150000,24-04-2025,163500,9,Low,10.9,15000,0.78,25.5,2025,2,April,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,13500,1170,10.22727273
+926,Mutual Fund,Tata Digital India Fund,Sectoral - Technology,130000,29-05-2025,149500,15,High,48.9,2658.49,1.8,22.1,2025,2,May,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,19500,2340,7.894736842
+927,Mutual Fund,SBI Technology Opportunities Fund,Sectoral - Technology,125000,03-06-2025,145000,16,High,52.2,2777.78,1.75,21.25,2025,2,June,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,20000,2187.5,8.648648649
+928,Mutual Fund,ICICI Prudential Technology Fund,Sectoral - Technology,135000,08-07-2025,156600,16,High,53.19,2939.82,1.78,22.95,2025,3,July,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,21600,2403,8.510638298
+929,Mutual Fund,Kotak Technology Fund,Sectoral - Technology,120000,13-08-2025,138000,15,High,46,3000,1.72,20.4,2025,3,August,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,18000,2064,8.241758242
+930,Mutual Fund,UTI Nifty 50 Value 20 Index Fund,Index Fund,145000,18-09-2025,166750,15,Low,14.95,11257.53,0.5,24.65,2025,3,September,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,21750,725,25
+931,Mutual Fund,Bandhan Nifty 50 Index Fund,Index Fund,140000,23-10-2025,159600,14,Low,13.68,10833.92,0.48,23.8,2025,4,October,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,19600,672,24.13793103
+932,Mutual Fund,Motilal Oswal Nifty 50 Index Fund,Index Fund,150000,28-11-2025,171000,14,Low,15.96,10833.92,0.52,25.5,2025,4,November,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,21000,780,22.58064516
+933,Mutual Fund,Axis Nifty 50 Index Fund,Index Fund,135000,03-12-2025,153900,14,Low,12.54,12727.27,0.45,22.95,2025,4,December,2025: ETF Efficiency & Index Surge,Stable Yield - Low Maintenance,18900,607.5,25.45454545
+934,Mutual Fund,ICICI Prudential Nifty 50 Index Fund,Index Fund,160000,08-01-2026,182400,14,Low,18.24,10000,0.5,27.2,2026,1,January,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,22400,800,23.33333333
+935,Mutual Fund,Nippon India Nifty 50 Index Fund,Index Fund,155000,13-02-2026,176700,14,Low,17.1,10333.33,0.48,26.35,2026,1,February,2026: Commodity & High-Volatility Balanced Market,Stable Yield - Low Maintenance,21700,744,24.13793103
+936,Mutual Fund,Quant Absolute Return Fund,Hybrid,130000,19-03-2026,149500,15,Medium,57.5,2600,1.5,22.1,2026,1,March,2026: Commodity & High-Volatility Balanced Market,High Yield - Premium Cost,19500,1950,9.375
+937,Mutual Fund,Kotak Equity Hybrid Fund,Hybrid,140000,26-03-2023,159600,14,Medium,13.68,11666.67,1.12,23.8,2023,1,March,2023: Stock & Active Equity Market Boom,Standard Asset Profile,19600,1568,11.47540984
+938,Mutual Fund,HDFC Balanced Advantage Fund,Hybrid,150000,01-05-2023,169500,13,Low,15.82,10047.92,0.95,25.5,2023,2,May,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,19500,1425,12.38095238
+939,Mutual Fund,ICICI Prudential Balanced Advantage,Hybrid,160000,06-06-2023,180800,13,Low,18.08,10666.67,0.92,27.2,2023,2,June,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,20800,1472,12.74509804
+940,Mutual Fund,SBI Balanced Fund,Hybrid,145000,11-07-2023,162400,12,Medium,14.56,11666.67,1.15,24.65,2023,3,July,2023: Stock & Active Equity Market Boom,Standard Asset Profile,17400,1667.5,9.6
+941,Mutual Fund,Axis Balanced Fund,Hybrid,135000,16-08-2023,148500,11,Medium,12.21,11666.67,1.1,22.95,2023,3,August,2023: Stock & Active Equity Market Boom,Standard Asset Profile,13500,1485,9.166666667
+942,Mutual Fund,PGIM India Balanced Advantage,Hybrid,140000,21-09-2023,156800,12,Low,13.44,11666.67,0.98,23.8,2023,3,September,2023: Stock & Active Equity Market Boom,Stable Yield - Low Maintenance,16800,1372,11.11111111
+943,Mutual Fund,Tata Balanced Fund,Hybrid,130000,26-10-2023,145600,12,Medium,11.2,11666.67,1.08,22.1,2023,4,October,2023: Stock & Active Equity Market Boom,Standard Asset Profile,15600,1404,10.16949153
+944,Mutual Fund,UTI Balanced Fund,Hybrid,125000,30-11-2023,137500,10,Medium,9.9,11666.67,1.05,21.25,2023,4,November,2023: Stock & Active Equity Market Boom,Standard Asset Profile,12500,1312.5,8.695652174
+945,Mutual Fund,Aditya Birla Sun Life Balanced 95,Hybrid,135000,05-12-2023,148500,10,Medium,12.1,11666.67,1.02,22.95,2023,4,December,2023: Stock & Active Equity Market Boom,Standard Asset Profile,13500,1377,8.928571429
+946,Mutual Fund,Franklin India Balanced Fund,Hybrid,120000,10-01-2024,129600,8,Low,8.64,11666.67,0.95,20.4,2024,1,January,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,9600,1140,7.619047619
+947,Mutual Fund,L&T Balanced Fund,Hybrid,128000,15-02-2024,139320,9,Medium,10.46,11666.67,1,21.76,2024,1,February,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,11320,1280,8.181818182
+948,Mutual Fund,IDFC Balanced Advantage Fund,Hybrid,132000,20-03-2024,143880,9,Low,11.34,11666.67,0.88,22.44,2024,1,March,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,11880,1161.6,9.183673469
+949,Mutual Fund,HSBC Balanced Fund,Hybrid,138000,25-04-2024,151800,10,Medium,12.76,11666.67,1.05,23.46,2024,2,April,2024: Mutual Fund Consistency Era,Standard Asset Profile,13800,1449,8.695652174
+950,Mutual Fund,Invesco India Balanced Fund,Hybrid,133000,30-05-2024,143610,8,Low,11.45,11666.67,0.92,22.62,2024,2,May,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,10610,1223.6,7.843137255
+951,Mutual Fund,Parag Parikh Dynamic Asset Allocation,Hybrid,140000,04-06-2024,154000,10,Low,13.2,11666.67,0.9,23.8,2024,2,June,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,14000,1260,10
+952,Mutual Fund,WhiteOak Capital Hybrid Fund,Hybrid,125000,09-07-2024,137500,10,Medium,9.9,11666.67,1.15,21.25,2024,3,July,2024: Mutual Fund Consistency Era,Standard Asset Profile,12500,1437.5,8
+953,Mutual Fund,Samco Hybrid Fund,Hybrid,120000,14-08-2024,132000,10,Medium,8.8,11666.67,1.2,20.4,2024,3,August,2024: Mutual Fund Consistency Era,Standard Asset Profile,12000,1440,7.692307692
+954,Mutual Fund,ITI Hybrid Fund,Hybrid,135000,19-09-2024,147150,9,Medium,11.99,11666.67,1.1,22.95,2024,3,September,2024: Mutual Fund Consistency Era,Standard Asset Profile,12150,1485,7.5
+955,Mutual Fund,Helios Hybrid Fund,Hybrid,130000,24-10-2024,140400,8,Low,10.8,11666.67,0.95,22.1,2024,4,October,2024: Mutual Fund Consistency Era,Stable Yield - Low Maintenance,10400,1235,7.619047619
+956,Mutual Fund,Bajaj Finserv Flexi Cap Fund,Flexi Cap,145000,29-11-2024,166750,15,Medium,149.5,1109.7,1.25,24.65,2024,4,November,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,21750,1812.5,11.11111111
+957,Mutual Fund,UTI Flexi Cap Fund,Flexi Cap,140000,04-12-2024,161000,15,Medium,138,1166.67,1.2,23.8,2024,4,December,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,21000,1680,11.53846154
+958,Mutual Fund,Motilal Oswal Flexi Cap Fund,Flexi Cap,135000,09-01-2025,155250,15,Medium,126.5,1166.67,1.22,22.95,2025,1,January,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,20250,1647,11.36363636
+959,Mutual Fund,ICICI Prudential Flexi Cap Fund,Flexi Cap,150000,14-02-2025,172500,15,Medium,161,1166.67,1.18,25.5,2025,1,February,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,22500,1770,11.71875
+960,Mutual Fund,SBI Flexi Cap Fund,Flexi Cap,155000,19-03-2025,178250,15,Medium,172.5,1166.67,1.15,26.35,2025,1,March,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,23250,1782.5,12
+961,Mutual Fund,HDFC Flexi Cap Fund,Flexi Cap,160000,24-04-2025,184000,15,Medium,184,1166.67,1.2,27.2,2025,2,April,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,24000,1920,11.53846154
+962,Mutual Fund,Axis Flexi Cap Fund,Flexi Cap,145000,29-05-2025,166750,15,Medium,149.5,1166.67,1.18,24.65,2025,2,May,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,21750,1711,11.71875
+963,Mutual Fund,Kotak Flexi Cap Fund,Flexi Cap,140000,03-06-2025,161000,15,Medium,138,1166.67,1.15,23.8,2025,2,June,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,21000,1610,12
+964,Mutual Fund,Nippon India Flexi Cap Fund,Flexi Cap,135000,08-07-2025,155250,15,Medium,126.5,1166.67,1.22,22.95,2025,3,July,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,20250,1647,11.36363636
+965,Mutual Fund,Tata Flexi Cap Fund,Flexi Cap,130000,13-08-2025,149500,15,Medium,115,1166.67,1.2,22.1,2025,3,August,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,19500,1560,11.53846154
+966,Mutual Fund,Bandhan Flexi Cap Fund,Flexi Cap,125000,18-09-2025,143750,15,Medium,103.5,1166.67,1.25,21.25,2025,3,September,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,18750,1562.5,11.11111111
+967,Mutual Fund,PGIM India Flexi Cap Fund,Flexi Cap,150000,23-10-2025,172500,15,Medium,161,1166.67,1.18,25.5,2025,4,October,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,22500,1770,11.71875
+968,Mutual Fund,Invesco India Flexi Cap Fund,Flexi Cap,145000,28-11-2025,166750,15,Medium,149.5,1166.67,1.2,24.65,2025,4,November,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,21750,1740,11.53846154
+969,Mutual Fund,Edelweiss Flexi Cap Fund,Flexi Cap,140000,03-12-2025,161000,15,Medium,138,1166.67,1.22,23.8,2025,4,December,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,21000,1708,11.36363636
+970,Mutual Fund,HSBC Flexi Cap Fund,Flexi Cap,135000,08-01-2026,155250,15,Medium,126.5,1166.67,1.15,22.95,2026,1,January,2026: Commodity & High-Volatility Balanced Market,High Yield - Cost Efficient,20250,1552.5,12
+971,Mutual Fund,Union Flexi Cap Fund,Flexi Cap,130000,13-02-2026,149500,15,Medium,115,1166.67,1.18,22.1,2026,1,February,2026: Commodity & High-Volatility Balanced Market,High Yield - Cost Efficient,19500,1534,11.71875
+972,Mutual Fund,Quant Flexi Cap Fund,Flexi Cap,128000,19-03-2026,147200,15,High,110.4,1166.67,1.8,21.76,2026,1,March,2026: Commodity & High-Volatility Balanced Market,High Yield - Premium Cost,19200,2304,7.894736842
+973,Mutual Fund,Mirae Asset Large & Midcap Fund,Multicap,150000,27-03-2023,174000,16,Medium,162.4,1071.43,1.12,25.5,2023,1,March,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,24000,1680,13.1147541
+974,Mutual Fund,ICICI Prudential Multicap Fund,Multicap,145000,02-05-2023,168200,16,Medium,150.8,1071.43,1.12,24.65,2023,2,May,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,23200,1624,13.1147541
+975,Mutual Fund,SBI Multicap Fund,Multicap,140000,07-06-2023,162400,16,Medium,139.2,1071.43,1.1,23.8,2023,2,June,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,22400,1540,13.33333333
+976,Mutual Fund,HDFC Multicap Fund,Multicap,155000,12-07-2023,179800,16,Medium,174,1071.43,1.18,26.35,2023,3,July,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,24800,1829,12.5
+977,Mutual Fund,Axis Multicap Fund,Multicap,135000,17-08-2023,156600,16,Medium,127.6,1071.43,1.15,22.95,2023,3,August,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,21600,1552.5,12.8
+978,Mutual Fund,Kotak Multicap Fund,Multicap,130000,22-09-2023,150800,16,Medium,116,1071.43,1.12,22.1,2023,3,September,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,20800,1456,13.1147541
+979,Mutual Fund,Nippon India Multicap Fund,Multicap,138000,27-10-2023,160080,16,Medium,134.56,1071.43,1.2,23.46,2023,4,October,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,22080,1656,12.30769231
+980,Mutual Fund,Tata Multicap Fund,Multicap,128000,01-11-2023,148480,16,Medium,111.36,1071.43,1.15,21.76,2023,4,November,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,20480,1472,12.8
+981,Mutual Fund,Bandhan Multicap Fund,Multicap,132000,06-12-2023,153120,16,Medium,120.64,1071.43,1.18,22.44,2023,4,December,2023: Stock & Active Equity Market Boom,High Yield - Cost Efficient,21120,1557.6,12.5
+982,Mutual Fund,PGIM India Multicap Fund,Multicap,140000,11-01-2024,162400,16,Medium,139.2,1071.43,1.15,23.8,2024,1,January,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,22400,1610,12.8
+983,Mutual Fund,Invesco India Multicap Fund,Multicap,135000,16-02-2024,156600,16,Medium,127.6,1071.43,1.2,22.95,2024,1,February,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,21600,1620,12.30769231
+984,Mutual Fund,Edelweiss Multicap Fund,Multicap,125000,21-03-2024,145000,16,Medium,104.4,1071.43,1.18,21.25,2024,1,March,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,20000,1475,12.5
+985,Mutual Fund,HSBC Multicap Fund,Multicap,130000,26-04-2024,150800,16,Medium,116,1071.43,1.15,22.1,2024,2,April,2024: Mutual Fund Consistency Era,High Yield - Cost Efficient,20800,1495,12.8
+986,Mutual Fund,Union Multicap Fund,Multicap,133000,01-05-2024,154280,16,Medium,122.96,1071.43,1.22,22.62,2024,2,May,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,21280,1622.6,12.12121212
+987,Mutual Fund,Quant Multicap Fund,Multicap,138000,06-06-2024,160080,16,High,134.56,1071.43,1.85,23.46,2024,2,June,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,22080,2553,8.205128205
+988,Mutual Fund,WhiteOak Capital Multicap Fund,Multicap,140000,11-07-2024,162400,16,Medium,139.2,1071.43,1.35,23.8,2024,3,July,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,22400,1890,11.03448276
+989,Mutual Fund,Samco Multicap Fund,Multicap,135000,16-08-2024,156600,16,Medium,127.6,1071.43,1.4,22.95,2024,3,August,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,21600,1890,10.66666667
+990,Mutual Fund,ITI Multicap Fund,Multicap,128000,21-09-2024,148480,16,Medium,111.36,1071.43,1.3,21.76,2024,3,September,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,20480,1664,11.42857143
+991,Mutual Fund,Helios Multicap Fund,Multicap,132000,26-10-2024,153120,16,Medium,120.64,1071.43,1.38,22.44,2024,4,October,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,21120,1821.6,10.81081081
+992,Mutual Fund,Bajaj Finserv Multicap Fund,Multicap,137000,01-11-2024,158920,16,Medium,132.24,1071.43,1.25,23.3,2024,4,November,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,21920,1712.5,11.85185185
+993,Mutual Fund,Motilal Oswal Multicap Fund,Multicap,140000,06-12-2024,162400,16,Medium,139.2,1071.43,1.28,23.8,2024,4,December,2024: Mutual Fund Consistency Era,High Yield - Premium Cost,22400,1792,11.5942029
+994,Mutual Fund,L&T Multicap Fund,Multicap,135000,11-01-2025,156600,16,Medium,127.6,1071.43,1.22,22.95,2025,1,January,2025: ETF Efficiency & Index Surge,High Yield - Premium Cost,21600,1647,12.12121212
+995,Mutual Fund,IDFC Multicap Fund,Multicap,130000,16-02-2025,150800,16,Medium,116,1071.43,1.18,22.1,2025,1,February,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,20800,1534,12.5
+996,Mutual Fund,Aditya Birla Sun Life Multicap Fund,Multicap,128000,21-03-2025,148480,16,Medium,111.36,1071.43,1.15,21.76,2025,1,March,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,20480,1472,12.8
+997,Mutual Fund,Franklin India Multicap Fund,Multicap,132000,26-04-2025,153120,16,Medium,120.64,1071.43,1.1,22.44,2025,2,April,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,21120,1452,13.33333333
+998,Mutual Fund,UTI Multicap Fund,Multicap,138000,01-05-2025,160080,16,Medium,134.56,1071.43,1.2,23.46,2025,2,May,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,22080,1656,12.30769231
+999,Mutual Fund,Baroda BNP Paribas Multicap Fund,Multicap,135000,06-06-2025,156600,16,Medium,127.6,1071.43,1.15,22.95,2025,2,June,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,21600,1552.5,12.8
+1000,Mutual Fund,Bank of India Multicap Fund,Multicap,130000,11-07-2025,150800,16,Medium,116,1071.43,1.18,22.1,2025,3,July,2025: ETF Efficiency & Index Surge,High Yield - Cost Efficient,20800,1534,12.5

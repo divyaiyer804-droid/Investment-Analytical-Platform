@@ -1,0 +1,1001 @@
+Investment_ID,Investment_Type,Asset_Name,Category,Investment_Amount,Investment_Date,Current_Value,Returns_Percentage,Risk_Level,NAV_Unit,Units_Held,Expense_Ratio,Portfolio_Allocation
+1,Mutual Fund,HDFC Top 100 Fund,Large Cap,50000,2023-01-15,58750,17.50,High,1850.25,27.02,1.05,8.5
+2,Mutual Fund,ICICI Prudential Bluechip Fund,Large Cap,75000,2023-02-20,86250,15.00,Medium,1245.50,60.24,1.02,12.75
+3,Stock,Reliance Industries,Blue Chip,100000,2023-03-10,118000,18.00,Medium,2580.75,38.75,0,17.0
+4,Mutual Fund,SBI Small Cap Fund,Small Cap,30000,2023-04-05,35100,17.00,High,56.80,618.31,1.75,5.1
+5,Stock,TCS,Blue Chip,80000,2023-05-12,90400,13.00,Low,3620.00,22.10,0,13.6
+6,Mutual Fund,Axis Midcap Fund,Mid Cap,45000,2023-06-18,53100,18.00,High,125.40,358.82,1.25,7.65
+7,Stock,HDFC Bank,Blue Chip,65000,2023-07-22,73475,13.00,Low,1580.50,41.13,0,11.05
+8,Mutual Fund,Mirae Asset Large Cap Fund,Large Cap,55000,2023-08-30,61600,12.00,Medium,980.20,56.12,1.03,9.35
+9,Stock,Infosys,Blue Chip,40000,2023-09-14,45200,13.00,Medium,1475.25,27.12,0,6.8
+10,Mutual Fund,Kotak Emerging Equity Fund,Mid Cap,35000,2023-10-08,41300,18.00,High,82.15,426.11,1.45,5.95
+11,Mutual Fund,UTI Nifty 50 Index Fund,Index Fund,60000,2023-11-20,68400,14.00,Low,210.50,285.04,0.50,10.2
+12,Stock,Bharti Airtel,Blue Chip,50000,2023-12-05,56000,12.00,Medium,1120.00,44.64,0,8.5
+13,Mutual Fund,Parag Parikh Flexi Cap Fund,Flexi Cap,70000,2024-01-10,79800,14.00,Medium,532.50,131.26,1.10,11.9
+14,Stock,ITC,Blue Chip,45000,2024-02-15,50850,13.00,Low,450.25,112.87,0,7.65
+15,Mutual Fund,Tata Digital India Fund,Sectoral,40000,2024-03-20,44800,12.00,High,48.90,818.00,1.80,6.8
+16,Stock,HCL Tech,Blue Chip,55000,2024-04-25,62700,14.00,Medium,1254.00,43.86,0,9.35
+17,Mutual Fund,PGIM India Midcap Opportunities,Mid Cap,38000,2024-05-30,44820,18.00,High,68.20,657.48,1.50,6.46
+18,Stock,Larsen & Toubro,Blue Chip,85000,2024-06-12,97750,15.00,Medium,3210.50,26.46,0,14.45
+19,Mutual Fund,Bandhan Small Cap Fund,Small Cap,25000,2024-07-18,29500,18.00,High,42.80,689.72,1.95,4.25
+20,Stock,Maruti Suzuki,Blue Chip,60000,2024-08-22,69000,15.00,Medium,10350.00,6.67,0,10.2
+21,Mutual Fund,Nippon India Small Cap Fund,Small Cap,32000,2024-09-05,37440,17.00,High,52.15,617.83,1.85,5.44
+22,Stock,Wipro,Blue Chip,30000,2024-10-10,33600,12.00,Medium,448.00,67.00,0,5.1
+23,Mutual Fund,SBI Magnum Multicap Fund,Multicap,48000,2024-11-15,55680,16.00,Medium,185.60,300.00,1.15,8.16
+24,Stock,Axis Bank,Blue Chip,42000,2024-12-20,48300,15.00,Medium,1070.00,39.25,0,7.14
+25,Mutual Fund,Franklin India Prima Fund,Mid Cap,36000,2025-01-25,42120,17.00,High,72.80,494.51,1.30,6.12
+26,Stock,Mahindra & Mahindra,Blue Chip,55000,2025-02-28,63250,15.00,Medium,1765.00,31.16,0,9.35
+27,Mutual Fund,Aditya Birla Sun Life Frontline Equity,Large Cap,65000,2025-03-15,73475,13.00,Medium,587.80,110.50,1.00,11.05
+28,Stock,Sun Pharma,Blue Chip,70000,2025-04-20,81200,16.00,Medium,1624.00,43.10,0,11.9
+29,Mutual Fund,IDFC Core Equity Fund,Large Cap,52000,2025-05-25,59280,14.00,Medium,118.56,500.00,1.08,8.84
+30,Stock,Bajaj Finance,Blue Chip,45000,2025-06-30,52200,16.00,High,7830.00,6.64,0,7.65
+31,Mutual Fund,Tata Equity P/E Fund,Value Fund,40000,2025-07-10,45600,14.00,Medium,152.00,263.16,1.12,6.8
+32,Stock,Asian Paints,Blue Chip,38000,2025-08-15,42180,11.00,Low,2812.00,13.51,0,6.46
+33,Mutual Fund,Quant Small Cap Fund,Small Cap,28000,2025-09-20,32760,17.00,High,38.20,758.12,2.10,4.76
+34,Stock,Nestle India,Blue Chip,50000,2025-10-25,54500,9.00,Low,27250.00,1.83,0,8.5
+35,Mutual Fund,Canara Robeco Equity Diversified,Multicap,43000,2025-11-30,49880,16.00,Medium,83.20,516.83,1.18,7.31
+36,Stock,Hindustan Unilever,Blue Chip,60000,2025-12-15,64200,7.00,Low,2414.00,24.85,0,10.2
+37,Mutual Fund,Union Small Cap Fund,Small Cap,30000,2026-01-20,35100,17.00,High,45.20,776.54,1.90,5.1
+38,Stock,Dr Reddy's Labs,Blue Chip,35000,2026-02-25,39550,13.00,Medium,5521.00,6.34,0,5.95
+39,Mutual Fund,Sundaram Midcap Fund,Mid Cap,46000,2026-03-30,53380,16.00,High,76.80,694.79,1.35,7.82
+40,Stock,Titan Company,Blue Chip,42000,2026-04-10,47880,14.00,Medium,3192.00,13.15,0,7.14
+41,Mutual Fund,Invesco India Growth Fund,Mid Cap,34000,2026-05-15,39440,16.00,Medium,112.00,352.14,1.22,5.78
+42,Stock,Bajaj Auto,Blue Chip,48000,2026-06-20,53760,12.00,Low,7463.00,6.43,0,8.16
+43,Mutual Fund,Edelweiss Large Cap Fund,Large Cap,58000,2026-07-25,65320,12.60,Medium,326.60,177.66,1.06,9.86
+44,Stock,Divi's Labs,Blue Chip,52000,2026-08-30,58760,13.00,Medium,4896.67,10.63,0,8.84
+45,Mutual Fund,PPFAS Flexi Cap Fund,Flexi Cap,62000,2026-09-05,70680,14.00,Medium,706.80,87.78,1.15,10.54
+46,Stock,ICICI Bank,Blue Chip,55000,2026-10-10,62150,13.00,Low,1243.00,44.25,0,9.35
+47,Mutual Fund,HSBC Large Cap Fund,Large Cap,48000,2026-11-15,54240,13.00,Medium,271.20,177.04,1.04,8.16
+48,Stock,State Bank of India,Blue Chip,60000,2026-12-20,69000,15.00,Medium,690.00,86.96,0,10.2
+49,Mutual Fund,Kotak Bluechip Fund,Large Cap,53000,2023-01-10,60590,14.20,Medium,242.36,218.69,1.01,9.02
+50,Stock,Godrej Consumer Products,Blue Chip,38000,2023-02-15,42930,12.90,Low,1148.50,33.06,0,6.46
+51,Mutual Fund,Bank of India Large Cap Fund,Large Cap,45000,2023-03-20,51300,14.00,Medium,342.00,131.58,1.07,7.65
+52,Stock,Britannia Industries,Blue Chip,42000,2023-04-25,48300,15.00,Low,4830.00,8.70,0,7.14
+53,Mutual Fund,L&T Emerging Businesses Fund,Mid Cap,36000,2023-05-30,42480,18.00,High,64.80,655.56,1.55,6.12
+54,Stock,Grasim Industries,Blue Chip,50000,2023-06-10,57500,15.00,Medium,1916.67,26.09,0,8.5
+55,Mutual Fund,Baroda BNP Paribas Large Cap Fund,Large Cap,52000,2023-07-15,58880,13.20,Medium,294.40,176.77,1.03,8.84
+56,Stock,UPL,Blue Chip,28000,2023-08-20,31920,14.00,Medium,398.00,70.35,0,4.76
+57,Mutual Fund,IIFL Focused Equity Fund,Focused Fund,40000,2023-09-25,45600,14.00,Medium,456.00,87.72,1.28,6.8
+58,Stock,Zomato,Mid Cap,25000,2023-10-30,30000,20.00,High,150.00,166.67,0,4.25
+59,Mutual Fund,Samco Active Equity Fund,Focused Fund,35000,2023-11-05,40250,15.00,Medium,80.50,434.78,1.75,5.95
+60,Stock,Nykaa,Mid Cap,22000,2023-12-10,26180,19.00,High,130.90,168.60,0,3.74
+61,Mutual Fund,WhiteOak Capital Midcap Fund,Mid Cap,38000,2024-01-15,44820,18.00,High,62.70,605.74,1.48,6.46
+62,Stock,Paytm,Mid Cap,18000,2024-02-20,19800,10.00,High,396.00,45.45,0,3.06
+63,Mutual Fund,ITI Midcap Fund,Mid Cap,32000,2024-03-25,37760,18.00,High,47.20,677.97,1.52,5.44
+64,Stock,Dreamfolks Services,Small Cap,15000,2024-04-30,17700,18.00,High,295.00,60.00,0,2.55
+65,Mutual Fund,Helios Midcap Fund,Mid Cap,40000,2024-05-05,47200,18.00,High,78.67,508.33,1.42,6.8
+66,Stock,Nuvo,Small Cap,12000,2024-06-10,14040,17.00,High,234.00,51.28,0,2.04
+67,Mutual Fund,Motilal Oswal Midcap Fund,Mid Cap,36000,2024-07-15,42480,18.00,High,60.69,593.20,1.50,6.12
+68,Stock,Tata Elxsi,Mid Cap,28000,2024-08-20,32200,15.00,Medium,805.00,34.78,0,4.76
+69,Mutual Fund,HSBC Midcap Fund,Mid Cap,42000,2024-09-25,49560,18.00,High,103.25,407.29,1.38,7.14
+70,Stock,Persistent Systems,Mid Cap,32000,2024-10-30,37120,16.00,Medium,698.67,45.79,0,5.44
+71,Mutual Fund,Nippon India Growth Fund,Mid Cap,38000,2024-11-05,43780,15.30,Medium,87.56,433.71,1.25,6.46
+72,Stock,L&T Technology Services,Mid Cap,26000,2024-12-10,29900,15.00,Medium,427.14,60.86,0,4.42
+73,Mutual Fund,ICICI Prudential Midcap Fund,Mid Cap,45000,2025-01-15,52650,17.00,High,75.21,597.01,1.32,7.65
+74,Stock,Happiest Minds,Mid Cap,20000,2025-02-20,23400,17.00,Medium,780.00,25.64,0,3.40
+75,Mutual Fund,Kotak Emerging Equity Fund,Mid Cap,40000,2025-03-25,46800,17.00,High,78.00,512.82,1.40,6.8
+76,Stock,Mphasis,Mid Cap,30000,2025-04-30,34500,15.00,Medium,2300.00,13.04,0,5.10
+77,Mutual Fund,Axis Midcap Fund,Mid Cap,48000,2025-05-05,56160,17.00,High,112.32,428.17,1.25,8.16
+78,Stock,Coforge,Mid Cap,35000,2025-06-10,40250,15.00,Medium,1610.00,21.74,0,5.95
+79,Mutual Fund,HDFC Mid-Cap Opportunities,Mid Cap,52000,2025-07-15,60840,17.00,High,169.00,307.69,1.30,8.84
+80,Stock,LTIMindtree,Mid Cap,45000,2025-08-20,51750,15.00,Medium,5175.00,8.70,0,7.65
+81,Mutual Fund,PGIM India Midcap Fund,Mid Cap,38000,2025-09-25,44460,17.00,High,111.15,342.03,1.48,6.46
+82,Stock,Tata Technologies,Mid Cap,28000,2025-10-30,32200,15.00,Medium,805.00,34.78,0,4.76
+83,Mutual Fund,Mirae Asset Midcap Fund,Mid Cap,42000,2025-11-05,48930,16.50,High,91.75,457.68,1.35,7.14
+84,Stock,Sensex ETF,ETF,100000,2025-12-10,115000,15.00,Low,575.00,200.00,0.15,17.0
+85,Mutual Fund,Nifty 50 ETF,ETF,80000,2023-01-20,91200,14.00,Low,228.00,350.88,0.10,13.6
+86,Stock,Bank Nifty ETF,ETF,75000,2023-02-25,86250,15.00,Medium,1725.00,43.48,0.20,12.75
+87,Mutual Fund,Gold ETF,ETF,50000,2023-03-30,56000,12.00,Low,280.00,200.00,0.25,8.5
+88,Stock,IT Index ETF,ETF,60000,2023-04-05,68400,14.00,Medium,228.00,300.00,0.15,10.2
+89,Mutual Fund,PSU Bank ETF,ETF,40000,2023-05-10,44800,12.00,Medium,89.60,500.00,0.18,6.8
+90,Stock,Infra ETF,ETF,55000,2023-06-15,63250,15.00,Medium,211.67,295.83,0.16,9.35
+91,Mutual Fund,Consumption ETF,ETF,45000,2023-07-20,51300,14.00,Low,256.50,175.25,0.12,7.65
+92,Stock,Pharma ETF,ETF,35000,2023-08-25,39900,14.00,Medium,133.00,300.00,0.15,5.95
+93,Mutual Fund,Auto ETF,ETF,40000,2023-09-30,45600,14.00,Medium,114.00,400.00,0.17,6.8
+94,Stock,Midcap ETF,ETF,50000,2023-10-05,57500,15.00,Medium,287.50,208.70,0.18,8.5
+95,Mutual Fund,Smallcap ETF,ETF,30000,2023-11-10,34500,15.00,High,172.50,200.00,0.22,5.1
+96,Stock,Value ETF,ETF,45000,2023-12-15,51300,14.00,Medium,171.00,300.00,0.16,7.65
+97,Mutual Fund,Dividend Yield ETF,ETF,40000,2024-01-20,45200,13.00,Low,151.33,264.29,0.14,6.8
+98,Stock,Quality ETF,ETF,55000,2024-02-25,62700,14.00,Low,209.00,300.00,0.13,9.35
+99,Mutual Fund,Low Volatility ETF,ETF,48000,2024-03-30,53760,12.00,Low,179.20,300.00,0.12,8.16
+100,Stock,Momentum ETF,ETF,42000,2024-04-05,48300,15.00,High,161.00,300.00,0.20,7.14
+101,Mutual Fund,Debt Fund - Dynamic Bond,Debt,100000,2023-01-25,107000,7.00,Low,21.40,5000.00,0.50,17.0
+102,Mutual Fund,Debt Fund - Corporate Bond,Debt,80000,2023-02-28,84800,6.00,Low,21.20,4000.00,0.45,13.6
+103,Mutual Fund,Debt Fund - Government Securities,Debt,75000,2023-03-05,79500,6.00,Low,26.50,3000.00,0.35,12.75
+104,Mutual Fund,Debt Fund - Short Duration,Debt,60000,2023-04-10,63000,5.00,Low,10.50,6000.00,0.40,10.2
+105,Mutual Fund,Debt Fund - Money Market,Debt,50000,2023-05-15,52500,5.00,Low,10.50,5000.00,0.30,8.5
+106,Mutual Fund,Debt Fund - Liquid Fund,Debt,150000,2023-06-20,156000,4.00,Low,10.40,15000.00,0.20,25.5
+107,Mutual Fund,Debt Fund - Ultra Short Duration,Debt,70000,2023-07-25,73500,5.00,Low,14.70,5000.00,0.35,11.9
+108,Mutual Fund,Debt Fund - Credit Risk,Debt,55000,2023-08-30,58850,7.00,Medium,11.77,5000.00,0.85,9.35
+109,Mutual Fund,Debt Fund - Banking & PSU,Debt,65000,2023-09-04,68250,5.00,Low,13.65,5000.00,0.40,11.05
+110,Mutual Fund,Debt Fund - Gilt Fund,Debt,45000,2023-10-09,47250,5.00,Low,15.75,3000.00,0.30,7.65
+111,Mutual Fund,Hybrid Fund - Equity Savings,Hybrid,60000,2023-11-14,66600,11.00,Low,11.10,6000.00,0.80,10.2
+112,Mutual Fund,Hybrid Fund - Conservative Hybrid,Hybrid,70000,2023-12-19,75600,8.00,Low,12.60,5873.02,0.75,11.9
+113,Mutual Fund,Hybrid Fund - Balanced Hybrid,Hybrid,80000,2024-01-24,89600,12.00,Medium,14.93,6008.04,1.10,13.6
+114,Mutual Fund,Hybrid Fund - Aggressive Hybrid,Hybrid,90000,2024-02-28,102600,14.00,Medium,17.10,5999.42,1.15,15.3
+115,Mutual Fund,Hybrid Fund - Dynamic Asset Allocation,Hybrid,65000,2024-03-05,71500,10.00,Low,14.30,5000.00,0.90,11.05
+116,Mutual Fund,Hybrid Fund - Multi Asset Allocation,Hybrid,55000,2024-04-10,60500,10.00,Low,12.10,5000.00,0.95,9.35
+117,Mutual Fund,HDFC Children's Gift Fund,Children's Fund,50000,2024-05-15,57500,15.00,Medium,191.67,260.87,1.20,8.5
+118,Mutual Fund,ICICI Prudential Child Care Fund,Children's Fund,45000,2024-06-20,51750,15.00,Medium,172.50,300.00,1.18,7.65
+119,Mutual Fund,SBI Children's Future Fund,Children's Fund,55000,2024-07-25,63250,15.00,Medium,211.67,300.00,1.15,9.35
+120,Mutual Fund,Axis Children's Gift Fund,Children's Fund,60000,2024-08-30,69000,15.00,Medium,230.00,300.00,1.22,10.2
+121,Mutual Fund,Kotak Assured Income,Retirement Fund,100000,2024-09-04,108000,8.00,Low,10.80,10000.00,0.80,17.0
+122,Mutual Fund,HDFC Retirement Savings Fund,Retirement Fund,120000,2024-10-09,130800,9.00,Low,13.08,10000.00,0.85,20.4
+123,Mutual Fund,ICICI Prudential Retirement Fund,Retirement Fund,80000,2024-11-14,87200,9.00,Low,10.90,8000.00,0.82,13.6
+124,Mutual Fund,SBI Retirement Fund,Retirement Fund,90000,2024-12-19,98100,9.00,Low,10.90,9000.00,0.80,15.3
+125,Mutual Fund,Axis Retirement Fund,Retirement Fund,70000,2025-01-24,76300,9.00,Low,10.90,7000.00,0.78,11.9
+126,Mutual Fund,Tata Digital India Fund,Sectoral - Technology,50000,2025-02-28,57500,15.00,High,48.90,1022.49,1.80,8.5
+127,Mutual Fund,SBI Technology Opportunities Fund,Sectoral - Technology,45000,2025-03-05,52200,16.00,High,52.20,1000.00,1.75,7.65
+128,Mutual Fund,ICICI Prudential Technology Fund,Sectoral - Technology,55000,2025-04-10,63850,16.00,High,53.19,1200.00,1.78,9.35
+129,Mutual Fund,Kotak Technology Fund,Sectoral - Technology,40000,2025-05-15,46000,15.00,High,46.00,1000.00,1.72,6.8
+130,Mutual Fund,UTI Nifty 50 Value 20 Index Fund,Index Fund,65000,2025-06-20,74750,15.00,Low,14.95,4347.83,0.50,11.05
+131,Mutual Fund,Bandhan Nifty 50 Index Fund,Index Fund,60000,2025-07-25,68400,14.00,Low,13.68,4385.96,0.48,10.2
+132,Mutual Fund,Motilal Oswal Nifty 50 Index Fund,Index Fund,70000,2025-08-30,79800,14.00,Low,15.96,4385.96,0.52,11.9
+133,Mutual Fund,Axis Nifty 50 Index Fund,Index Fund,55000,2025-09-04,62700,14.00,Low,12.54,5000.00,0.45,9.35
+134,Mutual Fund,ICICI Prudential Nifty 50 Index Fund,Index Fund,80000,2025-10-09,91200,14.00,Low,18.24,5000.00,0.50,13.6
+135,Mutual Fund,Nippon India Nifty 50 Index Fund,Index Fund,75000,2025-11-14,85500,14.00,Low,17.10,5000.00,0.48,12.75
+136,Mutual Fund,Quant Absolute Return Fund,Hybrid,50000,2025-12-19,57500,15.00,Medium,57.50,1000.00,1.50,8.5
+137,Mutual Fund,Kotak Equity Hybrid Fund,Hybrid,60000,2023-01-30,68400,14.00,Medium,13.68,5000.00,1.12,10.2
+138,Mutual Fund,HDFC Balanced Advantage Fund,Hybrid,70000,2023-02-04,79100,13.00,Low,15.82,5000.00,0.95,11.9
+139,Mutual Fund,ICICI Prudential Balanced Advantage,Hybrid,80000,2023-03-09,90400,13.00,Low,18.08,5000.00,0.92,13.6
+140,Mutual Fund,SBI Balanced Fund,Hybrid,65000,2023-04-14,72800,12.00,Medium,14.56,5000.00,1.15,11.05
+141,Mutual Fund,Axis Balanced Fund,Hybrid,55000,2023-05-19,61050,11.00,Medium,12.21,5000.00,1.10,9.35
+142,Mutual Fund,PGIM India Balanced Advantage,Hybrid,60000,2023-06-24,67200,12.00,Low,13.44,5000.00,0.98,10.2
+143,Mutual Fund,Tata Balanced Fund,Hybrid,50000,2023-07-29,56000,12.00,Medium,11.20,5000.00,1.08,8.5
+144,Mutual Fund,UTI Balanced Fund,Hybrid,45000,2023-08-03,49500,10.00,Medium,9.90,5000.00,1.05,7.65
+145,Mutual Fund,Aditya Birla Sun Life Balanced 95,Hybrid,55000,2023-09-08,60500,10.00,Medium,12.10,5000.00,1.02,9.35
+146,Mutual Fund,Franklin India Balanced Fund,Hybrid,40000,2023-10-13,43200,8.00,Low,8.64,5000.00,0.95,6.8
+147,Mutual Fund,L&T Balanced Fund,Hybrid,48000,2023-11-18,52320,9.00,Medium,10.46,5000.00,1.00,8.16
+148,Mutual Fund,IDFC Balanced Advantage Fund,Hybrid,52000,2023-12-23,56680,9.00,Low,11.34,5000.00,0.88,8.84
+149,Mutual Fund,HSBC Balanced Fund,Hybrid,58000,2024-01-28,63800,10.00,Medium,12.76,5000.00,1.05,9.86
+150,Mutual Fund,Invesco India Balanced Fund,Hybrid,53000,2024-02-02,57270,8.00,Low,11.45,5000.00,0.92,9.02
+151,Mutual Fund,Parag Parikh Dynamic Asset Allocation,Hybrid,60000,2024-03-09,66000,10.00,Low,13.20,5000.00,0.90,10.2
+152,Mutual Fund,WhiteOak Capital Hybrid Fund,Hybrid,45000,2024-04-14,49500,10.00,Medium,9.90,5000.00,1.15,7.65
+153,Mutual Fund,Samco Hybrid Fund,Hybrid,40000,2024-05-19,44000,10.00,Medium,8.80,5000.00,1.20,6.8
+154,Mutual Fund,ITI Hybrid Fund,Hybrid,55000,2024-06-24,59950,9.00,Medium,11.99,5000.00,1.10,9.35
+155,Mutual Fund,Helios Hybrid Fund,Hybrid,50000,2024-07-29,54000,8.00,Low,10.80,5000.00,0.95,8.5
+156,Mutual Fund,Bajaj Finserv Flexi Cap Fund,Flexi Cap,65000,2024-08-03,74750,15.00,Medium,149.50,500.00,1.25,11.05
+157,Mutual Fund,UTI Flexi Cap Fund,Flexi Cap,60000,2024-09-08,69000,15.00,Medium,138.00,500.00,1.20,10.2
+158,Mutual Fund,Motilal Oswal Flexi Cap Fund,Flexi Cap,55000,2024-10-13,63250,15.00,Medium,126.50,500.00,1.22,9.35
+159,Mutual Fund,ICICI Prudential Flexi Cap Fund,Flexi Cap,70000,2024-11-18,80500,15.00,Medium,161.00,500.00,1.18,11.9
+160,Mutual Fund,SBI Flexi Cap Fund,Flexi Cap,75000,2024-12-23,86250,15.00,Medium,172.50,500.00,1.15,12.75
+161,Mutual Fund,HDFC Flexi Cap Fund,Flexi Cap,80000,2025-01-28,92000,15.00,Medium,184.00,500.00,1.20,13.6
+162,Mutual Fund,Axis Flexi Cap Fund,Flexi Cap,65000,2025-02-02,74750,15.00,Medium,149.50,500.00,1.18,11.05
+163,Mutual Fund,Kotak Flexi Cap Fund,Flexi Cap,60000,2025-03-09,69000,15.00,Medium,138.00,500.00,1.15,10.2
+164,Mutual Fund,Nippon India Flexi Cap Fund,Flexi Cap,55000,2025-04-14,63250,15.00,Medium,126.50,500.00,1.22,9.35
+165,Mutual Fund,Tata Flexi Cap Fund,Flexi Cap,50000,2025-05-19,57500,15.00,Medium,115.00,500.00,1.20,8.5
+166,Mutual Fund,Bandhan Flexi Cap Fund,Flexi Cap,45000,2025-06-24,51750,15.00,Medium,103.50,500.00,1.25,7.65
+167,Mutual Fund,PGIM India Flexi Cap Fund,Flexi Cap,70000,2025-07-29,80500,15.00,Medium,161.00,500.00,1.18,11.9
+168,Mutual Fund,Invesco India Flexi Cap Fund,Flexi Cap,65000,2025-08-03,74750,15.00,Medium,149.50,500.00,1.20,11.05
+169,Mutual Fund,Edelweiss Flexi Cap Fund,Flexi Cap,60000,2025-09-08,69000,15.00,Medium,138.00,500.00,1.22,10.2
+170,Mutual Fund,HSBC Flexi Cap Fund,Flexi Cap,55000,2025-10-13,63250,15.00,Medium,126.50,500.00,1.15,9.35
+171,Mutual Fund,Union Flexi Cap Fund,Flexi Cap,50000,2025-11-18,57500,15.00,Medium,115.00,500.00,1.18,8.5
+172,Mutual Fund,Quant Flexi Cap Fund,Flexi Cap,48000,2025-12-23,55200,15.00,High,110.40,500.00,1.80,8.16
+173,Mutual Fund,Mirae Asset Large & Midcap Fund,Multicap,70000,2023-01-05,81200,16.00,Medium,162.40,500.00,1.15,11.9
+174,Mutual Fund,ICICI Prudential Multicap Fund,Multicap,65000,2023-02-10,75400,16.00,Medium,150.80,500.00,1.12,11.05
+175,Mutual Fund,SBI Multicap Fund,Multicap,60000,2023-03-15,69600,16.00,Medium,139.20,500.00,1.10,10.2
+176,Mutual Fund,HDFC Multicap Fund,Multicap,75000,2023-04-20,87000,16.00,Medium,174.00,500.00,1.18,12.75
+177,Mutual Fund,Axis Multicap Fund,Multicap,55000,2023-05-25,63800,16.00,Medium,127.60,500.00,1.15,9.35
+178,Mutual Fund,Kotak Multicap Fund,Multicap,50000,2023-06-30,58000,16.00,Medium,116.00,500.00,1.12,8.5
+179,Mutual Fund,Nippon India Multicap Fund,Multicap,58000,2023-07-05,67280,16.00,Medium,134.56,500.00,1.20,9.86
+180,Mutual Fund,Tata Multicap Fund,Multicap,48000,2023-08-10,55680,16.00,Medium,111.36,500.00,1.15,8.16
+181,Mutual Fund,Bandhan Multicap Fund,Multicap,52000,2023-09-15,60320,16.00,Medium,120.64,500.00,1.18,8.84
+182,Mutual Fund,PGIM India Multicap Fund,Multicap,60000,2023-10-20,69600,16.00,Medium,139.20,500.00,1.15,10.2
+183,Mutual Fund,Invesco India Multicap Fund,Multicap,55000,2023-11-25,63800,16.00,Medium,127.60,500.00,1.20,9.35
+184,Mutual Fund,Edelweiss Multicap Fund,Multicap,45000,2023-12-30,52200,16.00,Medium,104.40,500.00,1.18,7.65
+185,Mutual Fund,HSBC Multicap Fund,Multicap,50000,2024-01-04,58000,16.00,Medium,116.00,500.00,1.15,8.5
+186,Mutual Fund,Union Multicap Fund,Multicap,53000,2024-02-09,61480,16.00,Medium,122.96,500.00,1.22,9.02
+187,Mutual Fund,Quant Multicap Fund,Multicap,58000,2024-03-16,67280,16.00,High,134.56,500.00,1.85,9.86
+188,Mutual Fund,WhiteOak Capital Multicap Fund,Multicap,60000,2024-04-21,69600,16.00,Medium,139.20,500.00,1.35,10.2
+189,Mutual Fund,Samco Multicap Fund,Multicap,55000,2024-05-26,63800,16.00,Medium,127.60,500.00,1.40,9.35
+190,Mutual Fund,ITI Multicap Fund,Multicap,48000,2024-06-01,55680,16.00,Medium,111.36,500.00,1.30,8.16
+191,Mutual Fund,Helios Multicap Fund,Multicap,52000,2024-07-06,60320,16.00,Medium,120.64,500.00,1.38,8.84
+192,Mutual Fund,Bajaj Finserv Multicap Fund,Multicap,57000,2024-08-11,66120,16.00,Medium,132.24,500.00,1.25,9.70
+193,Mutual Fund,Motilal Oswal Multicap Fund,Multicap,60000,2024-09-16,69600,16.00,Medium,139.20,500.00,1.28,10.2
+194,Mutual Fund,L&T Multicap Fund,Multicap,55000,2024-10-21,63800,16.00,Medium,127.60,500.00,1.22,9.35
+195,Mutual Fund,IDFC Multicap Fund,Multicap,50000,2024-11-26,58000,16.00,Medium,116.00,500.00,1.18,8.5
+196,Mutual Fund,Aditya Birla Sun Life Multicap Fund,Multicap,48000,2024-12-01,55680,16.00,Medium,111.36,500.00,1.15,8.16
+197,Mutual Fund,Franklin India Multicap Fund,Multicap,52000,2025-01-06,60320,16.00,Medium,120.64,500.00,1.10,8.84
+198,Mutual Fund,UTI Multicap Fund,Multicap,58000,2025-02-11,67280,16.00,Medium,134.56,500.00,1.20,9.86
+199,Mutual Fund,Baroda BNP Paribas Multicap Fund,Multicap,55000,2025-03-18,63800,16.00,Medium,127.60,500.00,1.15,9.35
+200,Mutual Fund,Bank of India Multicap Fund,Multicap,50000,2025-04-23,58000,16.00,Medium,116.00,500.00,1.18,8.5
+201,Mutual Fund,HDFC Top 100 Fund,Large Cap,60000,2023-02-01,70500,17.50,High,1850.25,32.43,1.05,10.2
+202,Mutual Fund,ICICI Prudential Bluechip Fund,Large Cap,55000,2023-03-06,63250,15.00,Medium,1245.50,44.18,1.02,9.35
+203,Stock,Reliance Industries,Blue Chip,120000,2023-04-11,141600,18.00,Medium,2580.75,46.50,0,20.4
+204,Mutual Fund,SBI Small Cap Fund,Small Cap,35000,2023-05-16,40950,17.00,High,56.80,721.30,1.75,5.95
+205,Stock,TCS,Blue Chip,90000,2023-06-21,101700,13.00,Low,3620.00,24.86,0,15.3
+206,Mutual Fund,Axis Midcap Fund,Mid Cap,50000,2023-07-26,59000,18.00,High,125.40,398.72,1.25,8.5
+207,Stock,HDFC Bank,Blue Chip,75000,2023-08-31,84750,13.00,Low,1580.50,47.46,0,12.75
+208,Mutual Fund,Mirae Asset Large Cap Fund,Large Cap,65000,2023-09-05,72800,12.00,Medium,980.20,66.31,1.03,11.05
+209,Stock,Infosys,Blue Chip,50000,2023-10-10,56500,13.00,Medium,1475.25,33.89,0,8.5
+210,Mutual Fund,Kotak Emerging Equity Fund,Mid Cap,40000,2023-11-15,47200,18.00,High,82.15,486.85,1.45,6.8
+211,Mutual Fund,UTI Nifty 50 Index Fund,Index Fund,70000,2023-12-20,79800,14.00,Low,210.50,332.54,0.50,11.9
+212,Stock,Bharti Airtel,Blue Chip,60000,2024-01-25,67200,12.00,Medium,1120.00,60.00,0,10.2
+213,Mutual Fund,Parag Parikh Flexi Cap Fund,Flexi Cap,80000,2024-02-29,91200,14.00,Medium,532.50,170.99,1.10,13.6
+214,Stock,ITC,Blue Chip,55000,2024-03-05,62150,13.00,Low,450.25,137.95,0,9.35
+215,Mutual Fund,Tata Digital India Fund,Sectoral,50000,2024-04-10,56000,12.00,High,48.90,1022.49,1.80,8.5
+216,Stock,HCL Tech,Blue Chip,65000,2024-05-15,74100,14.00,Medium,1254.00,51.83,0,11.05
+217,Mutual Fund,PGIM India Midcap Opportunities,Mid Cap,45000,2024-06-20,53100,18.00,High,68.20,659.83,1.50,7.65
+218,Stock,Larsen & Toubro,Blue Chip,95000,2024-07-25,109250,15.00,Medium,3210.50,29.57,0,16.15
+219,Mutual Fund,Bandhan Small Cap Fund,Small Cap,30000,2024-08-30,35400,18.00,High,42.80,827.10,1.95,5.1
+220,Stock,Maruti Suzuki,Blue Chip,70000,2024-09-04,80500,15.00,Medium,10350.00,7.78,0,11.9
+221,Mutual Fund,Nippon India Small Cap Fund,Small Cap,37000,2024-10-09,43290,17.00,High,52.15,714.29,1.85,6.29
+222,Stock,Wipro,Blue Chip,35000,2024-11-14,39200,12.00,Medium,448.00,78.13,0,5.95
+223,Mutual Fund,SBI Magnum Multicap Fund,Multicap,55000,2024-12-19,63800,16.00,Medium,185.60,343.75,1.15,9.35
+224,Stock,Axis Bank,Blue Chip,50000,2025-01-24,57500,15.00,Medium,1070.00,46.73,0,8.5
+225,Mutual Fund,Franklin India Prima Fund,Mid Cap,43000,2025-02-28,50310,17.00,High,72.80,590.57,1.30,7.31
+226,Stock,Mahindra & Mahindra,Blue Chip,65000,2025-03-05,74750,15.00,Medium,1765.00,36.69,0,11.05
+227,Mutual Fund,Aditya Birla Sun Life Frontline Equity,Large Cap,75000,2025-04-10,84750,13.00,Medium,587.80,127.51,1.00,12.75
+228,Stock,Sun Pharma,Blue Chip,80000,2025-05-15,92800,16.00,Medium,1624.00,49.26,0,13.6
+229,Mutual Fund,IDFC Core Equity Fund,Large Cap,62000,2025-06-20,70680,14.00,Medium,118.56,596.30,1.08,10.54
+230,Stock,Bajaj Finance,Blue Chip,55000,2025-07-25,63800,16.00,High,7830.00,8.14,0,9.35
+231,Mutual Fund,Tata Equity P/E Fund,Value Fund,48000,2025-08-30,54720,14.00,Medium,152.00,315.79,1.12,8.16
+232,Stock,Asian Paints,Blue Chip,45000,2025-09-04,19950,11.00,Low,2812.00,15.99,0,7.65
+233,Mutual Fund,Quant Small Cap Fund,Small Cap,35000,2025-10-09,40950,17.00,High,38.20,1071.99,2.10,5.95
+234,Stock,Nestle India,Blue Chip,60000,2025-11-14,65400,9.00,Low,27250.00,2.20,0,10.2
+235,Mutual Fund,Canara Robeco Equity Diversified,Multicap,53000,2025-12-19,61480,16.00,Medium,83.20,637.26,1.18,9.02
+236,Stock,Hindustan Unilever,Blue Chip,70000,2026-01-24,74900,7.00,Low,2414.00,29.00,0,11.9
+237,Mutual Fund,Union Small Cap Fund,Small Cap,38000,2026-02-28,44460,17.00,High,45.20,983.63,1.90,6.46
+238,Stock,Dr Reddy's Labs,Blue Chip,45000,2026-03-05,50850,13.00,Medium,5521.00,8.15,0,7.65
+239,Mutual Fund,Sundaram Midcap Fund,Mid Cap,56000,2026-04-10,64960,16.00,High,76.80,845.83,1.35,9.52
+240,Stock,Titan Company,Blue Chip,50000,2026-05-15,57000,14.00,Medium,3192.00,15.66,0,8.5
+241,Mutual Fund,Invesco India Growth Fund,Mid Cap,44000,2026-06-20,51040,16.00,Medium,112.00,455.71,1.22,7.48
+242,Stock,Bajaj Auto,Blue Chip,58000,2026-07-25,64960,12.00,Low,7463.00,7.78,0,9.86
+243,Mutual Fund,Edelweiss Large Cap Fund,Large Cap,68000,2026-08-30,76560,12.60,Medium,326.60,208.27,1.06,11.56
+244,Stock,Divi's Labs,Blue Chip,62000,2026-09-04,70060,13.00,Medium,4896.67,12.67,0,10.54
+245,Mutual Fund,PPFAS Flexi Cap Fund,Flexi Cap,72000,2026-10-09,82080,14.00,Medium,706.80,101.90,1.15,12.24
+246,Stock,ICICI Bank,Blue Chip,65000,2026-11-14,73450,13.00,Low,1243.00,52.29,0,11.05
+247,Mutual Fund,HSBC Large Cap Fund,Large Cap,58000,2026-12-19,65540,13.00,Medium,271.20,213.84,1.04,9.86
+248,Stock,State Bank of India,Blue Chip,70000,2023-03-01,80500,15.00,Medium,690.00,101.45,0,11.9
+249,Mutual Fund,Kotak Bluechip Fund,Large Cap,63000,2023-04-06,71970,14.20,Medium,242.36,260.02,1.01,10.71
+250,Stock,Godrej Consumer Products,Blue Chip,48000,2023-05-11,54240,12.90,Low,1148.50,41.76,0,8.16
+251,Mutual Fund,Bank of India Large Cap Fund,Large Cap,55000,2023-06-16,62700,14.00,Medium,342.00,160.82,1.07,9.35
+252,Stock,Britannia Industries,Blue Chip,52000,2023-07-21,59800,15.00,Low,4830.00,10.77,0,8.84
+253,Mutual Fund,L&T Emerging Businesses Fund,Mid Cap,46000,2023-08-26,54280,18.00,High,64.80,838.89,1.55,7.82
+254,Stock,Grasim Industries,Blue Chip,60000,2023-09-01,69000,15.00,Medium,1916.67,31.30,0,10.2
+255,Mutual Fund,Baroda BNP Paribas Large Cap Fund,Large Cap,62000,2023-10-06,70440,13.20,Medium,294.40,210.73,1.03,10.54
+256,Stock,UPL,Blue Chip,38000,2023-11-11,43320,14.00,Medium,398.00,95.48,0,6.46
+257,Mutual Fund,IIFL Focused Equity Fund,Focused Fund,50000,2023-12-16,57000,14.00,Medium,456.00,109.65,1.28,8.5
+258,Stock,Zomato,Mid Cap,35000,2024-01-21,42000,20.00,High,150.00,233.33,0,5.95
+259,Mutual Fund,Samco Active Equity Fund,Focused Fund,45000,2024-02-26,51750,15.00,Medium,80.50,559.01,1.75,7.65
+260,Stock,Nykaa,Mid Cap,30000,2024-03-03,35700,19.00,High,130.90,229.95,0,5.10
+261,Mutual Fund,WhiteOak Capital Midcap Fund,Mid Cap,48000,2024-04-08,56640,18.00,High,62.70,765.14,1.48,8.16
+262,Stock,Paytm,Mid Cap,25000,2024-05-13,27500,10.00,High,396.00,63.13,0,4.25
+263,Mutual Fund,ITI Midcap Fund,Mid Cap,42000,2024-06-18,49560,18.00,High,47.20,890.68,1.52,7.14
+264,Stock,Dreamfolks Services,Small Cap,20000,2024-07-23,23600,18.00,High,295.00,80.00,0,3.40
+265,Mutual Fund,Helios Midcap Fund,Mid Cap,50000,2024-08-28,59000,18.00,High,78.67,635.42,1.42,8.5
+266,Stock,Nuvo,Small Cap,18000,2024-09-02,21060,17.00,High,234.00,76.92,0,3.06
+267,Mutual Fund,Motilal Oswal Midcap Fund,Mid Cap,46000,2024-10-07,54280,18.00,High,60.69,755.66,1.50,7.82
+268,Stock,Tata Elxsi,Mid Cap,38000,2024-11-12,43700,15.00,Medium,805.00,47.20,0,6.46
+269,Mutual Fund,HSBC Midcap Fund,Mid Cap,52000,2024-12-17,61360,18.00,High,103.25,503.85,1.38,8.84
+270,Stock,Persistent Systems,Mid Cap,42000,2025-01-22,48720,16.00,Medium,698.67,60.12,0,7.14
+271,Mutual Fund,Nippon India Growth Fund,Mid Cap,48000,2025-02-27,55320,15.30,Medium,87.56,547.85,1.25,8.16
+272,Stock,L&T Technology Services,Mid Cap,36000,2025-03-04,41400,15.00,Medium,427.14,84.29,0,6.12
+273,Mutual Fund,ICICI Prudential Midcap Fund,Mid Cap,55000,2025-04-09,64150,17.00,High,75.21,730.57,1.32,9.35
+274,Stock,Happiest Minds,Mid Cap,30000,2025-05-14,35100,17.00,Medium,780.00,38.46,0,5.10
+275,Mutual Fund,Kotak Emerging Equity Fund,Mid Cap,50000,2025-06-19,58500,17.00,High,78.00,641.03,1.40,8.5
+276,Stock,Mphasis,Mid Cap,40000,2025-07-24,46000,15.00,Medium,2300.00,17.39,0,6.8
+277,Mutual Fund,Axis Midcap Fund,Mid Cap,58000,2025-08-29,67860,17.00,High,112.32,516.54,1.25,9.86
+278,Stock,Coforge,Mid Cap,45000,2025-09-03,51750,15.00,Medium,1610.00,27.95,0,7.65
+279,Mutual Fund,HDFC Mid-Cap Opportunities,Mid Cap,62000,2025-10-08,72540,17.00,High,169.00,367.16,1.30,10.54
+280,Stock,LTIMindtree,Mid Cap,55000,2025-11-13,63250,15.00,Medium,5175.00,10.63,0,9.35
+281,Mutual Fund,PGIM India Midcap Fund,Mid Cap,48000,2025-12-18,56160,17.00,High,111.15,432.03,1.48,8.16
+282,Stock,Tata Technologies,Mid Cap,38000,2026-01-23,43700,15.00,Medium,805.00,47.20,0,6.46
+283,Mutual Fund,Mirae Asset Midcap Fund,Mid Cap,52000,2026-02-28,60580,16.50,High,91.75,566.67,1.35,8.84
+284,Stock,Sensex ETF,ETF,120000,2026-03-05,138000,15.00,Low,575.00,240.00,0.15,20.4
+285,Mutual Fund,Nifty 50 ETF,ETF,100000,2023-03-06,114000,14.00,Low,228.00,438.60,0.10,17.0
+286,Stock,Bank Nifty ETF,ETF,95000,2023-04-11,109250,15.00,Medium,1725.00,55.07,0.20,16.15
+287,Mutual Fund,Gold ETF,ETF,70000,2023-05-16,78400,12.00,Low,280.00,280.00,0.25,11.9
+288,Stock,IT Index ETF,ETF,80000,2023-06-21,91200,14.00,Medium,228.00,400.00,0.15,13.6
+289,Mutual Fund,PSU Bank ETF,ETF,60000,2023-07-26,67200,12.00,Medium,89.60,750.00,0.18,10.2
+290,Stock,Infra ETF,ETF,75000,2023-08-31,86250,15.00,Medium,211.67,404.17,0.16,12.75
+291,Mutual Fund,Consumption ETF,ETF,65000,2023-09-05,74100,14.00,Low,256.50,253.21,0.12,11.05
+292,Stock,Pharma ETF,ETF,55000,2023-10-10,62700,14.00,Medium,133.00,471.43,0.15,9.35
+293,Mutual Fund,Auto ETF,ETF,60000,2023-11-15,68400,14.00,Medium,114.00,600.00,0.17,10.2
+294,Stock,Midcap ETF,ETF,70000,2023-12-20,80500,15.00,Medium,287.50,292.17,0.18,11.9
+295,Mutual Fund,Smallcap ETF,ETF,50000,2024-01-25,57500,15.00,High,172.50,333.33,0.22,8.5
+296,Stock,Value ETF,ETF,65000,2024-02-29,74100,14.00,Medium,171.00,433.33,0.16,11.05
+297,Mutual Fund,Dividend Yield ETF,ETF,60000,2024-03-05,67800,13.00,Low,151.33,396.43,0.14,10.2
+298,Stock,Quality ETF,ETF,75000,2024-04-10,85500,14.00,Low,209.00,409.09,0.13,12.75
+299,Mutual Fund,Low Volatility ETF,ETF,68000,2024-05-15,76160,12.00,Low,179.20,450.00,0.12,11.56
+300,Stock,Momentum ETF,ETF,62000,2024-06-20,71300,15.00,High,161.00,442.86,0.20,10.54
+301,Mutual Fund,Debt Fund - Dynamic Bond,Debt,120000,2023-03-07,128400,7.00,Low,21.40,6000.00,0.50,20.4
+302,Mutual Fund,Debt Fund - Corporate Bond,Debt,100000,2023-04-12,106000,6.00,Low,21.20,5000.00,0.45,17.0
+303,Mutual Fund,Debt Fund - Government Securities,Debt,95000,2023-05-17,100700,6.00,Low,26.50,3800.00,0.35,16.15
+304,Mutual Fund,Debt Fund - Short Duration,Debt,80000,2023-06-22,84000,5.00,Low,10.50,8000.00,0.40,13.6
+305,Mutual Fund,Debt Fund - Money Market,Debt,70000,2023-07-27,73500,5.00,Low,10.50,7000.00,0.30,11.9
+306,Mutual Fund,Debt Fund - Liquid Fund,Debt,180000,2023-08-01,187200,4.00,Low,10.40,18000.00,0.20,30.6
+307,Mutual Fund,Debt Fund - Ultra Short Duration,Debt,90000,2023-09-06,94500,5.00,Low,14.70,6428.57,0.35,15.3
+308,Mutual Fund,Debt Fund - Credit Risk,Debt,75000,2023-10-11,80250,7.00,Medium,11.77,6814.00,0.85,12.75
+309,Mutual Fund,Debt Fund - Banking & PSU,Debt,85000,2023-11-16,89250,5.00,Low,13.65,6813.18,0.40,14.45
+310,Mutual Fund,Debt Fund - Gilt Fund,Debt,65000,2023-12-21,68250,5.00,Low,15.75,4333.33,0.30,11.05
+311,Mutual Fund,Hybrid Fund - Equity Savings,Hybrid,80000,2024-01-26,88800,11.00,Low,11.10,8000.00,0.80,13.6
+312,Mutual Fund,Hybrid Fund - Conservative Hybrid,Hybrid,90000,2024-02-01,97200,8.00,Low,12.60,7714.29,0.75,15.3
+313,Mutual Fund,Hybrid Fund - Balanced Hybrid,Hybrid,100000,2024-03-06,112000,12.00,Medium,14.93,7400.60,1.10,17.0
+314,Mutual Fund,Hybrid Fund - Aggressive Hybrid,Hybrid,110000,2024-04-11,125400,14.00,Medium,17.10,7332.16,1.15,18.7
+315,Mutual Fund,Hybrid Fund - Dynamic Asset Allocation,Hybrid,85000,2024-05-16,93500,10.00,Low,14.30,6573.43,0.90,14.45
+316,Mutual Fund,Hybrid Fund - Multi Asset Allocation,Hybrid,75000,2024-06-21,82500,10.00,Low,12.10,6818.18,0.95,12.75
+317,Mutual Fund,HDFC Children's Gift Fund,Children's Fund,70000,2024-07-26,80500,15.00,Medium,191.67,425.22,1.20,11.9
+318,Mutual Fund,ICICI Prudential Child Care Fund,Children's Fund,65000,2024-08-31,74750,15.00,Medium,172.50,433.33,1.18,11.05
+319,Mutual Fund,SBI Children's Future Fund,Children's Fund,75000,2024-09-05,86250,15.00,Medium,211.67,409.09,1.15,12.75
+320,Mutual Fund,Axis Children's Gift Fund,Children's Fund,80000,2024-10-10,92000,15.00,Medium,230.00,400.00,1.22,13.6
+321,Mutual Fund,Kotak Assured Income,Retirement Fund,120000,2024-11-15,129600,8.00,Low,10.80,12000.00,0.80,20.4
+322,Mutual Fund,HDFC Retirement Savings Fund,Retirement Fund,140000,2024-12-20,152600,9.00,Low,13.08,14000.00,0.85,23.8
+323,Mutual Fund,ICICI Prudential Retirement Fund,Retirement Fund,100000,2025-01-25,109000,9.00,Low,10.90,10000.00,0.82,17.0
+324,Mutual Fund,SBI Retirement Fund,Retirement Fund,110000,2025-02-28,119900,9.00,Low,10.90,11000.00,0.80,18.7
+325,Mutual Fund,Axis Retirement Fund,Retirement Fund,90000,2025-03-05,98100,9.00,Low,10.90,9000.00,0.78,15.3
+326,Mutual Fund,Tata Digital India Fund,Sectoral - Technology,70000,2025-04-10,80500,15.00,High,48.90,1431.49,1.80,11.9
+327,Mutual Fund,SBI Technology Opportunities Fund,Sectoral - Technology,65000,2025-05-15,75400,16.00,High,52.20,1444.44,1.75,11.05
+328,Mutual Fund,ICICI Prudential Technology Fund,Sectoral - Technology,75000,2025-06-20,87000,16.00,High,53.19,1635.45,1.78,12.75
+329,Mutual Fund,Kotak Technology Fund,Sectoral - Technology,60000,2025-07-25,69000,15.00,High,46.00,1500.00,1.72,10.2
+330,Mutual Fund,UTI Nifty 50 Value 20 Index Fund,Index Fund,85000,2025-08-30,97750,15.00,Low,14.95,6581.94,0.50,14.45
+331,Mutual Fund,Bandhan Nifty 50 Index Fund,Index Fund,80000,2025-09-04,91200,14.00,Low,13.68,5847.95,0.48,13.6
+332,Mutual Fund,Motilal Oswal Nifty 50 Index Fund,Index Fund,90000,2025-10-09,102600,14.00,Low,15.96,5847.95,0.52,15.3
+333,Mutual Fund,Axis Nifty 50 Index Fund,Index Fund,75000,2025-11-14,85500,14.00,Low,12.54,6818.18,0.45,12.75
+334,Mutual Fund,ICICI Prudential Nifty 50 Index Fund,Index Fund,100000,2025-12-19,114000,14.00,Low,18.24,6250.00,0.50,17.0
+335,Mutual Fund,Nippon India Nifty 50 Index Fund,Index Fund,95000,2026-01-24,108300,14.00,Low,17.10,6333.33,0.48,16.15
+336,Mutual Fund,Quant Absolute Return Fund,Hybrid,70000,2026-02-28,80500,15.00,Medium,57.50,1400.00,1.50,11.9
+337,Mutual Fund,Kotak Equity Hybrid Fund,Hybrid,80000,2023-03-08,91200,14.00,Medium,13.68,6666.67,1.12,13.6
+338,Mutual Fund,HDFC Balanced Advantage Fund,Hybrid,90000,2023-04-13,101700,13.00,Low,15.82,6687.73,0.95,15.3
+339,Mutual Fund,ICICI Prudential Balanced Advantage,Hybrid,100000,2023-05-18,113000,13.00,Low,18.08,6666.67,0.92,17.0
+340,Mutual Fund,SBI Balanced Fund,Hybrid,85000,2023-06-23,95200,12.00,Medium,14.56,6666.67,1.15,14.45
+341,Mutual Fund,Axis Balanced Fund,Hybrid,75000,2023-07-28,83250,11.00,Medium,12.21,6666.67,1.10,12.75
+342,Mutual Fund,PGIM India Balanced Advantage,Hybrid,80000,2023-08-02,89600,12.00,Low,13.44,6666.67,0.98,13.6
+343,Mutual Fund,Tata Balanced Fund,Hybrid,70000,2023-09-07,78400,12.00,Medium,11.20,6666.67,1.08,11.9
+344,Mutual Fund,UTI Balanced Fund,Hybrid,65000,2023-10-12,71500,10.00,Medium,9.90,6666.67,1.05,11.05
+345,Mutual Fund,Aditya Birla Sun Life Balanced 95,Hybrid,75000,2023-11-17,82500,10.00,Medium,12.10,6666.67,1.02,12.75
+346,Mutual Fund,Franklin India Balanced Fund,Hybrid,60000,2023-12-22,64800,8.00,Low,8.64,6666.67,0.95,10.2
+347,Mutual Fund,L&T Balanced Fund,Hybrid,68000,2024-01-27,74120,9.00,Medium,10.46,6666.67,1.00,11.56
+348,Mutual Fund,IDFC Balanced Advantage Fund,Hybrid,72000,2024-02-01,78480,9.00,Low,11.34,6666.67,0.88,12.24
+349,Mutual Fund,HSBC Balanced Fund,Hybrid,78000,2024-03-06,85800,10.00,Medium,12.76,6666.67,1.05,13.24
+350,Mutual Fund,Invesco India Balanced Fund,Hybrid,73000,2024-04-11,78990,8.00,Low,11.45,6666.67,0.92,12.40
+351,Mutual Fund,Parag Parikh Dynamic Asset Allocation,Hybrid,80000,2024-05-16,88000,10.00,Low,13.20,6666.67,0.90,13.6
+352,Mutual Fund,WhiteOak Capital Hybrid Fund,Hybrid,65000,2024-06-21,71500,10.00,Medium,9.90,6666.67,1.15,11.05
+353,Mutual Fund,Samco Hybrid Fund,Hybrid,60000,2024-07-26,66000,10.00,Medium,8.80,6666.67,1.20,10.2
+354,Mutual Fund,ITI Hybrid Fund,Hybrid,75000,2024-08-31,81750,9.00,Medium,11.99,6666.67,1.10,12.75
+355,Mutual Fund,Helios Hybrid Fund,Hybrid,70000,2024-09-05,75600,8.00,Low,10.80,6666.67,0.95,11.9
+356,Mutual Fund,Bajaj Finserv Flexi Cap Fund,Flexi Cap,85000,2024-10-10,97750,15.00,Medium,149.50,654.17,1.25,14.45
+357,Mutual Fund,UTI Flexi Cap Fund,Flexi Cap,80000,2024-11-15,92000,15.00,Medium,138.00,666.67,1.20,13.6
+358,Mutual Fund,Motilal Oswal Flexi Cap Fund,Flexi Cap,75000,2024-12-20,86250,15.00,Medium,126.50,666.67,1.22,12.75
+359,Mutual Fund,ICICI Prudential Flexi Cap Fund,Flexi Cap,90000,2025-01-25,103500,15.00,Medium,161.00,666.67,1.18,15.3
+360,Mutual Fund,SBI Flexi Cap Fund,Flexi Cap,95000,2025-02-28,109250,15.00,Medium,172.50,666.67,1.15,16.15
+361,Mutual Fund,HDFC Flexi Cap Fund,Flexi Cap,100000,2025-03-05,115000,15.00,Medium,184.00,666.67,1.20,17.0
+362,Mutual Fund,Axis Flexi Cap Fund,Flexi Cap,85000,2025-04-10,97750,15.00,Medium,149.50,666.67,1.18,14.45
+363,Mutual Fund,Kotak Flexi Cap Fund,Flexi Cap,80000,2025-05-15,92000,15.00,Medium,138.00,666.67,1.15,13.6
+364,Mutual Fund,Nippon India Flexi Cap Fund,Flexi Cap,75000,2025-06-20,86250,15.00,Medium,126.50,666.67,1.22,12.75
+365,Mutual Fund,Tata Flexi Cap Fund,Flexi Cap,70000,2025-07-25,80500,15.00,Medium,115.00,666.67,1.20,11.9
+366,Mutual Fund,Bandhan Flexi Cap Fund,Flexi Cap,65000,2025-08-30,74750,15.00,Medium,103.50,666.67,1.25,11.05
+367,Mutual Fund,PGIM India Flexi Cap Fund,Flexi Cap,90000,2025-09-04,103500,15.00,Medium,161.00,666.67,1.18,15.3
+368,Mutual Fund,Invesco India Flexi Cap Fund,Flexi Cap,85000,2025-10-09,97750,15.00,Medium,149.50,666.67,1.20,14.45
+369,Mutual Fund,Edelweiss Flexi Cap Fund,Flexi Cap,80000,2025-11-14,92000,15.00,Medium,138.00,666.67,1.22,13.6
+370,Mutual Fund,HSBC Flexi Cap Fund,Flexi Cap,75000,2025-12-19,86250,15.00,Medium,126.50,666.67,1.15,12.75
+371,Mutual Fund,Union Flexi Cap Fund,Flexi Cap,70000,2026-01-24,80500,15.00,Medium,115.00,666.67,1.18,11.9
+372,Mutual Fund,Quant Flexi Cap Fund,Flexi Cap,68000,2026-02-28,78200,15.00,High,110.40,666.67,1.80,11.56
+373,Mutual Fund,Mirae Asset Large & Midcap Fund,Multicap,90000,2023-03-09,104400,16.00,Medium,162.40,642.86,1.15,15.3
+374,Mutual Fund,ICICI Prudential Multicap Fund,Multicap,85000,2023-04-14,98600,16.00,Medium,150.80,642.86,1.12,14.45
+375,Mutual Fund,SBI Multicap Fund,Multicap,80000,2023-05-19,92800,16.00,Medium,139.20,642.86,1.10,13.6
+376,Mutual Fund,HDFC Multicap Fund,Multicap,95000,2023-06-24,110200,16.00,Medium,174.00,642.86,1.18,16.15
+377,Mutual Fund,Axis Multicap Fund,Multicap,75000,2023-07-29,87000,16.00,Medium,127.60,642.86,1.15,12.75
+378,Mutual Fund,Kotak Multicap Fund,Multicap,70000,2023-08-03,81200,16.00,Medium,116.00,642.86,1.12,11.9
+379,Mutual Fund,Nippon India Multicap Fund,Multicap,78000,2023-09-08,90480,16.00,Medium,134.56,642.86,1.20,13.24
+380,Mutual Fund,Tata Multicap Fund,Multicap,68000,2023-10-13,78880,16.00,Medium,111.36,642.86,1.15,11.56
+381,Mutual Fund,Bandhan Multicap Fund,Multicap,72000,2023-11-18,83520,16.00,Medium,120.64,642.86,1.18,12.24
+382,Mutual Fund,PGIM India Multicap Fund,Multicap,80000,2023-12-23,92800,16.00,Medium,139.20,642.86,1.15,13.6
+383,Mutual Fund,Invesco India Multicap Fund,Multicap,75000,2024-01-28,87000,16.00,Medium,127.60,642.86,1.20,12.75
+384,Mutual Fund,Edelweiss Multicap Fund,Multicap,65000,2024-02-02,75400,16.00,Medium,104.40,642.86,1.18,11.05
+385,Mutual Fund,HSBC Multicap Fund,Multicap,70000,2024-03-07,81200,16.00,Medium,116.00,642.86,1.15,11.9
+386,Mutual Fund,Union Multicap Fund,Multicap,73000,2024-04-12,84680,16.00,Medium,122.96,642.86,1.22,12.40
+387,Mutual Fund,Quant Multicap Fund,Multicap,78000,2024-05-17,90480,16.00,High,134.56,642.86,1.85,13.24
+388,Mutual Fund,WhiteOak Capital Multicap Fund,Multicap,80000,2024-06-22,92800,16.00,Medium,139.20,642.86,1.35,13.6
+389,Mutual Fund,Samco Multicap Fund,Multicap,75000,2024-07-27,87000,16.00,Medium,127.60,642.86,1.40,12.75
+390,Mutual Fund,ITI Multicap Fund,Multicap,68000,2024-08-01,78880,16.00,Medium,111.36,642.86,1.30,11.56
+391,Mutual Fund,Helios Multicap Fund,Multicap,72000,2024-09-06,83520,16.00,Medium,120.64,642.86,1.38,12.24
+392,Mutual Fund,Bajaj Finserv Multicap Fund,Multicap,77000,2024-10-11,89320,16.00,Medium,132.24,642.86,1.25,13.08
+393,Mutual Fund,Motilal Oswal Multicap Fund,Multicap,80000,2024-11-16,92800,16.00,Medium,139.20,642.86,1.28,13.6
+394,Mutual Fund,L&T Multicap Fund,Multicap,75000,2024-12-21,87000,16.00,Medium,127.60,642.86,1.22,12.75
+395,Mutual Fund,IDFC Multicap Fund,Multicap,70000,2025-01-26,81200,16.00,Medium,116.00,642.86,1.18,11.9
+396,Mutual Fund,Aditya Birla Sun Life Multicap Fund,Multicap,68000,2025-02-28,78880,16.00,Medium,111.36,642.86,1.15,11.56
+397,Mutual Fund,Franklin India Multicap Fund,Multicap,72000,2025-03-05,83520,16.00,Medium,120.64,642.86,1.10,12.24
+398,Mutual Fund,UTI Multicap Fund,Multicap,78000,2025-04-10,90480,16.00,Medium,134.56,642.86,1.20,13.24
+399,Mutual Fund,Baroda BNP Paribas Multicap Fund,Multicap,75000,2025-05-15,87000,16.00,Medium,127.60,642.86,1.15,12.75
+400,Mutual Fund,Bank of India Multicap Fund,Multicap,70000,2025-06-20,81200,16.00,Medium,116.00,642.86,1.18,11.9
+401,Mutual Fund,HDFC Top 100 Fund,Large Cap,70000,2023-03-10,82250,17.50,High,1850.25,37.83,1.05,11.9
+402,Mutual Fund,ICICI Prudential Bluechip Fund,Large Cap,65000,2023-04-15,74750,15.00,Medium,1245.50,52.20,1.02,11.05
+403,Stock,Reliance Industries,Blue Chip,140000,2023-05-20,165200,18.00,Medium,2580.75,54.26,0,23.8
+404,Mutual Fund,SBI Small Cap Fund,Small Cap,40000,2023-06-25,46800,17.00,High,56.80,824.56,1.75,6.8
+405,Stock,TCS,Blue Chip,100000,2023-07-30,113000,13.00,Low,3620.00,27.62,0,17.0
+406,Mutual Fund,Axis Midcap Fund,Mid Cap,55000,2023-08-04,64900,18.00,High,125.40,438.59,1.25,9.35
+407,Stock,HDFC Bank,Blue Chip,85000,2023-09-09,96050,13.00,Low,1580.50,53.79,0,14.45
+408,Mutual Fund,Mirae Asset Large Cap Fund,Large Cap,75000,2023-10-14,84000,12.00,Medium,980.20,76.51,1.03,12.75
+409,Stock,Infosys,Blue Chip,60000,2023-11-19,67800,13.00,Medium,1475.25,40.67,0,10.2
+410,Mutual Fund,Kotak Emerging Equity Fund,Mid Cap,45000,2023-12-24,53100,18.00,High,82.15,547.77,1.45,7.65
+411,Mutual Fund,UTI Nifty 50 Index Fund,Index Fund,80000,2024-01-29,91200,14.00,Low,210.50,380.05,0.50,13.6
+412,Stock,Bharti Airtel,Blue Chip,70000,2024-02-03,78400,12.00,Medium,1120.00,70.00,0,11.9
+413,Mutual Fund,Parag Parikh Flexi Cap Fund,Flexi Cap,90000,2024-03-08,102600,14.00,Medium,532.50,192.61,1.10,15.3
+414,Stock,ITC,Blue Chip,65000,2024-04-13,73450,13.00,Low,450.25,163.04,0,11.05
+415,Mutual Fund,Tata Digital India Fund,Sectoral,60000,2024-05-18,67200,12.00,High,48.90,1226.99,1.80,10.2
+416,Stock,HCL Tech,Blue Chip,75000,2024-06-23,85500,14.00,Medium,1254.00,59.81,0,12.75
+417,Mutual Fund,PGIM India Midcap Opportunities,Mid Cap,50000,2024-07-28,59000,18.00,High,68.20,733.14,1.50,8.5
+418,Stock,Larsen & Toubro,Blue Chip,105000,2024-08-02,120750,15.00,Medium,3210.50,32.68,0,17.85
+419,Mutual Fund,Bandhan Small Cap Fund,Small Cap,35000,2024-09-07,41300,18.00,High,42.80,964.49,1.95,5.95
+420,Stock,Maruti Suzuki,Blue Chip,80000,2024-10-12,92000,15.00,Medium,10350.00,8.90,0,13.6
+421,Mutual Fund,Nippon India Small Cap Fund,Small Cap,42000,2024-11-17,49140,17.00,High,52.15,810.74,1.85,7.14
+422,Stock,Wipro,Blue Chip,40000,2024-12-22,44800,12.00,Medium,448.00,89.29,0,6.8
+423,Mutual Fund,SBI Magnum Multicap Fund,Multicap,60000,2025-01-27,69600,16.00,Medium,185.60,387.50,1.15,10.2
+424,Stock,Axis Bank,Blue Chip,55000,2025-02-01,63250,15.00,Medium,1070.00,51.40,0,9.35
+425,Mutual Fund,Franklin India Prima Fund,Mid Cap,50000,2025-03-06,58500,17.00,High,72.80,686.81,1.30,8.5
+426,Stock,Mahindra & Mahindra,Blue Chip,75000,2025-04-11,86250,15.00,Medium,1765.00,42.21,0,12.75
+427,Mutual Fund,Aditya Birla Sun Life Frontline Equity,Large Cap,85000,2025-05-16,96050,13.00,Medium,587.80,144.51,1.00,14.45
+428,Stock,Sun Pharma,Blue Chip,90000,2025-06-21,104400,16.00,Medium,1624.00,55.42,0,15.3
+429,Mutual Fund,IDFC Core Equity Fund,Large Cap,72000,2025-07-26,82080,14.00,Medium,118.56,692.59,1.08,12.24
+430,Stock,Bajaj Finance,Blue Chip,65000,2025-08-31,75400,16.00,High,7830.00,9.63,0,11.05
+431,Mutual Fund,Tata Equity P/E Fund,Value Fund,56000,2025-09-05,63840,14.00,Medium,152.00,368.42,1.12,9.52
+432,Stock,Asian Paints,Blue Chip,52000,2025-10-10,57720,11.00,Low,2812.00,18.48,0,8.84
+433,Mutual Fund,Quant Small Cap Fund,Small Cap,42000,2025-11-15,48720,17.00,High,38.20,1275.39,2.10,7.14
+434,Stock,Nestle India,Blue Chip,70000,2025-12-20,76300,9.00,Low,27250.00,2.57,0,11.9
+435,Mutual Fund,Canara Robeco Equity Diversified,Multicap,61000,2026-01-25,70760,16.00,Medium,83.20,756.73,1.18,10.37
+436,Stock,Hindustan Unilever,Blue Chip,80000,2026-02-28,85600,7.00,Low,2414.00,33.14,0,13.6
+437,Mutual Fund,Union Small Cap Fund,Small Cap,45000,2026-03-05,52650,17.00,High,45.20,1164.82,1.90,7.65
+438,Stock,Dr Reddy's Labs,Blue Chip,55000,2026-04-10,62150,13.00,Medium,5521.00,9.96,0,9.35
+439,Mutual Fund,Sundaram Midcap Fund,Mid Cap,66000,2026-05-15,76560,16.00,High,76.80,996.88,1.35,11.22
+440,Stock,Titan Company,Blue Chip,60000,2026-06-20,68400,14.00,Medium,3192.00,18.80,0,10.2
+441,Mutual Fund,Invesco India Growth Fund,Mid Cap,54000,2026-07-25,62640,16.00,Medium,112.00,559.29,1.22,9.18
+442,Stock,Bajaj Auto,Blue Chip,68000,2026-08-30,76160,12.00,Low,7463.00,9.12,0,11.56
+443,Mutual Fund,Edelweiss Large Cap Fund,Large Cap,78000,2026-09-04,87840,12.60,Medium,326.60,238.88,1.06,13.24
+444,Stock,Divi's Labs,Blue Chip,72000,2026-10-09,81360,13.00,Medium,4896.67,14.71,0,12.24
+445,Mutual Fund,PPFAS Flexi Cap Fund,Flexi Cap,82000,2026-11-14,93480,14.00,Medium,706.80,116.02,1.15,13.92
+446,Stock,ICICI Bank,Blue Chip,75000,2026-12-19,84750,13.00,Low,1243.00,60.34,0,12.75
+447,Mutual Fund,HSBC Large Cap Fund,Large Cap,68000,2023-03-11,76840,13.00,Medium,271.20,250.59,1.04,11.56
+448,Stock,State Bank of India,Blue Chip,80000,2023-04-16,92000,15.00,Medium,690.00,115.94,0,13.6
+449,Mutual Fund,Kotak Bluechip Fund,Large Cap,73000,2023-05-21,83210,14.20,Medium,242.36,301.34,1.01,12.40
+450,Stock,Godrej Consumer Products,Blue Chip,58000,2023-06-26,65540,12.90,Low,1148.50,50.46,0,9.86
+451,Mutual Fund,Bank of India Large Cap Fund,Large Cap,65000,2023-07-31,74100,14.00,Medium,342.00,190.06,1.07,11.05
+452,Stock,Britannia Industries,Blue Chip,62000,2023-08-05,71300,15.00,Low,4830.00,12.84,0,10.54
+453,Mutual Fund,L&T Emerging Businesses Fund,Mid Cap,56000,2023-09-10,66080,18.00,High,64.80,1022.22,1.55,9.52
+454,Stock,Grasim Industries,Blue Chip,70000,2023-10-15,80500,15.00,Medium,1916.67,36.52,0,11.9
+455,Mutual Fund,Baroda BNP Paribas Large Cap Fund,Large Cap,72000,2023-11-20,81840,13.20,Medium,294.40,244.42,1.03,12.24
+456,Stock,UPL,Blue Chip,48000,2023-12-25,54720,14.00,Medium,398.00,120.60,0,8.16
+457,Mutual Fund,IIFL Focused Equity Fund,Focused Fund,60000,2024-01-30,68400,14.00,Medium,456.00,131.58,1.28,10.2
+458,Stock,Zomato,Mid Cap,45000,2024-02-04,54000,20.00,High,150.00,300.00,0,7.65
+459,Mutual Fund,Samco Active Equity Fund,Focused Fund,55000,2024-03-09,63250,15.00,Medium,80.50,683.23,1.75,9.35
+460,Stock,Nykaa,Mid Cap,40000,2024-04-14,47600,19.00,High,130.90,306.34,0,6.8
+461,Mutual Fund,WhiteOak Capital Midcap Fund,Mid Cap,58000,2024-05-19,68440,18.00,High,62.70,924.56,1.48,9.86
+462,Stock,Paytm,Mid Cap,35000,2024-06-24,38500,10.00,High,396.00,88.38,0,5.95
+463,Mutual Fund,ITI Midcap Fund,Mid Cap,52000,2024-07-29,61360,18.00,High,47.20,1103.39,1.52,8.84
+464,Stock,Dreamfolks Services,Small Cap,30000,2024-08-03,35400,18.00,High,295.00,120.00,0,5.10
+465,Mutual Fund,Helios Midcap Fund,Mid Cap,60000,2024-09-08,70800,18.00,High,78.67,762.50,1.42,10.2
+466,Stock,Nuvo,Small Cap,28000,2024-10-13,32760,17.00,High,234.00,119.66,0,4.76
+467,Mutual Fund,Motilal Oswal Midcap Fund,Mid Cap,56000,2024-11-18,66080,18.00,High,60.69,923.13,1.50,9.52
+468,Stock,Tata Elxsi,Mid Cap,48000,2024-12-23,55200,15.00,Medium,805.00,59.63,0,8.16
+469,Mutual Fund,HSBC Midcap Fund,Mid Cap,62000,2025-01-28,73160,18.00,High,103.25,600.48,1.38,10.54
+470,Stock,Persistent Systems,Mid Cap,52000,2025-02-02,60320,16.00,Medium,698.67,74.45,0,8.84
+471,Mutual Fund,Nippon India Growth Fund,Mid Cap,58000,2025-03-07,66940,15.30,Medium,87.56,661.99,1.25,9.86
+472,Stock,L&T Technology Services,Mid Cap,46000,2025-04-12,52900,15.00,Medium,427.14,107.71,0,7.82
+473,Mutual Fund,ICICI Prudential Midcap Fund,Mid Cap,65000,2025-05-17,75650,17.00,High,75.21,864.13,1.32,11.05
+474,Stock,Happiest Minds,Mid Cap,40000,2025-06-22,46800,17.00,Medium,780.00,51.28,0,6.8
+475,Mutual Fund,Kotak Emerging Equity Fund,Mid Cap,60000,2025-07-27,70200,17.00,High,78.00,769.23,1.40,10.2
+476,Stock,Mphasis,Mid Cap,50000,2025-08-01,57500,15.00,Medium,2300.00,21.74,0,8.5
+477,Mutual Fund,Axis Midcap Fund,Mid Cap,68000,2025-09-06,79560,17.00,High,112.32,605.36,1.25,11.56
+478,Stock,Coforge,Mid Cap,55000,2025-10-11,63250,15.00,Medium,1610.00,34.16,0,9.35
+479,Mutual Fund,HDFC Mid-Cap Opportunities,Mid Cap,72000,2025-11-16,84240,17.00,High,169.00,426.27,1.30,12.24
+480,Stock,LTIMindtree,Mid Cap,65000,2025-12-21,74750,15.00,Medium,5175.00,12.56,0,11.05
+481,Mutual Fund,PGIM India Midcap Fund,Mid Cap,58000,2026-01-26,67860,17.00,High,111.15,522.03,1.48,9.86
+482,Stock,Tata Technologies,Mid Cap,48000,2026-02-28,55200,15.00,Medium,805.00,59.63,0,8.16
+483,Mutual Fund,Mirae Asset Midcap Fund,Mid Cap,62000,2026-03-05,72300,16.50,High,91.75,675.75,1.35,10.54
+484,Stock,Sensex ETF,ETF,140000,2026-04-10,161000,15.00,Low,575.00,280.00,0.15,23.8
+485,Mutual Fund,Nifty 50 ETF,ETF,120000,2023-03-12,136800,14.00,Low,228.00,526.32,0.10,20.4
+486,Stock,Bank Nifty ETF,ETF,115000,2023-04-17,132250,15.00,Medium,1725.00,66.67,0.20,19.55
+487,Mutual Fund,Gold ETF,ETF,90000,2023-05-22,100800,12.00,Low,280.00,360.00,0.25,15.3
+488,Stock,IT Index ETF,ETF,100000,2023-06-27,114000,14.00,Medium,228.00,500.00,0.15,17.0
+489,Mutual Fund,PSU Bank ETF,ETF,80000,2023-07-02,89600,12.00,Medium,89.60,1000.00,0.18,13.6
+490,Stock,Infra ETF,ETF,95000,2023-08-07,109250,15.00,Medium,211.67,511.90,0.16,16.15
+491,Mutual Fund,Consumption ETF,ETF,85000,2023-09-12,96900,14.00,Low,256.50,331.17,0.12,14.45
+492,Stock,Pharma ETF,ETF,75000,2023-10-17,85500,14.00,Medium,133.00,642.86,0.15,12.75
+493,Mutual Fund,Auto ETF,ETF,80000,2023-11-22,91200,14.00,Medium,114.00,800.00,0.17,13.6
+494,Stock,Midcap ETF,ETF,90000,2023-12-27,103500,15.00,Medium,287.50,375.43,0.18,15.3
+495,Mutual Fund,Smallcap ETF,ETF,70000,2024-01-01,80500,15.00,High,172.50,466.67,0.22,11.9
+496,Stock,Value ETF,ETF,85000,2024-02-06,96900,14.00,Medium,171.00,566.67,0.16,14.45
+497,Mutual Fund,Dividend Yield ETF,ETF,80000,2024-03-11,90400,13.00,Low,151.33,528.57,0.14,13.6
+498,Stock,Quality ETF,ETF,95000,2024-04-16,108300,14.00,Low,209.00,518.18,0.13,16.15
+499,Mutual Fund,Low Volatility ETF,ETF,88000,2024-05-21,98560,12.00,Low,179.20,583.33,0.12,14.92
+500,Stock,Momentum ETF,ETF,82000,2024-06-26,94300,15.00,High,161.00,585.71,0.20,13.92
+501,Mutual Fund,Debt Fund - Dynamic Bond,Debt,140000,2023-03-13,149800,7.00,Low,21.40,7000.00,0.50,23.8
+502,Mutual Fund,Debt Fund - Corporate Bond,Debt,120000,2023-04-18,127200,6.00,Low,21.20,6000.00,0.45,20.4
+503,Mutual Fund,Debt Fund - Government Securities,Debt,115000,2023-05-23,121900,6.00,Low,26.50,4600.00,0.35,19.55
+504,Mutual Fund,Debt Fund - Short Duration,Debt,100000,2023-06-28,105000,5.00,Low,10.50,10000.00,0.40,17.0
+505,Mutual Fund,Debt Fund - Money Market,Debt,90000,2023-07-03,94500,5.00,Low,10.50,9000.00,0.30,15.3
+506,Mutual Fund,Debt Fund - Liquid Fund,Debt,200000,2023-08-08,208000,4.00,Low,10.40,20000.00,0.20,34.0
+507,Mutual Fund,Debt Fund - Ultra Short Duration,Debt,110000,2023-09-13,115500,5.00,Low,14.70,7857.14,0.35,18.7
+508,Mutual Fund,Debt Fund - Credit Risk,Debt,95000,2023-10-18,101650,7.00,Medium,11.77,8630.00,0.85,16.15
+509,Mutual Fund,Debt Fund - Banking & PSU,Debt,105000,2023-11-23,110250,5.00,Low,13.65,8434.43,0.40,17.85
+510,Mutual Fund,Debt Fund - Gilt Fund,Debt,85000,2023-12-28,89250,5.00,Low,15.75,5460.33,0.30,14.45
+511,Mutual Fund,Hybrid Fund - Equity Savings,Hybrid,100000,2024-01-02,111000,11.00,Low,11.10,10000.00,0.80,17.0
+512,Mutual Fund,Hybrid Fund - Conservative Hybrid,Hybrid,110000,2024-02-07,118800,8.00,Low,12.60,9555.56,0.75,18.7
+513,Mutual Fund,Hybrid Fund - Balanced Hybrid,Hybrid,120000,2024-03-12,134400,12.00,Medium,14.93,8932.72,1.10,20.4
+514,Mutual Fund,Hybrid Fund - Aggressive Hybrid,Hybrid,130000,2024-04-17,148200,14.00,Medium,17.10,8664.33,1.15,22.1
+515,Mutual Fund,Hybrid Fund - Dynamic Asset Allocation,Hybrid,105000,2024-05-22,115500,10.00,Low,14.30,8146.85,0.90,17.85
+516,Mutual Fund,Hybrid Fund - Multi Asset Allocation,Hybrid,95000,2024-06-27,104500,10.00,Low,12.10,8636.36,0.95,16.15
+517,Mutual Fund,HDFC Children's Gift Fund,Children's Fund,90000,2024-07-02,103500,15.00,Medium,191.67,546.57,1.20,15.3
+518,Mutual Fund,ICICI Prudential Child Care Fund,Children's Fund,85000,2024-08-07,97750,15.00,Medium,172.50,566.67,1.18,14.45
+519,Mutual Fund,SBI Children's Future Fund,Children's Fund,95000,2024-09-12,109250,15.00,Medium,211.67,542.86,1.15,16.15
+520,Mutual Fund,Axis Children's Gift Fund,Children's Fund,100000,2024-10-17,115000,15.00,Medium,230.00,500.00,1.22,17.0
+521,Mutual Fund,Kotak Assured Income,Retirement Fund,140000,2024-11-22,151200,8.00,Low,10.80,14000.00,0.80,23.8
+522,Mutual Fund,HDFC Retirement Savings Fund,Retirement Fund,160000,2024-12-27,174400,9.00,Low,13.08,16000.00,0.85,27.2
+523,Mutual Fund,ICICI Prudential Retirement Fund,Retirement Fund,120000,2025-01-01,130800,9.00,Low,10.90,12000.00,0.82,20.4
+524,Mutual Fund,SBI Retirement Fund,Retirement Fund,130000,2025-02-06,141700,9.00,Low,10.90,13000.00,0.80,22.1
+525,Mutual Fund,Axis Retirement Fund,Retirement Fund,110000,2025-03-11,119900,9.00,Low,10.90,11000.00,0.78,18.7
+526,Mutual Fund,Tata Digital India Fund,Sectoral - Technology,90000,2025-04-16,103500,15.00,High,48.90,1840.49,1.80,15.3
+527,Mutual Fund,SBI Technology Opportunities Fund,Sectoral - Technology,85000,2025-05-21,98600,16.00,High,52.20,1888.89,1.75,14.45
+528,Mutual Fund,ICICI Prudential Technology Fund,Sectoral - Technology,95000,2025-06-26,110200,16.00,High,53.19,2070.91,1.78,16.15
+529,Mutual Fund,Kotak Technology Fund,Sectoral - Technology,80000,2025-07-01,92000,15.00,High,46.00,2000.00,1.72,13.6
+530,Mutual Fund,UTI Nifty 50 Value 20 Index Fund,Index Fund,105000,2025-08-06,120750,15.00,Low,14.95,8140.47,0.50,17.85
+531,Mutual Fund,Bandhan Nifty 50 Index Fund,Index Fund,100000,2025-09-11,114000,14.00,Low,13.68,7309.94,0.48,17.0
+532,Mutual Fund,Motilal Oswal Nifty 50 Index Fund,Index Fund,110000,2025-10-16,125400,14.00,Low,15.96,7309.94,0.52,18.7
+533,Mutual Fund,Axis Nifty 50 Index Fund,Index Fund,95000,2025-11-21,108300,14.00,Low,12.54,8636.36,0.45,16.15
+534,Mutual Fund,ICICI Prudential Nifty 50 Index Fund,Index Fund,120000,2025-12-26,136800,14.00,Low,18.24,7500.00,0.50,20.4
+535,Mutual Fund,Nippon India Nifty 50 Index Fund,Index Fund,115000,2026-01-31,131100,14.00,Low,17.10,7666.67,0.48,19.55
+536,Mutual Fund,Quant Absolute Return Fund,Hybrid,90000,2026-02-05,103500,15.00,Medium,57.50,1800.00,1.50,15.3
+537,Mutual Fund,Kotak Equity Hybrid Fund,Hybrid,100000,2023-03-14,114000,14.00,Medium,13.68,8333.33,1.12,17.0
+538,Mutual Fund,HDFC Balanced Advantage Fund,Hybrid,110000,2023-04-19,124300,13.00,Low,15.82,7807.83,0.95,18.7
+539,Mutual Fund,ICICI Prudential Balanced Advantage,Hybrid,120000,2023-05-24,135600,13.00,Low,18.08,8000.00,0.92,20.4
+540,Mutual Fund,SBI Balanced Fund,Hybrid,105000,2023-06-29,117600,12.00,Medium,14.56,8333.33,1.15,17.85
+541,Mutual Fund,Axis Balanced Fund,Hybrid,95000,2023-07-04,104500,11.00,Medium,12.21,8333.33,1.10,16.15
+542,Mutual Fund,PGIM India Balanced Advantage,Hybrid,100000,2023-08-09,112000,12.00,Low,13.44,8333.33,0.98,17.0
+543,Mutual Fund,Tata Balanced Fund,Hybrid,90000,2023-09-14,100800,12.00,Medium,11.20,8333.33,1.08,15.3
+544,Mutual Fund,UTI Balanced Fund,Hybrid,85000,2023-10-19,93500,10.00,Medium,9.90,8333.33,1.05,14.45
+545,Mutual Fund,Aditya Birla Sun Life Balanced 95,Hybrid,95000,2023-11-24,104500,10.00,Medium,12.10,8333.33,1.02,16.15
+546,Mutual Fund,Franklin India Balanced Fund,Hybrid,80000,2023-12-29,86400,8.00,Low,8.64,8333.33,0.95,13.6
+547,Mutual Fund,L&T Balanced Fund,Hybrid,88000,2024-01-03,96120,9.00,Medium,10.46,8333.33,1.00,14.92
+548,Mutual Fund,IDFC Balanced Advantage Fund,Hybrid,92000,2024-02-08,100280,9.00,Low,11.34,8333.33,0.88,15.64
+549,Mutual Fund,HSBC Balanced Fund,Hybrid,98000,2024-03-13,107800,10.00,Medium,12.76,8333.33,1.05,16.66
+550,Mutual Fund,Invesco India Balanced Fund,Hybrid,93000,2024-04-18,100530,8.00,Low,11.45,8333.33,0.92,15.82
+551,Mutual Fund,Parag Parikh Dynamic Asset Allocation,Hybrid,100000,2024-05-23,110000,10.00,Low,13.20,8333.33,0.90,17.0
+552,Mutual Fund,WhiteOak Capital Hybrid Fund,Hybrid,85000,2024-06-28,93500,10.00,Medium,9.90,8333.33,1.15,14.45
+553,Mutual Fund,Samco Hybrid Fund,Hybrid,80000,2024-07-03,88000,10.00,Medium,8.80,8333.33,1.20,13.6
+554,Mutual Fund,ITI Hybrid Fund,Hybrid,95000,2024-08-08,103550,9.00,Medium,11.99,8333.33,1.10,16.15
+555,Mutual Fund,Helios Hybrid Fund,Hybrid,90000,2024-09-13,97200,8.00,Low,10.80,8333.33,0.95,15.3
+556,Mutual Fund,Bajaj Finserv Flexi Cap Fund,Flexi Cap,105000,2024-10-18,120750,15.00,Medium,149.50,806.02,1.25,17.85
+557,Mutual Fund,UTI Flexi Cap Fund,Flexi Cap,100000,2024-11-23,115000,15.00,Medium,138.00,833.33,1.20,17.0
+558,Mutual Fund,Motilal Oswal Flexi Cap Fund,Flexi Cap,95000,2024-12-28,109250,15.00,Medium,126.50,833.33,1.22,16.15
+559,Mutual Fund,ICICI Prudential Flexi Cap Fund,Flexi Cap,110000,2025-01-02,126500,15.00,Medium,161.00,833.33,1.18,18.7
+560,Mutual Fund,SBI Flexi Cap Fund,Flexi Cap,115000,2025-02-07,132250,15.00,Medium,172.50,833.33,1.15,19.55
+561,Mutual Fund,HDFC Flexi Cap Fund,Flexi Cap,120000,2025-03-12,138000,15.00,Medium,184.00,833.33,1.20,20.4
+562,Mutual Fund,Axis Flexi Cap Fund,Flexi Cap,105000,2025-04-17,120750,15.00,Medium,149.50,833.33,1.18,17.85
+563,Mutual Fund,Kotak Flexi Cap Fund,Flexi Cap,100000,2025-05-22,115000,15.00,Medium,138.00,833.33,1.15,17.0
+564,Mutual Fund,Nippon India Flexi Cap Fund,Flexi Cap,95000,2025-06-27,109250,15.00,Medium,126.50,833.33,1.22,16.15
+565,Mutual Fund,Tata Flexi Cap Fund,Flexi Cap,90000,2025-07-02,103500,15.00,Medium,115.00,833.33,1.20,15.3
+566,Mutual Fund,Bandhan Flexi Cap Fund,Flexi Cap,85000,2025-08-07,97750,15.00,Medium,103.50,833.33,1.25,14.45
+567,Mutual Fund,PGIM India Flexi Cap Fund,Flexi Cap,110000,2025-09-12,126500,15.00,Medium,161.00,833.33,1.18,18.7
+568,Mutual Fund,Invesco India Flexi Cap Fund,Flexi Cap,105000,2025-10-17,120750,15.00,Medium,149.50,833.33,1.20,17.85
+569,Mutual Fund,Edelweiss Flexi Cap Fund,Flexi Cap,100000,2025-11-22,115000,15.00,Medium,138.00,833.33,1.22,17.0
+570,Mutual Fund,HSBC Flexi Cap Fund,Flexi Cap,95000,2025-12-27,109250,15.00,Medium,126.50,833.33,1.15,16.15
+571,Mutual Fund,Union Flexi Cap Fund,Flexi Cap,90000,2026-01-01,103500,15.00,Medium,115.00,833.33,1.18,15.3
+572,Mutual Fund,Quant Flexi Cap Fund,Flexi Cap,88000,2026-02-06,101200,15.00,High,110.40,833.33,1.80,14.92
+573,Mutual Fund,Mirae Asset Large & Midcap Fund,Multicap,110000,2023-03-15,127600,16.00,Medium,162.40,785.71,1.15,18.7
+574,Mutual Fund,ICICI Prudential Multicap Fund,Multicap,105000,2023-04-20,121800,16.00,Medium,150.80,785.71,1.12,17.85
+575,Mutual Fund,SBI Multicap Fund,Multicap,100000,2023-05-25,116000,16.00,Medium,139.20,785.71,1.10,17.0
+576,Mutual Fund,HDFC Multicap Fund,Multicap,115000,2023-06-30,133400,16.00,Medium,174.00,785.71,1.18,19.55
+577,Mutual Fund,Axis Multicap Fund,Multicap,95000,2023-07-05,110200,16.00,Medium,127.60,785.71,1.15,16.15
+578,Mutual Fund,Kotak Multicap Fund,Multicap,90000,2023-08-10,104400,16.00,Medium,116.00,785.71,1.12,15.3
+579,Mutual Fund,Nippon India Multicap Fund,Multicap,98000,2023-09-15,113680,16.00,Medium,134.56,785.71,1.20,16.66
+580,Mutual Fund,Tata Multicap Fund,Multicap,88000,2023-10-20,102080,16.00,Medium,111.36,785.71,1.15,14.92
+581,Mutual Fund,Bandhan Multicap Fund,Multicap,92000,2023-11-25,106720,16.00,Medium,120.64,785.71,1.18,15.64
+582,Mutual Fund,PGIM India Multicap Fund,Multicap,100000,2023-12-30,116000,16.00,Medium,139.20,785.71,1.15,17.0
+583,Mutual Fund,Invesco India Multicap Fund,Multicap,95000,2024-01-04,110200,16.00,Medium,127.60,785.71,1.20,16.15
+584,Mutual Fund,Edelweiss Multicap Fund,Multicap,85000,2024-02-09,98600,16.00,Medium,104.40,785.71,1.18,14.45
+585,Mutual Fund,HSBC Multicap Fund,Multicap,90000,2024-03-14,104400,16.00,Medium,116.00,785.71,1.15,15.3
+586,Mutual Fund,Union Multicap Fund,Multicap,93000,2024-04-19,107880,16.00,Medium,122.96,785.71,1.22,15.82
+587,Mutual Fund,Quant Multicap Fund,Multicap,98000,2024-05-24,113680,16.00,High,134.56,785.71,1.85,16.66
+588,Mutual Fund,WhiteOak Capital Multicap Fund,Multicap,100000,2024-06-29,116000,16.00,Medium,139.20,785.71,1.35,17.0
+589,Mutual Fund,Samco Multicap Fund,Multicap,95000,2024-07-04,110200,16.00,Medium,127.60,785.71,1.40,16.15
+590,Mutual Fund,ITI Multicap Fund,Multicap,88000,2024-08-09,102080,16.00,Medium,111.36,785.71,1.30,14.92
+591,Mutual Fund,Helios Multicap Fund,Multicap,92000,2024-09-14,106720,16.00,Medium,120.64,785.71,1.38,15.64
+592,Mutual Fund,Bajaj Finserv Multicap Fund,Multicap,97000,2024-10-19,112520,16.00,Medium,132.24,785.71,1.25,16.48
+593,Mutual Fund,Motilal Oswal Multicap Fund,Multicap,100000,2024-11-24,116000,16.00,Medium,139.20,785.71,1.28,17.0
+594,Mutual Fund,L&T Multicap Fund,Multicap,95000,2024-12-29,110200,16.00,Medium,127.60,785.71,1.22,16.15
+595,Mutual Fund,IDFC Multicap Fund,Multicap,90000,2025-01-03,104400,16.00,Medium,116.00,785.71,1.18,15.3
+596,Mutual Fund,Aditya Birla Sun Life Multicap Fund,Multicap,88000,2025-02-08,102080,16.00,Medium,111.36,785.71,1.15,14.92
+597,Mutual Fund,Franklin India Multicap Fund,Multicap,92000,2025-03-13,106720,16.00,Medium,120.64,785.71,1.10,15.64
+598,Mutual Fund,UTI Multicap Fund,Multicap,98000,2025-04-18,113680,16.00,Medium,134.56,785.71,1.20,16.66
+599,Mutual Fund,Baroda BNP Paribas Multicap Fund,Multicap,95000,2025-05-23,110200,16.00,Medium,127.60,785.71,1.15,16.15
+600,Mutual Fund,Bank of India Multicap Fund,Multicap,90000,2025-06-28,104400,16.00,Medium,116.00,785.71,1.18,15.3
+601,Mutual Fund,HDFC Top 100 Fund,Large Cap,80000,2023-03-16,94000,17.50,High,1850.25,43.23,1.05,13.6
+602,Mutual Fund,ICICI Prudential Bluechip Fund,Large Cap,75000,2023-04-21,86250,15.00,Medium,1245.50,60.24,1.02,12.75
+603,Stock,Reliance Industries,Blue Chip,160000,2023-05-26,188800,18.00,Medium,2580.75,62.01,0,27.2
+604,Mutual Fund,SBI Small Cap Fund,Small Cap,45000,2023-06-30,52650,17.00,High,56.80,927.82,1.75,7.65
+605,Stock,TCS,Blue Chip,110000,2023-07-05,124300,13.00,Low,3620.00,30.39,0,18.7
+606,Mutual Fund,Axis Midcap Fund,Mid Cap,60000,2023-08-10,70800,18.00,High,125.40,478.46,1.25,10.2
+607,Stock,HDFC Bank,Blue Chip,95000,2023-09-15,107350,13.00,Low,1580.50,60.12,0,16.15
+608,Mutual Fund,Mirae Asset Large Cap Fund,Large Cap,85000,2023-10-20,95200,12.00,Medium,980.20,86.70,1.03,14.45
+609,Stock,Infosys,Blue Chip,70000,2023-11-25,79100,13.00,Medium,1475.25,47.46,0,11.9
+610,Mutual Fund,Kotak Emerging Equity Fund,Mid Cap,50000,2023-12-30,59000,18.00,High,82.15,608.69,1.45,8.5
+611,Mutual Fund,UTI Nifty 50 Index Fund,Index Fund,90000,2024-01-04,102600,14.00,Low,210.50,427.56,0.50,15.3
+612,Stock,Bharti Airtel,Blue Chip,80000,2024-02-09,89600,12.00,Medium,1120.00,80.00,0,13.6
+613,Mutual Fund,Parag Parikh Flexi Cap Fund,Flexi Cap,100000,2024-03-15,114000,14.00,Medium,532.50,214.24,1.10,17.0
+614,Stock,ITC,Blue Chip,75000,2024-04-20,84750,13.00,Low,450.25,188.12,0,12.75
+615,Mutual Fund,Tata Digital India Fund,Sectoral,70000,2024-05-25,78400,12.00,High,48.90,1431.49,1.80,11.9
+616,Stock,HCL Tech,Blue Chip,85000,2024-06-30,96900,14.00,Medium,1254.00,67.78,0,14.45
+617,Mutual Fund,PGIM India Midcap Opportunities,Mid Cap,55000,2024-07-05,64900,18.00,High,68.20,806.45,1.50,9.35
+618,Stock,Larsen & Toubro,Blue Chip,115000,2024-08-10,132250,15.00,Medium,3210.50,35.79,0,19.55
+619,Mutual Fund,Bandhan Small Cap Fund,Small Cap,40000,2024-09-15,47200,18.00,High,42.80,1102.80,1.95,6.8
+620,Stock,Maruti Suzuki,Blue Chip,90000,2024-10-20,103500,15.00,Medium,10350.00,10.02,0,15.3
+621,Mutual Fund,Nippon India Small Cap Fund,Small Cap,47000,2024-11-25,54990,17.00,High,52.15,907.19,1.85,7.99
+622,Stock,Wipro,Blue Chip,45000,2024-12-30,50400,12.00,Medium,448.00,100.45,0,7.65
+623,Mutual Fund,SBI Magnum Multicap Fund,Multicap,65000,2025-01-04,75400,16.00,Medium,185.60,431.25,1.15,11.05
+624,Stock,Axis Bank,Blue Chip,60000,2025-02-09,69000,15.00,Medium,1070.00,56.07,0,10.2
+625,Mutual Fund,Franklin India Prima Fund,Mid Cap,55000,2025-03-16,64350,17.00,High,72.80,783.05,1.30,9.35
+626,Stock,Mahindra & Mahindra,Blue Chip,85000,2025-04-21,97750,15.00,Medium,1765.00,47.73,0,14.45
+627,Mutual Fund,Aditya Birla Sun Life Frontline Equity,Large Cap,95000,2025-05-26,107350,13.00,Medium,587.80,161.52,1.00,16.15
+628,Stock,Sun Pharma,Blue Chip,100000,2025-06-30,116000,16.00,Medium,1624.00,61.58,0,17.0
+629,Mutual Fund,IDFC Core Equity Fund,Large Cap,82000,2025-07-05,93480,14.00,Medium,118.56,788.89,1.08,13.92
+630,Stock,Bajaj Finance,Blue Chip,75000,2025-08-10,87000,16.00,High,7830.00,11.12,0,12.75
+631,Mutual Fund,Tata Equity P/E Fund,Value Fund,64000,2025-09-15,72960,14.00,Medium,152.00,421.05,1.12,10.88
+632,Stock,Asian Paints,Blue Chip,60000,2025-10-20,66600,11.00,Low,2812.00,21.33,0,10.2
+633,Mutual Fund,Quant Small Cap Fund,Small Cap,50000,2025-11-25,58000,17.00,High,38.20,1518.33,2.10,8.5
+634,Stock,Nestle India,Blue Chip,80000,2025-12-30,87200,9.00,Low,27250.00,2.94,0,13.6
+635,Mutual Fund,Canara Robeco Equity Diversified,Multicap,69000,2026-01-04,79940,16.00,Medium,83.20,876.20,1.18,11.73
+636,Stock,Hindustan Unilever,Blue Chip,90000,2026-02-09,96300,7.00,Low,2414.00,37.28,0,15.3
+637,Mutual Fund,Union Small Cap Fund,Small Cap,53000,2026-03-16,62010,17.00,High,45.20,1372.79,1.90,9.02
+638,Stock,Dr Reddy's Labs,Blue Chip,65000,2026-04-21,73450,13.00,Medium,5521.00,11.77,0,11.05
+639,Mutual Fund,Sundaram Midcap Fund,Mid Cap,76000,2026-05-26,88160,16.00,High,76.80,1147.92,1.35,12.92
+640,Stock,Titan Company,Blue Chip,70000,2026-06-30,79800,14.00,Medium,3192.00,21.93,0,11.9
+641,Mutual Fund,Invesco India Growth Fund,Mid Cap,64000,2026-07-05,74240,16.00,Medium,112.00,662.86,1.22,10.88
+642,Stock,Bajaj Auto,Blue Chip,78000,2026-08-10,87360,12.00,Low,7463.00,10.46,0,13.24
+643,Mutual Fund,Edelweiss Large Cap Fund,Large Cap,88000,2026-09-15,99120,12.60,Medium,326.60,269.50,1.06,14.92
+644,Stock,Divi's Labs,Blue Chip,82000,2026-10-20,92660,13.00,Medium,4896.67,16.76,0,13.92
+645,Mutual Fund,PPFAS Flexi Cap Fund,Flexi Cap,92000,2026-11-25,104800,14.00,Medium,706.80,130.13,1.15,15.64
+646,Stock,ICICI Bank,Blue Chip,85000,2026-12-30,96050,13.00,Low,1243.00,68.38,0,14.45
+647,Mutual Fund,HSBC Large Cap Fund,Large Cap,78000,2023-03-17,88140,13.00,Medium,271.20,287.67,1.04,13.24
+648,Stock,State Bank of India,Blue Chip,90000,2023-04-22,103500,15.00,Medium,690.00,130.43,0,15.3
+649,Mutual Fund,Kotak Bluechip Fund,Large Cap,83000,2023-05-27,94790,14.20,Medium,242.36,342.67,1.01,14.10
+650,Stock,Godrej Consumer Products,Blue Chip,68000,2023-06-01,76840,12.90,Low,1148.50,59.16,0,11.56
+651,Mutual Fund,Bank of India Large Cap Fund,Large Cap,75000,2023-07-06,85500,14.00,Medium,342.00,219.30,1.07,12.75
+652,Stock,Britannia Industries,Blue Chip,72000,2023-08-11,82800,15.00,Low,4830.00,14.91,0,12.24
+653,Mutual Fund,L&T Emerging Businesses Fund,Mid Cap,66000,2023-09-16,77880,18.00,High,64.80,1205.56,1.55,11.22
+654,Stock,Grasim Industries,Blue Chip,80000,2023-10-21,92000,15.00,Medium,1916.67,41.74,0,13.6
+655,Mutual Fund,Baroda BNP Paribas Large Cap Fund,Large Cap,82000,2023-11-26,93240,13.20,Medium,294.40,278.53,1.03,13.92
+656,Stock,UPL,Blue Chip,58000,2023-12-01,66120,14.00,Medium,398.00,145.73,0,9.86
+657,Mutual Fund,IIFL Focused Equity Fund,Focused Fund,70000,2024-01-06,79800,14.00,Medium,456.00,153.51,1.28,11.9
+658,Stock,Zomato,Mid Cap,55000,2024-02-11,66000,20.00,High,150.00,366.67,0,9.35
+659,Mutual Fund,Samco Active Equity Fund,Focused Fund,65000,2024-03-16,74750,15.00,Medium,80.50,807.45,1.75,11.05
+660,Stock,Nykaa,Mid Cap,50000,2024-04-21,59500,19.00,High,130.90,382.74,0,8.5
+661,Mutual Fund,WhiteOak Capital Midcap Fund,Mid Cap,68000,2024-05-26,80240,18.00,High,62.70,1083.57,1.48,11.56
+662,Stock,Paytm,Mid Cap,45000,2024-06-01,49500,10.00,High,396.00,113.64,0,7.65
+663,Mutual Fund,ITI Midcap Fund,Mid Cap,62000,2024-07-06,73160,18.00,High,47.20,1316.10,1.52,10.54
+664,Stock,Dreamfolks Services,Small Cap,40000,2024-08-11,47200,18.00,High,295.00,160.00,0,6.8
+665,Mutual Fund,Helios Midcap Fund,Mid Cap,70000,2024-09-16,82600,18.00,High,78.67,889.58,1.42,11.9
+666,Stock,Nuvo,Small Cap,38000,2024-10-21,44460,17.00,High,234.00,162.39,0,6.46
+667,Mutual Fund,Motilal Oswal Midcap Fund,Mid Cap,66000,2024-11-26,77880,18.00,High,60.69,1090.60,1.50,11.22
+668,Stock,Tata Elxsi,Mid Cap,58000,2024-12-01,66700,15.00,Medium,805.00,72.05,0,9.86
+669,Mutual Fund,HSBC Midcap Fund,Mid Cap,72000,2025-01-06,84960,18.00,High,103.25,697.11,1.38,12.24
+670,Stock,Persistent Systems,Mid Cap,62000,2025-02-11,71920,16.00,Medium,698.67,88.79,0,10.54
+671,Mutual Fund,Nippon India Growth Fund,Mid Cap,68000,2025-03-16,78540,15.30,Medium,87.56,776.13,1.25,11.56
+672,Stock,L&T Technology Services,Mid Cap,56000,2025-04-21,64400,15.00,Medium,427.14,131.13,0,9.52
+673,Mutual Fund,ICICI Prudential Midcap Fund,Mid Cap,75000,2025-05-26,87250,17.00,High,75.21,997.69,1.32,12.75
+674,Stock,Happiest Minds,Mid Cap,50000,2025-06-01,58500,17.00,Medium,780.00,64.10,0,8.5
+675,Mutual Fund,Kotak Emerging Equity Fund,Mid Cap,70000,2025-07-06,81900,17.00,High,78.00,897.44,1.40,11.9
+676,Stock,Mphasis,Mid Cap,60000,2025-08-11,69000,15.00,Medium,2300.00,26.09,0,10.2
+677,Mutual Fund,Axis Midcap Fund,Mid Cap,78000,2025-09-16,91260,17.00,High,112.32,694.87,1.25,13.24
+678,Stock,Coforge,Mid Cap,65000,2025-10-21,74750,15.00,Medium,1610.00,40.37,0,11.05
+679,Mutual Fund,HDFC Mid-Cap Opportunities,Mid Cap,82000,2025-11-26,95940,17.00,High,169.00,485.38,1.30,13.92
+680,Stock,LTIMindtree,Mid Cap,75000,2025-12-01,86250,15.00,Medium,5175.00,14.49,0,12.75
+681,Mutual Fund,PGIM India Midcap Fund,Mid Cap,68000,2026-01-06,79560,17.00,High,111.15,612.03,1.48,11.56
+682,Stock,Tata Technologies,Mid Cap,58000,2026-02-11,66700,15.00,Medium,805.00,72.05,0,9.86
+683,Mutual Fund,Mirae Asset Midcap Fund,Mid Cap,72000,2026-03-16,84030,16.50,High,91.75,784.84,1.35,12.24
+684,Stock,Sensex ETF,ETF,160000,2026-04-21,184000,15.00,Low,575.00,320.00,0.15,27.2
+685,Mutual Fund,Nifty 50 ETF,ETF,140000,2023-03-18,159600,14.00,Low,228.00,614.04,0.10,23.8
+686,Stock,Bank Nifty ETF,ETF,135000,2023-04-23,155250,15.00,Medium,1725.00,78.26,0.20,22.95
+687,Mutual Fund,Gold ETF,ETF,110000,2023-05-28,123200,12.00,Low,280.00,440.00,0.25,18.7
+688,Stock,IT Index ETF,ETF,120000,2023-06-02,136800,14.00,Medium,228.00,600.00,0.15,20.4
+689,Mutual Fund,PSU Bank ETF,ETF,100000,2023-07-07,112000,12.00,Medium,89.60,1250.00,0.18,17.0
+690,Stock,Infra ETF,ETF,115000,2023-08-12,132250,15.00,Medium,211.67,619.05,0.16,19.55
+691,Mutual Fund,Consumption ETF,ETF,105000,2023-09-17,119700,14.00,Low,256.50,409.13,0.12,17.85
+692,Stock,Pharma ETF,ETF,95000,2023-10-22,108300,14.00,Medium,133.00,814.29,0.15,16.15
+693,Mutual Fund,Auto ETF,ETF,100000,2023-11-27,114000,14.00,Medium,114.00,1000.00,0.17,17.0
+694,Stock,Midcap ETF,ETF,110000,2023-12-02,126500,15.00,Medium,287.50,458.69,0.18,18.7
+695,Mutual Fund,Smallcap ETF,ETF,90000,2024-01-07,103500,15.00,High,172.50,600.00,0.22,15.3
+696,Stock,Value ETF,ETF,105000,2024-02-12,119700,14.00,Medium,171.00,700.00,0.16,17.85
+697,Mutual Fund,Dividend Yield ETF,ETF,100000,2024-03-17,113000,13.00,Low,151.33,660.71,0.14,17.0
+698,Stock,Quality ETF,ETF,115000,2024-04-22,131100,14.00,Low,209.00,627.27,0.13,19.55
+699,Mutual Fund,Low Volatility ETF,ETF,108000,2024-05-27,120960,12.00,Low,179.20,716.67,0.12,18.32
+700,Stock,Momentum ETF,ETF,102000,2024-06-02,117300,15.00,High,161.00,728.57,0.20,17.32
+701,Mutual Fund,Debt Fund - Dynamic Bond,Debt,160000,2023-03-19,171200,7.00,Low,21.40,8000.00,0.50,27.2
+702,Mutual Fund,Debt Fund - Corporate Bond,Debt,140000,2023-04-24,148400,6.00,Low,21.20,7000.00,0.45,23.8
+703,Mutual Fund,Debt Fund - Government Securities,Debt,135000,2023-05-29,143100,6.00,Low,26.50,5400.00,0.35,22.95
+704,Mutual Fund,Debt Fund - Short Duration,Debt,120000,2023-06-03,126000,5.00,Low,10.50,12000.00,0.40,20.4
+705,Mutual Fund,Debt Fund - Money Market,Debt,110000,2023-07-08,115500,5.00,Low,10.50,11000.00,0.30,18.7
+706,Mutual Fund,Debt Fund - Liquid Fund,Debt,220000,2023-08-13,228800,4.00,Low,10.40,22000.00,0.20,37.4
+707,Mutual Fund,Debt Fund - Ultra Short Duration,Debt,130000,2023-09-18,136500,5.00,Low,14.70,9285.71,0.35,22.1
+708,Mutual Fund,Debt Fund - Credit Risk,Debt,115000,2023-10-23,123050,7.00,Medium,11.77,10446.00,0.85,19.55
+709,Mutual Fund,Debt Fund - Banking & PSU,Debt,125000,2023-11-28,131250,5.00,Low,13.65,10055.64,0.40,21.25
+710,Mutual Fund,Debt Fund - Gilt Fund,Debt,105000,2023-12-03,110250,5.00,Low,15.75,6587.30,0.30,17.85
+711,Mutual Fund,Hybrid Fund - Equity Savings,Hybrid,120000,2024-01-08,133200,11.00,Low,11.10,12000.00,0.80,20.4
+712,Mutual Fund,Hybrid Fund - Conservative Hybrid,Hybrid,130000,2024-02-13,140400,8.00,Low,12.60,11396.83,0.75,22.1
+713,Mutual Fund,Hybrid Fund - Balanced Hybrid,Hybrid,140000,2024-03-18,156800,12.00,Medium,14.93,10464.83,1.10,23.8
+714,Mutual Fund,Hybrid Fund - Aggressive Hybrid,Hybrid,150000,2024-04-23,171000,14.00,Medium,17.10,9996.50,1.15,25.5
+715,Mutual Fund,Hybrid Fund - Dynamic Asset Allocation,Hybrid,125000,2024-05-28,137500,10.00,Low,14.30,9720.28,0.90,21.25
+716,Mutual Fund,Hybrid Fund - Multi Asset Allocation,Hybrid,115000,2024-06-03,126500,10.00,Low,12.10,10454.55,0.95,19.55
+717,Mutual Fund,HDFC Children's Gift Fund,Children's Fund,110000,2024-07-08,126500,15.00,Medium,191.67,667.92,1.20,18.7
+718,Mutual Fund,ICICI Prudential Child Care Fund,Children's Fund,105000,2024-08-13,120750,15.00,Medium,172.50,700.00,1.18,17.85
+719,Mutual Fund,SBI Children's Future Fund,Children's Fund,115000,2024-09-18,132250,15.00,Medium,211.67,676.57,1.15,19.55
+720,Mutual Fund,Axis Children's Gift Fund,Children's Fund,120000,2024-10-23,138000,15.00,Medium,230.00,600.00,1.22,20.4
+721,Mutual Fund,Kotak Assured Income,Retirement Fund,160000,2024-11-28,172800,8.00,Low,10.80,16000.00,0.80,27.2
+722,Mutual Fund,HDFC Retirement Savings Fund,Retirement Fund,180000,2024-12-03,196200,9.00,Low,13.08,18000.00,0.85,30.6
+723,Mutual Fund,ICICI Prudential Retirement Fund,Retirement Fund,140000,2025-01-08,152600,9.00,Low,10.90,14000.00,0.82,23.8
+724,Mutual Fund,SBI Retirement Fund,Retirement Fund,150000,2025-02-13,163500,9.00,Low,10.90,15000.00,0.80,25.5
+725,Mutual Fund,Axis Retirement Fund,Retirement Fund,130000,2025-03-18,141700,9.00,Low,10.90,13000.00,0.78,22.1
+726,Mutual Fund,Tata Digital India Fund,Sectoral - Technology,110000,2025-04-23,126500,15.00,High,48.90,2249.49,1.80,18.7
+727,Mutual Fund,SBI Technology Opportunities Fund,Sectoral - Technology,105000,2025-05-28,121800,16.00,High,52.20,2333.33,1.75,17.85
+728,Mutual Fund,ICICI Prudential Technology Fund,Sectoral - Technology,115000,2025-06-03,133400,16.00,High,53.19,2505.36,1.78,19.55
+729,Mutual Fund,Kotak Technology Fund,Sectoral - Technology,100000,2025-07-08,115000,15.00,High,46.00,2500.00,1.72,17.0
+730,Mutual Fund,UTI Nifty 50 Value 20 Index Fund,Index Fund,125000,2025-08-13,143750,15.00,Low,14.95,9699.00,0.50,21.25
+731,Mutual Fund,Bandhan Nifty 50 Index Fund,Index Fund,120000,2025-09-18,136800,14.00,Low,13.68,8771.93,0.48,20.4
+732,Mutual Fund,Motilal Oswal Nifty 50 Index Fund,Index Fund,130000,2025-10-23,148200,14.00,Low,15.96,8771.93,0.52,22.1
+733,Mutual Fund,Axis Nifty 50 Index Fund,Index Fund,115000,2025-11-28,131100,14.00,Low,12.54,10454.55,0.45,19.55
+734,Mutual Fund,ICICI Prudential Nifty 50 Index Fund,Index Fund,140000,2025-12-03,159600,14.00,Low,18.24,8750.00,0.50,23.8
+735,Mutual Fund,Nippon India Nifty 50 Index Fund,Index Fund,135000,2026-01-08,153900,14.00,Low,17.10,9000.00,0.48,22.95
+736,Mutual Fund,Quant Absolute Return Fund,Hybrid,110000,2026-02-13,126500,15.00,Medium,57.50,2200.00,1.50,18.7
+737,Mutual Fund,Kotak Equity Hybrid Fund,Hybrid,120000,2023-03-20,136800,14.00,Medium,13.68,10000.00,1.12,20.4
+738,Mutual Fund,HDFC Balanced Advantage Fund,Hybrid,130000,2023-04-25,146900,13.00,Low,15.82,8927.94,0.95,22.1
+739,Mutual Fund,ICICI Prudential Balanced Advantage,Hybrid,140000,2023-05-30,158200,13.00,Low,18.08,9333.33,0.92,23.8
+740,Mutual Fund,SBI Balanced Fund,Hybrid,125000,2023-06-04,140000,12.00,Medium,14.56,10000.00,1.15,21.25
+741,Mutual Fund,Axis Balanced Fund,Hybrid,115000,2023-07-09,126500,11.00,Medium,12.21,10000.00,1.10,19.55
+742,Mutual Fund,PGIM India Balanced Advantage,Hybrid,120000,2023-08-14,134400,12.00,Low,13.44,10000.00,0.98,20.4
+743,Mutual Fund,Tata Balanced Fund,Hybrid,110000,2023-09-19,123200,12.00,Medium,11.20,10000.00,1.08,18.7
+744,Mutual Fund,UTI Balanced Fund,Hybrid,105000,2023-10-24,115500,10.00,Medium,9.90,10000.00,1.05,17.85
+745,Mutual Fund,Aditya Birla Sun Life Balanced 95,Hybrid,115000,2023-11-29,126500,10.00,Medium,12.10,10000.00,1.02,19.55
+746,Mutual Fund,Franklin India Balanced Fund,Hybrid,100000,2023-12-04,108000,8.00,Low,8.64,10000.00,0.95,17.0
+747,Mutual Fund,L&T Balanced Fund,Hybrid,108000,2024-01-09,117720,9.00,Medium,10.46,10000.00,1.00,18.32
+748,Mutual Fund,IDFC Balanced Advantage Fund,Hybrid,112000,2024-02-14,122080,9.00,Low,11.34,10000.00,0.88,19.0
+749,Mutual Fund,HSBC Balanced Fund,Hybrid,118000,2024-03-19,129800,10.00,Medium,12.76,10000.00,1.05,20.06
+750,Mutual Fund,Invesco India Balanced Fund,Hybrid,113000,2024-04-24,122070,8.00,Low,11.45,10000.00,0.92,19.18
+751,Mutual Fund,Parag Parikh Dynamic Asset Allocation,Hybrid,120000,2024-05-29,132000,10.00,Low,13.20,10000.00,0.90,20.4
+752,Mutual Fund,WhiteOak Capital Hybrid Fund,Hybrid,105000,2024-06-04,115500,10.00,Medium,9.90,10000.00,1.15,17.85
+753,Mutual Fund,Samco Hybrid Fund,Hybrid,100000,2024-07-09,110000,10.00,Medium,8.80,10000.00,1.20,17.0
+754,Mutual Fund,ITI Hybrid Fund,Hybrid,115000,2024-08-14,125350,9.00,Medium,11.99,10000.00,1.10,19.55
+755,Mutual Fund,Helios Hybrid Fund,Hybrid,110000,2024-09-19,118800,8.00,Low,10.80,10000.00,0.95,18.7
+756,Mutual Fund,Bajaj Finserv Flexi Cap Fund,Flexi Cap,125000,2024-10-24,143750,15.00,Medium,149.50,957.86,1.25,21.25
+757,Mutual Fund,UTI Flexi Cap Fund,Flexi Cap,120000,2024-11-29,138000,15.00,Medium,138.00,1000.00,1.20,20.4
+758,Mutual Fund,Motilal Oswal Flexi Cap Fund,Flexi Cap,115000,2024-12-04,132250,15.00,Medium,126.50,1000.00,1.22,19.55
+759,Mutual Fund,ICICI Prudential Flexi Cap Fund,Flexi Cap,130000,2025-01-09,149500,15.00,Medium,161.00,1000.00,1.18,22.1
+760,Mutual Fund,SBI Flexi Cap Fund,Flexi Cap,135000,2025-02-14,155250,15.00,Medium,172.50,1000.00,1.15,22.95
+761,Mutual Fund,HDFC Flexi Cap Fund,Flexi Cap,140000,2025-03-19,161000,15.00,Medium,184.00,1000.00,1.20,23.8
+762,Mutual Fund,Axis Flexi Cap Fund,Flexi Cap,125000,2025-04-24,143750,15.00,Medium,149.50,1000.00,1.18,21.25
+763,Mutual Fund,Kotak Flexi Cap Fund,Flexi Cap,120000,2025-05-29,138000,15.00,Medium,138.00,1000.00,1.15,20.4
+764,Mutual Fund,Nippon India Flexi Cap Fund,Flexi Cap,115000,2025-06-04,132250,15.00,Medium,126.50,1000.00,1.22,19.55
+765,Mutual Fund,Tata Flexi Cap Fund,Flexi Cap,110000,2025-07-09,126500,15.00,Medium,115.00,1000.00,1.20,18.7
+766,Mutual Fund,Bandhan Flexi Cap Fund,Flexi Cap,105000,2025-08-14,120750,15.00,Medium,103.50,1000.00,1.25,17.85
+767,Mutual Fund,PGIM India Flexi Cap Fund,Flexi Cap,130000,2025-09-19,149500,15.00,Medium,161.00,1000.00,1.18,22.1
+768,Mutual Fund,Invesco India Flexi Cap Fund,Flexi Cap,125000,2025-10-24,143750,15.00,Medium,149.50,1000.00,1.20,21.25
+769,Mutual Fund,Edelweiss Flexi Cap Fund,Flexi Cap,120000,2025-11-29,138000,15.00,Medium,138.00,1000.00,1.22,20.4
+770,Mutual Fund,HSBC Flexi Cap Fund,Flexi Cap,115000,2025-12-04,132250,15.00,Medium,126.50,1000.00,1.15,19.55
+771,Mutual Fund,Union Flexi Cap Fund,Flexi Cap,110000,2026-01-09,126500,15.00,Medium,115.00,1000.00,1.18,18.7
+772,Mutual Fund,Quant Flexi Cap Fund,Flexi Cap,108000,2026-02-14,124200,15.00,High,110.40,1000.00,1.80,18.32
+773,Mutual Fund,Mirae Asset Large & Midcap Fund,Multicap,130000,2023-03-21,150800,16.00,Medium,162.40,928.57,1.15,22.1
+774,Mutual Fund,ICICI Prudential Multicap Fund,Multicap,125000,2023-04-26,145000,16.00,Medium,150.80,928.57,1.12,21.25
+775,Mutual Fund,SBI Multicap Fund,Multicap,120000,2023-05-31,139200,16.00,Medium,139.20,928.57,1.10,20.4
+776,Mutual Fund,HDFC Multicap Fund,Multicap,135000,2023-06-05,156600,16.00,Medium,174.00,928.57,1.18,22.95
+777,Mutual Fund,Axis Multicap Fund,Multicap,115000,2023-07-10,133400,16.00,Medium,127.60,928.57,1.15,19.55
+778,Mutual Fund,Kotak Multicap Fund,Multicap,110000,2023-08-15,127600,16.00,Medium,116.00,928.57,1.12,18.7
+779,Mutual Fund,Nippon India Multicap Fund,Multicap,118000,2023-09-20,136880,16.00,Medium,134.56,928.57,1.20,20.06
+780,Mutual Fund,Tata Multicap Fund,Multicap,108000,2023-10-25,125280,16.00,Medium,111.36,928.57,1.15,18.32
+781,Mutual Fund,Bandhan Multicap Fund,Multicap,112000,2023-11-30,129920,16.00,Medium,120.64,928.57,1.18,19.0
+782,Mutual Fund,PGIM India Multicap Fund,Multicap,120000,2023-12-05,139200,16.00,Medium,139.20,928.57,1.15,20.4
+783,Mutual Fund,Invesco India Multicap Fund,Multicap,115000,2024-01-10,133400,16.00,Medium,127.60,928.57,1.20,19.55
+784,Mutual Fund,Edelweiss Multicap Fund,Multicap,105000,2024-02-15,121800,16.00,Medium,104.40,928.57,1.18,17.85
+785,Mutual Fund,HSBC Multicap Fund,Multicap,110000,2024-03-20,127600,16.00,Medium,116.00,928.57,1.15,18.7
+786,Mutual Fund,Union Multicap Fund,Multicap,113000,2024-04-25,131080,16.00,Medium,122.96,928.57,1.22,19.18
+787,Mutual Fund,Quant Multicap Fund,Multicap,118000,2024-05-30,136880,16.00,High,134.56,928.57,1.85,20.06
+788,Mutual Fund,WhiteOak Capital Multicap Fund,Multicap,120000,2024-06-04,139200,16.00,Medium,139.20,928.57,1.35,20.4
+789,Mutual Fund,Samco Multicap Fund,Multicap,115000,2024-07-09,133400,16.00,Medium,127.60,928.57,1.40,19.55
+790,Mutual Fund,ITI Multicap Fund,Multicap,108000,2024-08-14,125280,16.00,Medium,111.36,928.57,1.30,18.32
+791,Mutual Fund,Helios Multicap Fund,Multicap,112000,2024-09-19,129920,16.00,Medium,120.64,928.57,1.38,19.0
+792,Mutual Fund,Bajaj Finserv Multicap Fund,Multicap,117000,2024-10-30,135720,16.00,Medium,132.24,928.57,1.25,19.86
+793,Mutual Fund,Motilal Oswal Multicap Fund,Multicap,120000,2024-11-04,139200,16.00,Medium,139.20,928.57,1.28,20.4
+794,Mutual Fund,L&T Multicap Fund,Multicap,115000,2024-12-09,133400,16.00,Medium,127.60,928.57,1.22,19.55
+795,Mutual Fund,IDFC Multicap Fund,Multicap,110000,2025-01-14,127600,16.00,Medium,116.00,928.57,1.18,18.7
+796,Mutual Fund,Aditya Birla Sun Life Multicap Fund,Multicap,108000,2025-02-19,125280,16.00,Medium,111.36,928.57,1.15,18.32
+797,Mutual Fund,Franklin India Multicap Fund,Multicap,112000,2025-03-26,129920,16.00,Medium,120.64,928.57,1.10,19.0
+798,Mutual Fund,UTI Multicap Fund,Multicap,118000,2025-04-30,136880,16.00,Medium,134.56,928.57,1.20,20.06
+799,Mutual Fund,Baroda BNP Paribas Multicap Fund,Multicap,115000,2025-05-05,133400,16.00,Medium,127.60,928.57,1.15,19.55
+800,Mutual Fund,Bank of India Multicap Fund,Multicap,110000,2025-06-10,127600,16.00,Medium,116.00,928.57,1.18,18.7
+801,Mutual Fund,HDFC Top 100 Fund,Large Cap,90000,2023-03-22,105750,17.50,High,1850.25,48.64,1.05,15.3
+802,Mutual Fund,ICICI Prudential Bluechip Fund,Large Cap,85000,2023-04-27,97750,15.00,Medium,1245.50,68.26,1.02,14.45
+803,Stock,Reliance Industries,Blue Chip,180000,2023-06-01,212400,18.00,Medium,2580.75,69.77,0,30.6
+804,Mutual Fund,SBI Small Cap Fund,Small Cap,50000,2023-07-06,58500,17.00,High,56.80,1031.69,1.75,8.5
+805,Stock,TCS,Blue Chip,120000,2023-08-11,135600,13.00,Low,3620.00,33.15,0,20.4
+806,Mutual Fund,Axis Midcap Fund,Mid Cap,65000,2023-09-16,76700,18.00,High,125.40,518.34,1.25,11.05
+807,Stock,HDFC Bank,Blue Chip,105000,2023-10-21,118650,13.00,Low,1580.50,66.45,0,17.85
+808,Mutual Fund,Mirae Asset Large Cap Fund,Large Cap,95000,2023-11-26,106400,12.00,Medium,980.20,96.89,1.03,16.15
+809,Stock,Infosys,Blue Chip,80000,2023-12-01,90400,13.00,Medium,1475.25,54.24,0,13.6
+810,Mutual Fund,Kotak Emerging Equity Fund,Mid Cap,55000,2024-01-06,64900,18.00,High,82.15,669.62,1.45,9.35
+811,Mutual Fund,UTI Nifty 50 Index Fund,Index Fund,100000,2024-02-11,114000,14.00,Low,210.50,475.06,0.50,17.0
+812,Stock,Bharti Airtel,Blue Chip,90000,2024-03-18,100800,12.00,Medium,1120.00,90.00,0,15.3
+813,Mutual Fund,Parag Parikh Flexi Cap Fund,Flexi Cap,110000,2024-04-23,125400,14.00,Medium,532.50,235.86,1.22,18.7
+814,Stock,ITC,Blue Chip,85000,2024-05-28,96050,13.00,Low,450.25,213.21,0,14.45
+815,Mutual Fund,Tata Digital India Fund,Sectoral,80000,2024-06-02,89600,12.00,High,48.90,1636.40,1.80,13.6
+816,Stock,HCL Tech,Blue Chip,95000,2024-07-07,108300,14.00,Medium,1254.00,75.76,0,16.15
+817,Mutual Fund,PGIM India Midcap Opportunities,Mid Cap,60000,2024-08-12,70800,18.00,High,68.20,879.77,1.50,10.2
+818,Stock,Larsen & Toubro,Blue Chip,125000,2024-09-17,143750,15.00,Medium,3210.50,38.90,0,21.25
+819,Mutual Fund,Bandhan Small Cap Fund,Small Cap,45000,2024-10-22,53100,18.00,High,42.80,1241.12,1.95,7.65
+820,Stock,Maruti Suzuki,Blue Chip,100000,2024-11-27,115000,15.00,Medium,10350.00,11.11,0,17.0
+821,Mutual Fund,Nippon India Small Cap Fund,Small Cap,52000,2024-12-02,60840,17.00,High,52.15,1003.64,1.85,8.84
+822,Stock,Wipro,Blue Chip,50000,2025-01-07,56000,12.00,Medium,448.00,111.61,0,8.5
+823,Mutual Fund,SBI Magnum Multicap Fund,Multicap,70000,2025-02-12,81200,16.00,Medium,185.60,475.00,1.15,11.9
+824,Stock,Axis Bank,Blue Chip,65000,2025-03-19,74750,15.00,Medium,1070.00,60.75,0,11.05
+825,Mutual Fund,Franklin India Prima Fund,Mid Cap,60000,2025-04-24,70200,17.00,High,72.80,854.40,1.30,10.2
+826,Stock,Mahindra & Mahindra,Blue Chip,95000,2025-05-29,109250,15.00,Medium,1765.00,53.25,0,16.15
+827,Mutual Fund,Aditya Birla Sun Life Frontline Equity,Large Cap,105000,2025-06-03,118650,13.00,Medium,587.80,178.52,1.00,17.85
+828,Stock,Sun Pharma,Blue Chip,110000,2025-07-08,127600,16.00,Medium,1624.00,67.73,0,18.7
+829,Mutual Fund,IDFC Core Equity Fund,Large Cap,92000,2025-08-13,104880,14.00,Medium,118.56,885.19,1.08,15.64
+830,Stock,Bajaj Finance,Blue Chip,85000,2025-09-18,98600,16.00,High,7830.00,12.61,0,14.45
+831,Mutual Fund,Tata Equity P/E Fund,Value Fund,72000,2025-10-23,82080,14.00,Medium,152.00,473.68,1.12,12.24
+832,Stock,Asian Paints,Blue Chip,68000,2025-11-28,75480,11.00,Low,2812.00,24.18,0,11.56
+833,Mutual Fund,Quant Small Cap Fund,Small Cap,58000,2025-12-03,67180,17.00,High,38.20,1760.21,2.10,9.86
+834,Stock,Nestle India,Blue Chip,90000,2026-01-08,98100,9.00,Low,27250.00,3.30,0,15.3
+835,Mutual Fund,Canara Robeco Equity Diversified,Multicap,77000,2026-02-13,89180,16.00,Medium,83.20,995.67,1.18,13.08
+836,Stock,Hindustan Unilever,Blue Chip,100000,2026-03-18,107000,7.00,Low,2414.00,41.42,0,17.0
+837,Mutual Fund,Union Small Cap Fund,Small Cap,61000,2026-04-23,71370,17.00,High,45.20,1580.75,1.90,10.37
+838,Stock,Dr Reddy's Labs,Blue Chip,75000,2026-05-28,84750,13.00,Medium,5521.00,13.58,0,12.75
+839,Mutual Fund,Sundaram Midcap Fund,Mid Cap,86000,2026-06-02,99760,16.00,High,76.80,1298.96,1.35,14.62
+840,Stock,Titan Company,Blue Chip,80000,2026-07-07,91200,14.00,Medium,3192.00,25.06,0,13.6
+841,Mutual Fund,Invesco India Growth Fund,Mid Cap,74000,2026-08-12,85840,16.00,Medium,112.00,766.43,1.22,12.56
+842,Stock,Bajaj Auto,Blue Chip,88000,2026-09-17,98560,12.00,Low,7463.00,11.80,0,14.92
+843,Mutual Fund,Edelweiss Large Cap Fund,Large Cap,98000,2026-10-22,110400,12.60,Medium,326.60,300.13,1.06,16.66
+844,Stock,Divi's Labs,Blue Chip,92000,2026-11-27,103960,13.00,Medium,4896.67,18.80,0,15.64
+845,Mutual Fund,PPFAS Flexi Cap Fund,Flexi Cap,102000,2026-12-02,116280,14.00,Medium,706.80,144.25,1.15,17.32
+846,Stock,ICICI Bank,Blue Chip,95000,2023-03-23,107350,13.00,Low,1243.00,76.43,0,16.15
+847,Mutual Fund,HSBC Large Cap Fund,Large Cap,88000,2023-04-28,99440,13.00,Medium,271.20,324.75,1.04,14.92
+848,Stock,State Bank of India,Blue Chip,100000,2023-06-02,115000,15.00,Medium,690.00,144.93,0,17.0
+849,Mutual Fund,Kotak Bluechip Fund,Large Cap,93000,2023-07-07,106370,14.20,Medium,242.36,384.00,1.01,15.80
+850,Stock,Godrej Consumer Products,Blue Chip,78000,2023-08-12,88140,12.90,Low,1148.50,67.86,0,13.24
+851,Mutual Fund,Bank of India Large Cap Fund,Large Cap,85000,2023-09-17,96900,14.00,Medium,342.00,248.54,1.07,14.45
+852,Stock,Britannia Industries,Blue Chip,82000,2023-10-22,94300,15.00,Low,4830.00,16.98,0,13.92
+853,Mutual Fund,L&T Emerging Businesses Fund,Mid Cap,76000,2023-11-27,89680,18.00,High,64.80,1388.89,1.55,12.92
+854,Stock,Grasim Industries,Blue Chip,90000,2023-12-02,103500,15.00,Medium,1916.67,46.96,0,15.3
+855,Mutual Fund,Baroda BNP Paribas Large Cap Fund,Large Cap,92000,2024-01-07,104640,13.20,Medium,294.40,312.33,1.03,15.64
+856,Stock,UPL,Blue Chip,68000,2024-02-12,77520,14.00,Medium,398.00,170.86,0,11.56
+857,Mutual Fund,IIFL Focused Equity Fund,Focused Fund,80000,2024-03-18,91200,14.00,Medium,456.00,175.44,1.28,13.6
+858,Stock,Zomato,Mid Cap,65000,2024-04-23,78000,20.00,High,150.00,433.33,0,11.05
+859,Mutual Fund,Samco Active Equity Fund,Focused Fund,75000,2024-05-28,86250,15.00,Medium,80.50,931.68,1.75,12.75
+860,Stock,Nykaa,Mid Cap,60000,2024-06-03,71400,19.00,High,130.90,459.12,0,10.2
+861,Mutual Fund,WhiteOak Capital Midcap Fund,Mid Cap,78000,2024-07-08,92040,18.00,High,62.70,1242.58,1.48,13.24
+862,Stock,Paytm,Mid Cap,55000,2024-08-13,60500,10.00,High,396.00,138.89,0,9.35
+863,Mutual Fund,ITI Midcap Fund,Mid Cap,72000,2024-09-18,85320,18.00,High,47.20,1528.81,1.52,12.24
+864,Stock,Dreamfolks Services,Small Cap,50000,2024-10-23,59000,18.00,High,295.00,200.00,0,8.5
+865,Mutual Fund,Helios Midcap Fund,Mid Cap,80000,2024-11-28,94400,18.00,High,78.67,1016.67,1.42,13.6
+866,Stock,Nuvo,Small Cap,48000,2024-12-03,56160,17.00,High,234.00,205.13,0,8.16
+867,Mutual Fund,Motilal Oswal Midcap Fund,Mid Cap,76000,2025-01-08,89680,18.00,High,60.69,1258.07,1.50,12.92
+868,Stock,Tata Elxsi,Mid Cap,68000,2025-02-13,78200,15.00,Medium,805.00,84.47,0,11.56
+869,Mutual Fund,HSBC Midcap Fund,Mid Cap,82000,2025-03-19,96760,18.00,High,103.25,793.74,1.38,13.92
+870,Stock,Persistent Systems,Mid Cap,72000,2025-04-24,83520,16.00,Medium,698.67,103.12,0,12.24
+871,Mutual Fund,Nippon India Growth Fund,Mid Cap,78000,2025-05-29,90140,15.30,Medium,87.56,890.27,1.25,13.24
+872,Stock,L&T Technology Services,Mid Cap,66000,2025-06-03,75900,15.00,Medium,427.14,154.55,0,11.22
+873,Mutual Fund,ICICI Prudential Midcap Fund,Mid Cap,85000,2025-07-08,98850,17.00,High,75.21,1131.25,1.32,14.45
+874,Stock,Happiest Minds,Mid Cap,60000,2025-08-12,70200,17.00,Medium,780.00,76.92,0,10.2
+875,Mutual Fund,Kotak Emerging Equity Fund,Mid Cap,80000,2025-09-17,93600,17.00,High,78.00,1025.64,1.40,13.6
+876,Stock,Mphasis,Mid Cap,70000,2025-10-22,80500,15.00,Medium,2300.00,30.43,0,11.9
+877,Mutual Fund,Axis Midcap Fund,Mid Cap,88000,2025-11-27,102960,17.00,High,112.32,784.38,1.25,14.92
+878,Stock,Coforge,Mid Cap,75000,2025-12-02,86250,15.00,Medium,1610.00,46.58,0,12.75
+879,Mutual Fund,HDFC Mid-Cap Opportunities,Mid Cap,92000,2026-01-07,107640,17.00,High,169.00,544.49,1.30,15.64
+880,Stock,LTIMindtree,Mid Cap,85000,2026-02-12,97750,15.00,Medium,5175.00,16.42,0,14.45
+881,Mutual Fund,PGIM India Midcap Fund,Mid Cap,78000,2026-03-18,91260,17.00,High,111.15,702.03,1.48,13.24
+882,Stock,Tata Technologies,Mid Cap,68000,2026-04-23,78200,15.00,Medium,805.00,84.47,0,11.56
+883,Mutual Fund,Mirae Asset Midcap Fund,Mid Cap,82000,2026-05-28,95730,16.50,High,91.75,893.93,1.35,13.92
+884,Stock,Sensex ETF,ETF,180000,2026-06-02,207000,15.00,Low,575.00,360.00,0.15,30.6
+885,Mutual Fund,Nifty 50 ETF,ETF,160000,2023-03-24,182400,14.00,Low,228.00,701.75,0.10,27.2
+886,Stock,Bank Nifty ETF,ETF,155000,2023-04-29,178250,15.00,Medium,1725.00,89.86,0.20,26.35
+887,Mutual Fund,Gold ETF,ETF,130000,2023-06-03,145600,12.00,Low,280.00,520.00,0.25,22.1
+888,Stock,IT Index ETF,ETF,140000,2023-07-08,159600,14.00,Medium,228.00,700.00,0.15,23.8
+889,Mutual Fund,PSU Bank ETF,ETF,120000,2023-08-13,134400,12.00,Medium,89.60,1500.00,0.18,20.4
+890,Stock,Infra ETF,ETF,135000,2023-09-18,155250,15.00,Medium,211.67,726.19,0.16,22.95
+891,Mutual Fund,Consumption ETF,ETF,125000,2023-10-23,142500,14.00,Low,256.50,487.09,0.12,21.25
+892,Stock,Pharma ETF,ETF,115000,2023-11-28,131100,14.00,Medium,133.00,985.71,0.15,19.55
+893,Mutual Fund,Auto ETF,ETF,120000,2023-12-03,136800,14.00,Medium,114.00,1200.00,0.17,20.4
+894,Stock,Midcap ETF,ETF,130000,2024-01-08,149500,15.00,Medium,287.50,541.95,0.18,22.1
+895,Mutual Fund,Smallcap ETF,ETF,110000,2024-02-13,126500,15.00,High,172.50,733.33,0.22,18.7
+896,Stock,Value ETF,ETF,125000,2024-03-19,142500,14.00,Medium,171.00,833.33,0.16,21.25
+897,Mutual Fund,Dividend Yield ETF,ETF,120000,2024-04-24,135600,13.00,Low,151.33,792.86,0.14,20.4
+898,Stock,Quality ETF,ETF,135000,2024-05-29,153900,14.00,Low,209.00,736.36,0.13,22.95
+899,Mutual Fund,Low Volatility ETF,ETF,128000,2024-06-03,143360,12.00,Low,179.20,850.00,0.12,21.76
+900,Stock,Momentum ETF,ETF,122000,2024-07-08,140300,15.00,High,161.00,871.43,0.20,20.74
+901,Mutual Fund,Debt Fund - Dynamic Bond,Debt,180000,2023-03-25,192600,7.00,Low,21.40,9000.00,0.50,30.6
+902,Mutual Fund,Debt Fund - Corporate Bond,Debt,160000,2023-04-30,169600,6.00,Low,21.20,8000.00,0.45,27.2
+903,Mutual Fund,Debt Fund - Government Securities,Debt,155000,2023-06-04,164300,6.00,Low,26.50,6200.00,0.35,26.35
+904,Mutual Fund,Debt Fund - Short Duration,Debt,140000,2023-07-09,147000,5.00,Low,10.50,14000.00,0.40,23.8
+905,Mutual Fund,Debt Fund - Money Market,Debt,130000,2023-08-14,136500,5.00,Low,10.50,13000.00,0.30,22.1
+906,Mutual Fund,Debt Fund - Liquid Fund,Debt,240000,2023-09-19,249600,4.00,Low,10.40,24000.00,0.20,40.8
+907,Mutual Fund,Debt Fund - Ultra Short Duration,Debt,150000,2023-10-24,157500,5.00,Low,14.70,10714.29,0.35,25.5
+908,Mutual Fund,Debt Fund - Credit Risk,Debt,135000,2023-11-29,144450,7.00,Medium,11.77,12262.00,0.85,22.95
+909,Mutual Fund,Debt Fund - Banking & PSU,Debt,145000,2023-12-04,152250,5.00,Low,13.65,11676.82,0.40,24.65
+910,Mutual Fund,Debt Fund - Gilt Fund,Debt,125000,2024-01-09,131250,5.00,Low,15.75,7714.29,0.30,21.25
+911,Mutual Fund,Hybrid Fund - Equity Savings,Hybrid,140000,2024-02-14,155400,11.00,Low,11.10,14000.00,0.80,23.8
+912,Mutual Fund,Hybrid Fund - Conservative Hybrid,Hybrid,150000,2024-03-19,162000,8.00,Low,12.60,12381.10,0.75,25.5
+913,Mutual Fund,Hybrid Fund - Balanced Hybrid,Hybrid,160000,2024-04-24,179200,12.00,Medium,14.93,11996.95,1.10,27.2
+914,Mutual Fund,Hybrid Fund - Aggressive Hybrid,Hybrid,170000,2024-05-29,193800,14.00,Medium,17.10,11328.66,1.15,28.9
+915,Mutual Fund,Hybrid Fund - Dynamic Asset Allocation,Hybrid,145000,2024-06-03,159500,10.00,Low,14.30,11293.71,0.90,24.65
+916,Mutual Fund,Hybrid Fund - Multi Asset Allocation,Hybrid,135000,2024-07-08,148500,10.00,Low,12.10,12272.73,0.95,22.95
+917,Mutual Fund,HDFC Children's Gift Fund,Children's Fund,130000,2024-08-13,149500,15.00,Medium,191.67,789.26,1.20,22.1
+918,Mutual Fund,ICICI Prudential Child Care Fund,Children's Fund,125000,2024-09-18,143750,15.00,Medium,172.50,833.33,1.18,21.25
+919,Mutual Fund,SBI Children's Future Fund,Children's Fund,135000,2024-10-23,155250,15.00,Medium,211.67,810.29,1.15,22.95
+920,Mutual Fund,Axis Children's Gift Fund,Children's Fund,140000,2024-11-28,161000,15.00,Medium,230.00,700.00,1.22,23.8
+921,Mutual Fund,Kotak Assured Income,Retirement Fund,180000,2024-12-03,194400,8.00,Low,10.80,18000.00,0.80,30.6
+922,Mutual Fund,HDFC Retirement Savings Fund,Retirement Fund,200000,2025-01-08,218000,9.00,Low,13.08,20000.00,0.85,34.0
+923,Mutual Fund,ICICI Prudential Retirement Fund,Retirement Fund,160000,2025-02-13,174400,9.00,Low,10.90,16000.00,0.82,27.2
+924,Mutual Fund,SBI Retirement Fund,Retirement Fund,170000,2025-03-19,185300,9.00,Low,10.90,17000.00,0.80,28.9
+925,Mutual Fund,Axis Retirement Fund,Retirement Fund,150000,2025-04-24,163500,9.00,Low,10.90,15000.00,0.78,25.5
+926,Mutual Fund,Tata Digital India Fund,Sectoral - Technology,130000,2025-05-29,149500,15.00,High,48.90,2658.49,1.80,22.1
+927,Mutual Fund,SBI Technology Opportunities Fund,Sectoral - Technology,125000,2025-06-03,145000,16.00,High,52.20,2777.78,1.75,21.25
+928,Mutual Fund,ICICI Prudential Technology Fund,Sectoral - Technology,135000,2025-07-08,156600,16.00,High,53.19,2939.82,1.78,22.95
+929,Mutual Fund,Kotak Technology Fund,Sectoral - Technology,120000,2025-08-13,138000,15.00,High,46.00,3000.00,1.72,20.4
+930,Mutual Fund,UTI Nifty 50 Value 20 Index Fund,Index Fund,145000,2025-09-18,166750,15.00,Low,14.95,11257.53,0.50,24.65
+931,Mutual Fund,Bandhan Nifty 50 Index Fund,Index Fund,140000,2025-10-23,159600,14.00,Low,13.68,10833.92,0.48,23.8
+932,Mutual Fund,Motilal Oswal Nifty 50 Index Fund,Index Fund,150000,2025-11-28,171000,14.00,Low,15.96,10833.92,0.52,25.5
+933,Mutual Fund,Axis Nifty 50 Index Fund,Index Fund,135000,2025-12-03,153900,14.00,Low,12.54,12727.27,0.45,22.95
+934,Mutual Fund,ICICI Prudential Nifty 50 Index Fund,Index Fund,160000,2026-01-08,182400,14.00,Low,18.24,10000.00,0.50,27.2
+935,Mutual Fund,Nippon India Nifty 50 Index Fund,Index Fund,155000,2026-02-13,176700,14.00,Low,17.10,10333.33,0.48,26.35
+936,Mutual Fund,Quant Absolute Return Fund,Hybrid,130000,2026-03-19,149500,15.00,Medium,57.50,2600.00,1.50,22.1
+937,Mutual Fund,Kotak Equity Hybrid Fund,Hybrid,140000,2023-03-26,159600,14.00,Medium,13.68,11666.67,1.12,23.8
+938,Mutual Fund,HDFC Balanced Advantage Fund,Hybrid,150000,2023-05-01,169500,13.00,Low,15.82,10047.92,0.95,25.5
+939,Mutual Fund,ICICI Prudential Balanced Advantage,Hybrid,160000,2023-06-06,180800,13.00,Low,18.08,10666.67,0.92,27.2
+940,Mutual Fund,SBI Balanced Fund,Hybrid,145000,2023-07-11,162400,12.00,Medium,14.56,11666.67,1.15,24.65
+941,Mutual Fund,Axis Balanced Fund,Hybrid,135000,2023-08-16,148500,11.00,Medium,12.21,11666.67,1.10,22.95
+942,Mutual Fund,PGIM India Balanced Advantage,Hybrid,140000,2023-09-21,156800,12.00,Low,13.44,11666.67,0.98,23.8
+943,Mutual Fund,Tata Balanced Fund,Hybrid,130000,2023-10-26,145600,12.00,Medium,11.20,11666.67,1.08,22.1
+944,Mutual Fund,UTI Balanced Fund,Hybrid,125000,2023-11-30,137500,10.00,Medium,9.90,11666.67,1.05,21.25
+945,Mutual Fund,Aditya Birla Sun Life Balanced 95,Hybrid,135000,2023-12-05,148500,10.00,Medium,12.10,11666.67,1.02,22.95
+946,Mutual Fund,Franklin India Balanced Fund,Hybrid,120000,2024-01-10,129600,8.00,Low,8.64,11666.67,0.95,20.4
+947,Mutual Fund,L&T Balanced Fund,Hybrid,128000,2024-02-15,139320,9.00,Medium,10.46,11666.67,1.00,21.76
+948,Mutual Fund,IDFC Balanced Advantage Fund,Hybrid,132000,2024-03-20,143880,9.00,Low,11.34,11666.67,0.88,22.44
+949,Mutual Fund,HSBC Balanced Fund,Hybrid,138000,2024-04-25,151800,10.00,Medium,12.76,11666.67,1.05,23.46
+950,Mutual Fund,Invesco India Balanced Fund,Hybrid,133000,2024-05-30,143610,8.00,Low,11.45,11666.67,0.92,22.62
+951,Mutual Fund,Parag Parikh Dynamic Asset Allocation,Hybrid,140000,2024-06-04,154000,10.00,Low,13.20,11666.67,0.90,23.8
+952,Mutual Fund,WhiteOak Capital Hybrid Fund,Hybrid,125000,2024-07-09,137500,10.00,Medium,9.90,11666.67,1.15,21.25
+953,Mutual Fund,Samco Hybrid Fund,Hybrid,120000,2024-08-14,132000,10.00,Medium,8.80,11666.67,1.20,20.4
+954,Mutual Fund,ITI Hybrid Fund,Hybrid,135000,2024-09-19,147150,9.00,Medium,11.99,11666.67,1.10,22.95
+955,Mutual Fund,Helios Hybrid Fund,Hybrid,130000,2024-10-24,140400,8.00,Low,10.80,11666.67,0.95,22.1
+956,Mutual Fund,Bajaj Finserv Flexi Cap Fund,Flexi Cap,145000,2024-11-29,166750,15.00,Medium,149.50,1109.70,1.25,24.65
+957,Mutual Fund,UTI Flexi Cap Fund,Flexi Cap,140000,2024-12-04,161000,15.00,Medium,138.00,1166.67,1.20,23.8
+958,Mutual Fund,Motilal Oswal Flexi Cap Fund,Flexi Cap,135000,2025-01-09,155250,15.00,Medium,126.50,1166.67,1.22,22.95
+959,Mutual Fund,ICICI Prudential Flexi Cap Fund,Flexi Cap,150000,2025-02-14,172500,15.00,Medium,161.00,1166.67,1.18,25.5
+960,Mutual Fund,SBI Flexi Cap Fund,Flexi Cap,155000,2025-03-19,178250,15.00,Medium,172.50,1166.67,1.15,26.35
+961,Mutual Fund,HDFC Flexi Cap Fund,Flexi Cap,160000,2025-04-24,184000,15.00,Medium,184.00,1166.67,1.20,27.2
+962,Mutual Fund,Axis Flexi Cap Fund,Flexi Cap,145000,2025-05-29,166750,15.00,Medium,149.50,1166.67,1.18,24.65
+963,Mutual Fund,Kotak Flexi Cap Fund,Flexi Cap,140000,2025-06-03,161000,15.00,Medium,138.00,1166.67,1.15,23.8
+964,Mutual Fund,Nippon India Flexi Cap Fund,Flexi Cap,135000,2025-07-08,155250,15.00,Medium,126.50,1166.67,1.22,22.95
+965,Mutual Fund,Tata Flexi Cap Fund,Flexi Cap,130000,2025-08-13,149500,15.00,Medium,115.00,1166.67,1.20,22.1
+966,Mutual Fund,Bandhan Flexi Cap Fund,Flexi Cap,125000,2025-09-18,143750,15.00,Medium,103.50,1166.67,1.25,21.25
+967,Mutual Fund,PGIM India Flexi Cap Fund,Flexi Cap,150000,2025-10-23,172500,15.00,Medium,161.00,1166.67,1.18,25.5
+968,Mutual Fund,Invesco India Flexi Cap Fund,Flexi Cap,145000,2025-11-28,166750,15.00,Medium,149.50,1166.67,1.20,24.65
+969,Mutual Fund,Edelweiss Flexi Cap Fund,Flexi Cap,140000,2025-12-03,161000,15.00,Medium,138.00,1166.67,1.22,23.8
+970,Mutual Fund,HSBC Flexi Cap Fund,Flexi Cap,135000,2026-01-08,155250,15.00,Medium,126.50,1166.67,1.15,22.95
+971,Mutual Fund,Union Flexi Cap Fund,Flexi Cap,130000,2026-02-13,149500,15.00,Medium,115.00,1166.67,1.18,22.1
+972,Mutual Fund,Quant Flexi Cap Fund,Flexi Cap,128000,2026-03-19,147200,15.00,High,110.40,1166.67,1.80,21.76
+973,Mutual Fund,Mirae Asset Large & Midcap Fund,Multicap,150000,2023-03-27,174000,16.00,Medium,162.40,1071.43,1.12,25.5
+974,Mutual Fund,ICICI Prudential Multicap Fund,Multicap,145000,2023-05-02,168200,16.00,Medium,150.80,1071.43,1.12,24.65
+975,Mutual Fund,SBI Multicap Fund,Multicap,140000,2023-06-07,162400,16.00,Medium,139.20,1071.43,1.10,23.8
+976,Mutual Fund,HDFC Multicap Fund,Multicap,155000,2023-07-12,179800,16.00,Medium,174.00,1071.43,1.18,26.35
+977,Mutual Fund,Axis Multicap Fund,Multicap,135000,2023-08-17,156600,16.00,Medium,127.60,1071.43,1.15,22.95
+978,Mutual Fund,Kotak Multicap Fund,Multicap,130000,2023-09-22,150800,16.00,Medium,116.00,1071.43,1.12,22.1
+979,Mutual Fund,Nippon India Multicap Fund,Multicap,138000,2023-10-27,160080,16.00,Medium,134.56,1071.43,1.20,23.46
+980,Mutual Fund,Tata Multicap Fund,Multicap,128000,2023-11-01,148480,16.00,Medium,111.36,1071.43,1.15,21.76
+981,Mutual Fund,Bandhan Multicap Fund,Multicap,132000,2023-12-06,153120,16.00,Medium,120.64,1071.43,1.18,22.44
+982,Mutual Fund,PGIM India Multicap Fund,Multicap,140000,2024-01-11,162400,16.00,Medium,139.20,1071.43,1.15,23.8
+983,Mutual Fund,Invesco India Multicap Fund,Multicap,135000,2024-02-16,156600,16.00,Medium,127.60,1071.43,1.20,22.95
+984,Mutual Fund,Edelweiss Multicap Fund,Multicap,125000,2024-03-21,145000,16.00,Medium,104.40,1071.43,1.18,21.25
+985,Mutual Fund,HSBC Multicap Fund,Multicap,130000,2024-04-26,150800,16.00,Medium,116.00,1071.43,1.15,22.1
+986,Mutual Fund,Union Multicap Fund,Multicap,133000,2024-05-01,154280,16.00,Medium,122.96,1071.43,1.22,22.62
+987,Mutual Fund,Quant Multicap Fund,Multicap,138000,2024-06-06,160080,16.00,High,134.56,1071.43,1.85,23.46
+988,Mutual Fund,WhiteOak Capital Multicap Fund,Multicap,140000,2024-07-11,162400,16.00,Medium,139.20,1071.43,1.35,23.8
+989,Mutual Fund,Samco Multicap Fund,Multicap,135000,2024-08-16,156600,16.00,Medium,127.60,1071.43,1.40,22.95
+990,Mutual Fund,ITI Multicap Fund,Multicap,128000,2024-09-21,148480,16.00,Medium,111.36,1071.43,1.30,21.76
+991,Mutual Fund,Helios Multicap Fund,Multicap,132000,2024-10-26,153120,16.00,Medium,120.64,1071.43,1.38,22.44
+992,Mutual Fund,Bajaj Finserv Multicap Fund,Multicap,137000,2024-11-01,158920,16.00,Medium,132.24,1071.43,1.25,23.30
+993,Mutual Fund,Motilal Oswal Multicap Fund,Multicap,140000,2024-12-06,162400,16.00,Medium,139.20,1071.43,1.28,23.8
+994,Mutual Fund,L&T Multicap Fund,Multicap,135000,2025-01-11,156600,16.00,Medium,127.60,1071.43,1.22,22.95
+995,Mutual Fund,IDFC Multicap Fund,Multicap,130000,2025-02-16,150800,16.00,Medium,116.00,1071.43,1.18,22.1
+996,Mutual Fund,Aditya Birla Sun Life Multicap Fund,Multicap,128000,2025-03-21,148480,16.00,Medium,111.36,1071.43,1.15,21.76
+997,Mutual Fund,Franklin India Multicap Fund,Multicap,132000,2025-04-26,153120,16.00,Medium,120.64,1071.43,1.10,22.44
+998,Mutual Fund,UTI Multicap Fund,Multicap,138000,2025-05-01,160080,16.00,Medium,134.56,1071.43,1.20,23.46
+999,Mutual Fund,Baroda BNP Paribas Multicap Fund,Multicap,135000,2025-06-06,156600,16.00,Medium,127.60,1071.43,1.15,22.95
+1000,Mutual Fund,Bank of India Multicap Fund,Multicap,130000,2025-07-11,150800,16.00,Medium,116.00,1071.43,1.18,22.1
